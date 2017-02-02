@@ -383,6 +383,7 @@ class ComponentContribution(object):
 
         # Apply weighing
         W = np.diag(w.flat)
+        # GS is the creation and destruction of groups per reaction
         GS = G.T * S
 
         # Linear regression for the reactant layer (aka RC)

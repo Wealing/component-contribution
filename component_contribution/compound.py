@@ -234,6 +234,8 @@ class Compound(object):
             
             Returns:
                 dG'0 - dG0[0]
+
+                This equation represents eq. 4.4-10 Alberty 2003
         """
         if self.inchi is None:
             return 0
@@ -253,6 +255,7 @@ class Compound(object):
         
     def _transform(self, pH, I, T):
 
+        # I think this equation represents 4.5-1 in Alberty 2003 (perhaps 3.5-11). DH
         return -R * T * logsumexp(self._dG0_prime_vector(pH, I, T) / (-R * T))
 
     def _ddG(self, i_from, i_to, T):

@@ -15,3 +15,4 @@ output_reaction_energies('../../validation/allreacs.txt', 7,   0.1, '../examples
 output_reaction_energies('../../validation/allreacs.txt', 7,   0,   '../examples/pH7_I0_edited.txt')
 output_reaction_energies('../../validation/allreacs.txt', 7.2, 0.1, '../examples/pH72_I01_edited.txt')
 output_reaction_energies('../../validation/allreacs.txt', 7.2, 0,   '../examples/pH72_I0_edited.txt')
+# output_reaction_energies('../../validation/allreacs.txt', 7.2, 0.1,   '../examples/pH72_I01_edited_noRC.txt') #this was run without using the reactant component option

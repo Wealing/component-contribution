@@ -1,0 +1,2383 @@
+reaction formula	model.dG0	dG0_prime	dGm_prime	dG0_std
+12dgr120_p --> 12dgr120_c	nan	nan	nan	0.0
+12dgr140_p --> 12dgr140_c	nan	nan	nan	0.0
+12dgr141_p --> 12dgr141_c	nan	nan	nan	0.0
+12dgr160_p --> 12dgr160_c	nan	nan	nan	0.0
+12dgr161_p --> 12dgr161_c	nan	nan	nan	0.0
+12dgr180_p --> 12dgr180_c	nan	nan	nan	0.0
+12dgr181_p --> 12dgr181_c	nan	nan	nan	0.0
+12ppd__R_e <=> 12ppd__R_p	0.0	0.0	0.0	0.0
+12ppd__R_p <=> 12ppd__R_c	0.0	0.0	0.0	0.0
+12ppd__S_e <=> 12ppd__S_p	0.0	0.0	0.0	0.0
+12ppd__S_p <=> 12ppd__S_c	0.0	0.0	0.0	0.0
+14glucan_p + atp_c + h2o_c --> 14glucan_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+14glucan_e --> 14glucan_p	nan	nan	nan	0.0
+23camp_e <=> 23camp_p	0.0	0.0	0.0	0.0
+23ccmp_e <=> 23ccmp_p	0.0	0.0	0.0	0.0
+23cgmp_e <=> 23cgmp_p	0.0	0.0	0.0	0.0
+23cump_e <=> 23cump_p	0.0	0.0	0.0	0.0
+23dappa_p + h_p --> 23dappa_c + h_c	0.0	0.0	0.0	0.0
+23dappa_e <=> 23dappa_p	0.0	0.0	0.0	0.0
+23cump_p + h2o_p --> 3ump_p + h_p	nan	nan	nan	0.0
+23ccmp_p + h2o_p --> 3cmp_p + h_p	nan	nan	nan	0.0
+23camp_p + h2o_p --> 3amp_p + h_p	nan	nan	nan	0.0
+23cgmp_p + h2o_p --> 3gmp_p + h_p	nan	nan	nan	0.0
+26dap__M_e <=> 26dap__M_p	0.0	0.0	0.0	0.0
+2ddecg3p_p --> 2ddecg3p_c	nan	nan	nan	0.0
+2tdecg3p_p --> 2tdecg3p_c	nan	nan	nan	0.0
+2tdec7eg3p_p --> 2tdec7eg3p_c	nan	nan	nan	0.0
+2hdecg3p_p --> 2hdecg3p_c	nan	nan	nan	0.0
+2hdec9eg3p_p --> 2hdec9eg3p_c	nan	nan	nan	0.0
+2odecg3p_p --> 2odecg3p_c	nan	nan	nan	0.0
+2odec11eg3p_p --> 2odec11eg3p_c	nan	nan	nan	0.0
+2agpe120_p --> 2agpe120_c	nan	nan	nan	0.0
+2agpe140_p --> 2agpe140_c	nan	nan	nan	0.0
+2agpe141_p --> 2agpe141_c	nan	nan	nan	0.0
+2agpe160_p --> 2agpe160_c	nan	nan	nan	0.0
+2agpe161_p --> 2agpe161_c	nan	nan	nan	0.0
+2agpe180_p --> 2agpe180_c	nan	nan	nan	0.0
+2agpe181_p --> 2agpe181_c	nan	nan	nan	0.0
+2agpe120_c + atp_c + ddca_c --> amp_c + pe120_c + ppi_c	nan	nan	nan	0.0
+2agpe140_c + atp_c + ttdca_c --> amp_c + pe140_c + ppi_c	nan	nan	nan	0.0
+2agpe141_c + atp_c + ttdcea_c --> amp_c + pe141_c + ppi_c	nan	nan	nan	0.0
+2agpe160_c + atp_c + hdca_c --> amp_c + pe160_c + ppi_c	nan	nan	nan	0.0
+2agpe161_c + atp_c + hdcea_c --> amp_c + pe161_c + ppi_c	nan	nan	nan	0.0
+2agpe180_c + atp_c + ocdca_c --> amp_c + pe180_c + ppi_c	nan	nan	nan	0.0
+2agpe181_c + atp_c + ocdcea_c --> amp_c + pe181_c + ppi_c	nan	nan	nan	0.0
+2agpg120_p --> 2agpg120_c	nan	nan	nan	0.0
+2agpg140_p --> 2agpg140_c	nan	nan	nan	0.0
+2agpg141_p --> 2agpg141_c	nan	nan	nan	0.0
+2agpg160_p --> 2agpg160_c	nan	nan	nan	0.0
+2agpg161_p --> 2agpg161_c	nan	nan	nan	0.0
+2agpg180_p --> 2agpg180_c	nan	nan	nan	0.0
+2agpg181_p --> 2agpg181_c	nan	nan	nan	0.0
+2agpg120_c + atp_c + ddca_c --> amp_c + pg120_c + ppi_c	nan	nan	nan	0.0
+2agpg140_c + atp_c + ttdca_c --> amp_c + pg140_c + ppi_c	nan	nan	nan	0.0
+2agpg141_c + atp_c + ttdcea_c --> amp_c + pg141_c + ppi_c	nan	nan	nan	0.0
+2agpg160_c + atp_c + hdca_c --> amp_c + pg160_c + ppi_c	nan	nan	nan	0.0
+2agpg161_c + atp_c + hdcea_c --> amp_c + pg161_c + ppi_c	nan	nan	nan	0.0
+2agpg180_c + atp_c + ocdca_c --> amp_c + pg180_c + ppi_c	nan	nan	nan	0.0
+2agpg181_c + atp_c + ocdcea_c --> amp_c + pg181_c + ppi_c	nan	nan	nan	0.0
+2dhglcn_c + h_c + nadh_c --> glcn_c + nad_c	-65.5091535624	-21.9892946701	-21.9892946701	0.566822681812
+2dhglcn_c + h_c + nadph_c --> glcn_c + nadp_c	-65.5091535624	-19.5459582052	-19.5459582052	0.566822681812
+2dhguln_c + h_c + nadh_c --> idon__L_c + nad_c	nan	nan	nan	0.0
+2dhguln_c + h_c + nadph_c --> idon__L_c + nadp_c	nan	nan	nan	0.0
+2mahmp_c + h2o_c --> 4ampm_c + h_c + pi_c	nan	nan	nan	0.0
+34dhpac_e <=> 34dhpac_p	0.0	0.0	0.0	0.0
+3amp_e <=> 3amp_p	0.0	0.0	0.0	0.0
+3cmp_e <=> 3cmp_p	0.0	0.0	0.0	0.0
+3gmp_e <=> 3gmp_p	0.0	0.0	0.0	0.0
+3hdecACP_c --> h2o_c + tdec2eACP_c	nan	nan	nan	0.0
+3hddecACP_c --> h2o_c + tddec2eACP_c	nan	nan	nan	0.0
+3hcddec5eACP_c --> h2o_c + t3c5ddeceACP_c	nan	nan	nan	0.0
+3hmrsACP_c --> h2o_c + tmrs2eACP_c	nan	nan	nan	0.0
+3hcmrs7eACP_c --> h2o_c + t3c7mrseACP_c	nan	nan	nan	0.0
+3hpalmACP_c --> h2o_c + tpalm2eACP_c	nan	nan	nan	0.0
+3hcpalm9eACP_c --> h2o_c + t3c9palmeACP_c	nan	nan	nan	0.0
+3hoctaACP_c --> h2o_c + toctd2eACP_c	nan	nan	nan	0.0
+3hcvac11eACP_c --> h2o_c + t3c11vaceACP_c	nan	nan	nan	0.0
+3haACP_c --> but2eACP_c + h2o_c	nan	nan	nan	0.0
+3hhexACP_c --> h2o_c + thex2eACP_c	nan	nan	nan	0.0
+3hoctACP_c --> h2o_c + toct2eACP_c	nan	nan	nan	0.0
+3hcinnm_c + h_c + nadh_c + o2_c --> dhcinnm_c + h2o_c + nad_c	nan	nan	nan	0.0
+3hpppn_c + h_c + nadh_c + o2_c --> dhpppn_c + h2o_c + nad_c	nan	nan	nan	0.0
+3dhguln_c + atp_c --> 3dhgulnp_c + adp_c + h_c	24.4401503703	-18.2591451077	-18.2591451077	1.11098227219
+3ump_p + h2o_p --> pi_p + uri_p	nan	nan	nan	0.0
+3cmp_p + h2o_p --> cytd_p + pi_p	nan	nan	nan	0.0
+3amp_p + h2o_p --> adn_p + pi_p	nan	nan	nan	0.0
+3gmp_p + h2o_p --> gsn_p + pi_p	nan	nan	nan	0.0
+3odecACP_c + h_c + nadph_c <=> 3hdecACP_c + nadp_c	nan	nan	nan	0.0
+3oddecACP_c + h_c + nadph_c <=> 3hddecACP_c + nadp_c	nan	nan	nan	0.0
+3ocddec5eACP_c + h_c + nadph_c --> 3hcddec5eACP_c + nadp_c	nan	nan	nan	0.0
+3omrsACP_c + h_c + nadph_c <=> 3hmrsACP_c + nadp_c	nan	nan	nan	0.0
+3ocmrs7eACP_c + h_c + nadph_c --> 3hcmrs7eACP_c + nadp_c	nan	nan	nan	0.0
+3opalmACP_c + h_c + nadph_c <=> 3hpalmACP_c + nadp_c	nan	nan	nan	0.0
+3ocpalm9eACP_c + h_c + nadph_c --> 3hcpalm9eACP_c + nadp_c	nan	nan	nan	0.0
+3ooctdACP_c + h_c + nadph_c <=> 3hoctaACP_c + nadp_c	nan	nan	nan	0.0
+3ocvac11eACP_c + h_c + nadph_c --> 3hcvac11eACP_c + nadp_c	nan	nan	nan	0.0
+actACP_c + h_c + nadph_c <=> 3haACP_c + nadp_c	nan	nan	nan	0.0
+3ohexACP_c + h_c + nadph_c <=> 3hhexACP_c + nadp_c	nan	nan	nan	0.0
+3ooctACP_c + h_c + nadph_c <=> 3hoctACP_c + nadp_c	nan	nan	nan	0.0
+h_c + malACP_c + ocACP_c --> 3odecACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+dcaACP_c + h_c + malACP_c --> 3oddecACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+cdec3eACP_c + h_c + malACP_c --> 3ocddec5eACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+ddcaACP_c + h_c + malACP_c --> 3omrsACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+cddec5eACP_c + h_c + malACP_c --> 3ocmrs7eACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+h_c + malACP_c + myrsACP_c --> 3opalmACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+h_c + malACP_c + tdeACP_c --> 3ocpalm9eACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+h_c + malACP_c + palmACP_c --> 3ooctdACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+h_c + hdeACP_c + malACP_c --> 3ocvac11eACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+butACP_c + h_c + malACP_c --> 3ohexACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+h_c + hexACP_c + malACP_c --> 3ooctACP_c + ACP_c + co2_c	nan	nan	nan	0.0
+LalaDgluMdap_p + atp_c + h2o_c --> LalaDgluMdap_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+LalaDgluMdap_e <=> LalaDgluMdap_p	nan	nan	nan	0.0
+3ump_e <=> 3ump_p	0.0	0.0	0.0	0.0
+dopa_p + h2o_p + o2_p --> 34dhpac_p + h2o2_p + nh4_p	nan	nan	nan	0.0
+4hoxpacd_e <=> 4hoxpacd_p	0.0	0.0	0.0	0.0
+h2o_c + phthr_c --> 4hthr_c + pi_c	nan	nan	nan	0.0
+LalaDgluMdapDala_c + h2o_c --> LalaDgluMdap_c + ala__D_c	nan	nan	nan	0.0
+LalaDgluMdapDala_p + h2o_p --> LalaDgluMdap_p + ala__D_p	nan	nan	nan	0.0
+LalaDgluMdapDala_p + atp_c + h2o_c --> LalaDgluMdapDala_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+LalaDgluMdapDala_e <=> LalaDgluMdapDala_p	nan	nan	nan	0.0
+5dglcn_c + h_c + nadph_c <=> glcn_c + nadp_c	-65.5091535624	-19.5392418155	-19.5392418155	0.566822681812
+5dglcn_p + h_p <=> 5dglcn_c + h_c	0.0	0.0	0.0	0.0
+5dglcn_e <=> 5dglcn_p	0.0	0.0	0.0	0.0
+dad_5_c + h2o_c --> 5drib_c + ade_c	nan	nan	nan	0.0
+ru5p__D_c <=> ara5p_c	2.47728448792	2.46968389273	2.46968389273	0.997582757377
+ACP_c + atp_c + ttdca_c --> amp_c + myrsACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + ttdcea_c --> amp_c + ppi_c + tdeACP_c	nan	nan	nan	0.0
+ACP_c + atp_c + hdca_c --> amp_c + palmACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + hdcea_c --> amp_c + hdeACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + ocdcea_c --> amp_c + octeACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + ocdca_c --> amp_c + ocdcaACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + ddca_c --> amp_c + ddcaACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + dca_c --> amp_c + dcaACP_c + ppi_c	nan	nan	nan	0.0
+ACP_c + atp_c + octa_c --> amp_c + ocACP_c + ppi_c	nan	nan	nan	0.0
+aact_c + h2o_c + o2_c --> h2o2_c + mthgxl_c + nh4_c	nan	nan	nan	0.0
+dtdp4aaddg_c + unagamu_c --> dtdp_c + h_c + unagamuf_c	nan	nan	nan	0.0
+14glucan_c --> malthx_c	nan	nan	nan	0.0
+14glucan_p --> malthx_p	nan	nan	nan	0.0
+arbt6p_c + h2o_c --> g6p_c + hqn_c	nan	nan	nan	0.0
+4abut_c + akg_c --> glu__L_c + sucsal_c	7.28555502017	8.48602482842	8.48602482842	1.34274989673
+4abutn_c + h2o_c + nad_c --> 4abut_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+4abut_p + h_p --> 4abut_c + h_c	0.0	0.0	0.0	0.0
+4abut_e <=> 4abut_p	0.0	0.0	0.0	0.0
+acac_c + accoa_c --> aacoa_c + ac_c	0.0	-0.000166732660091	-0.000166732660091	0.0
+2.0 accoa_c <=> aacoa_c + coa_c	24.7995184835	24.7599422452	24.7599422452	1.965139881
+acac_p + h_p <=> acac_c + h_c	0.0	0.0	0.0	0.0
+acac_e <=> acac_p	0.0	0.0	0.0	0.0
+acald_c + coa_c + nad_c <=> accoa_c + h_c + nadh_c	35.2781444014	-8.20000951316	8.91482802156	1.61188887735
+acald_e <=> acald_p	0.0	0.0	0.0	0.0
+acald_p <=> acald_c	0.0	0.0	0.0	0.0
+accoa_c + anth_c --> acanth_c + coa_c	-25.996922259	-26.0698149827	-26.0698149827	5.5266141142
+adocbip_c + gtp_c + h_c --> agdpcbi_c + ppi_c	nan	nan	nan	0.0
+accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_c	nan	nan	nan	0.0
+atp_c + coa_c + ppa_c --> adp_c + pi_c + ppcoa_c	nan	nan	nan	0.0
+acgal1p_p + h2o_p --> acgal_p + pi_p	nan	nan	nan	0.0
+acgal1p_e <=> acgal1p_p	0.0	0.0	0.0	0.0
+acgal_e <=> acgal_p	0.0	0.0	0.0	0.0
+acgam1p_p + h2o_p --> acgam_p + pi_p	nan	nan	nan	0.0
+acgam1p_e <=> acgam1p_p	0.0	0.0	0.0	0.0
+acgam_c + atp_c --> acgam6p_c + adp_c + h_c	24.4401503703	-15.7777824767	-15.7777824767	1.11098227219
+uacgam_c + udcpp_c --> ump_c + unaga_c	0.0	0.369364659562	0.369364659562	0.0
+acgam_p + pep_c --> acgam6p_c + pyr_c	-44.9599878709	-42.5608275746	-42.5608275746	1.78536504717
+acgam_e <=> acgam_p	0.0	0.0	0.0	0.0
+acglu_c + atp_c --> acg5p_c + adp_c	15.2589000028	16.1301334074	16.1301334074	1.50994960569
+accoa_c + glu__L_c --> acglu_c + coa_c + h_c	11.7452083673	-31.8375184154	-31.8375184154	2.42614877233
+2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c	nan	nan	nan	0.0
+ac_c + atp_c <=> actp_c + adp_c	15.2589000028	17.321542497	17.321542497	1.50994960569
+h_c + 2.0 pyr_c --> alac__S_c + co2_c	nan	nan	nan	0.0
+acmum6p_c + h2o_c --> acgam6p_c + lac__D_c	nan	nan	nan	0.0
+uacmamu_c + unaga_c --> h_c + udp_c + unagamu_c	nan	nan	nan	0.0
+acmana_p + pep_c --> acmanap_c + pyr_c	-44.9599878709	-42.5608275746	-42.5608275746	1.78536504717
+acmana_e <=> acmana_p	0.0	0.0	0.0	0.0
+acmum_p + pep_c --> acmum6p_c + pyr_c	-44.9599878709	-44.9928734871	-44.9928734871	1.78536504717
+acmum_e --> acmum_p	0.0	0.0	0.0	0.0
+acnam_p + h_p --> acnam_c + h_c	0.0	0.0	0.0	0.0
+acnam_e <=> acnam_p	0.0	0.0	0.0	0.0
+acnam_c --> acmana_c + pyr_c	-3.24634580135	-3.28308568155	-20.3979232163	2.28277880867
+btcoa_c + fad_c <=> b2coa_c + fadh2_c	33.6502503953	78.3999321037	78.3999321037	11.243904028
+fad_c + hxcoa_c <=> fadh2_c + hx2coa_c	33.6502503953	78.4000636379	78.4000636379	11.243904028
+fad_c + occoa_c <=> fadh2_c + oc2coa_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+dcacoa_c + fad_c <=> dc2coa_c + fadh2_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+ddcacoa_c + fad_c <=> dd2coa_c + fadh2_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+fad_c + tdcoa_c <=> fadh2_c + td2coa_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+fad_c + pmtcoa_c <=> fadh2_c + hdd2coa_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+fad_c + stcoa_c <=> fadh2_c + od2coa_c	33.6502503953	78.3998062245	78.3998062245	11.243904028
+ACP_c + accoa_c <=> acACP_c + coa_c	nan	nan	nan	0.0
+acorn_c + h2o_c --> ac_c + orn_c	nan	nan	nan	0.0
+acolipa_p --> acolipa_e	nan	nan	nan	0.0
+acon_T_c <=> acon_C_c	0.0	-0.0113044122209	-0.0113044122209	0.0
+acon_T_c + amet_c --> aconm_c + ahcys_c	52.2995509637	55.9771218819	55.9771218819	195996.398678
+cit_c <=> acon_C_c + h2o_c	nan	nan	nan	0.0
+acon_C_c + h2o_c <=> icit_c	nan	nan	nan	0.0
+acorn_c + akg_c <=> acg5sa_c + glu__L_c	7.28555502017	8.6795672512	8.6795672512	1.34274989673
+apoACP_c + coa_c --> ACP_c + h_c + pap_c	nan	nan	nan	0.0
+ac_c + atp_c + coa_c --> accoa_c + amp_c + ppi_c	nan	nan	nan	0.0
+acser_e <=> acser_p	0.0	0.0	0.0	0.0
+acser_c --> acser_p	0.0	0.0	0.0	0.0
+ac_p + h_p <=> ac_c + h_c	0.0	0.0	0.0	0.0
+ac_p + na1_p --> ac_c + na1_c	0.0	0.0	0.0	0.0
+ac_e <=> ac_p	0.0	0.0	0.0	0.0
+adn_c + h2o_c + h_c --> ins_c + nh4_c	nan	nan	nan	0.0
+4adcho_c --> 4abz_c + h_c + pyr_c	-25.1596851078	-67.3853295125	-84.5001670472	11.9655869113
+chor_c + gln__L_c --> 4adcho_c + glu__L_c	-19.5322949392	-18.4000563666	-18.4000563666	4.01902021054
+ade_c + h2o_c + h_c --> hxan_c + nh4_c	nan	nan	nan	0.0
+ade_p + h_p <=> ade_c + h_c	0.0	0.0	0.0	0.0
+ade_e <=> ade_p	0.0	0.0	0.0	0.0
+amp_c + atp_c <=> 2.0 adp_c	-44.7646961518	-2.17797011512	-2.17797011512	0.698011490678
+amp_c + gtp_c <=> adp_c + gdp_c	-44.7646961518	-2.19941714381	-2.19941714381	0.698011490678
+amp_c + itp_c <=> adp_c + idp_c	-44.7646961518	-2.1767337026	-2.1767337026	0.698011490678
+amet_c + h_c --> ametam_c + co2_c	nan	nan	nan	0.0
+atp_c --> camp_c + ppi_c	nan	nan	nan	0.0
+adn_c + atp_c --> adp_c + amp_c + h_c	24.4401503703	-15.783040204	-15.783040204	1.11098227219
+adn_c + h2o_c --> ade_c + rib__D_c	nan	nan	nan	0.0
+adn_p + h_p --> adn_c + h_c	0.0	0.0	0.0	0.0
+adn_p + h_p <=> adn_c + h_c	0.0	0.0	0.0	0.0
+adn_e <=> adn_p	0.0	0.0	0.0	0.0
+adocbi_c + atp_c --> adocbip_c + adp_c + h_c	nan	nan	nan	0.0
+agdpcbi_c + rdmbzi_c --> adocbl_c + gmp_c + h_c	nan	nan	nan	0.0
+adocbl_p + atp_c + h2o_c --> adocbl_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+adocbl_e + h_p --> adocbl_p + h_c	0.0	0.0	0.0	0.0
+adprib_c + h2o_c --> amp_c + 2.0 h_c + r5p_c	nan	nan	nan	0.0
+ade_c + prpp_c --> amp_c + ppi_c	nan	nan	nan	0.0
+aps_c + atp_c --> adp_c + h_c + paps_c	31.8946004261	-13.1471753936	-13.1471753936	1.84468499367
+dcamp_c <=> amp_c + fum_c	18.9796135553	23.8103426169	6.69550508217	5.14272210679
+25aics_c <=> aicar_c + fum_c	24.8993101287	32.3224521875	15.2076146528	4.01582433694
+asp__L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c	nan	nan	nan	0.0
+acgam6p_c + h2o_c --> ac_c + gam6p_c	nan	nan	nan	0.0
+anhgm3p_c + h2o_c --> LalaDgluMdap_c + anhgm_c	nan	nan	nan	0.0
+anhgm3p_p + h2o_p --> LalaDgluMdap_p + anhgm_p	nan	nan	nan	0.0
+anhgm3p_c + h2o_c --> acgam_c + anhm3p_c	nan	nan	nan	0.0
+anhgm3p_p + h_p --> anhgm3p_c + h_c	nan	nan	nan	0.0
+anhgm4p_c + h2o_c --> LalaDgluMdapDala_c + anhgm_c	nan	nan	nan	0.0
+anhgm4p_p + h2o_p --> LalaDgluMdapDala_p + anhgm_p	nan	nan	nan	0.0
+anhgm4p_c + h2o_c --> ala__D_c + anhgm3p_c	nan	nan	nan	0.0
+anhgm4p_p + h2o_p --> ala__D_p + anhgm3p_p	nan	nan	nan	0.0
+anhgm4p_c + h2o_c --> acgam_c + anhm4p_c	nan	nan	nan	0.0
+anhgm4p_p + h_p --> anhgm4p_c + h_c	nan	nan	nan	0.0
+anhgm_c + h2o_c --> acgam_c + anhm_c	nan	nan	nan	0.0
+adphep_DD_c --> adphep_LD_c	0.0	0.0	0.0	0.0
+agm_c + h2o_c --> ptrc_c + urea_c	nan	nan	nan	0.0
+anhgm_p + h_p --> anhgm_c + h_c	nan	nan	nan	0.0
+agm_e <=> agm_p	0.0	0.0	0.0	0.0
+1ddecg3p_c + ddcaACP_c --> ACP_c + pa120_c	nan	nan	nan	0.0
+1tdecg3p_c + myrsACP_c --> ACP_c + pa140_c	nan	nan	nan	0.0
+1tdec7eg3p_c + tdeACP_c --> ACP_c + pa141_c	nan	nan	nan	0.0
+1hdecg3p_c + palmACP_c --> ACP_c + pa160_c	nan	nan	nan	0.0
+1hdec9eg3p_c + hdeACP_c --> ACP_c + pa161_c	nan	nan	nan	0.0
+1odecg3p_c + ocdcaACP_c --> ACP_c + pa180_c	nan	nan	nan	0.0
+1odec11eg3p_c + octeACP_c --> ACP_c + pa181_c	nan	nan	nan	0.0
+acg5sa_c + nadp_c + pi_c <=> acg5p_c + h_c + nadph_c	nan	nan	nan	0.0
+ag_c + h_e --> ag_e + h_c	0.0	0.0	0.0	0.0
+ahcys_c + h2o_c --> ade_c + rhcys_c	nan	nan	nan	0.0
+10fthf_c + aicar_c <=> fprica_c + thf_c	11.2467448145	14.7025427058	14.7025427058	9.16940874808
+air_c + atp_c + hco3_c --> 5caiz_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+5aizc_c <=> 5caiz_c	-2.63358247021	-42.8639016815	-42.8639016815	10.280792901
+akg_c + coa_c + nad_c --> co2_c + nadh_c + succoa_c	nan	nan	nan	0.0
+akg_p + h_p <=> akg_c + h_c	0.0	0.0	0.0	0.0
+akg_e <=> akg_p	0.0	0.0	0.0	0.0
+alaala_c + h2o_c --> 2.0 ala__D_c	nan	nan	nan	0.0
+alaala_p + atp_c + h2o_c --> adp_c + alaala_c + h_c + pi_c	nan	nan	nan	0.0
+2.0 ala__D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c	nan	nan	nan	0.0
+alaala_e <=> alaala_p	0.0	0.0	0.0	0.0
+LalaDglu_c <=> LalaLglu_c	nan	nan	nan	0.0
+ala__L_c <=> ala__D_c	0.0	0.0	0.0	0.0
+ala__D_c + pydx5p_c --> pyam5p_c + pyr_c	-7.28555502017	-6.02597970071	-6.02597970071	1.34274989673
+akg_c + ala__L_c <=> glu__L_c + pyr_c	0.0	1.21378286734	1.21378286734	0.0
+ala__L_c + pydx5p_c --> pyam5p_c + pyr_c	-7.28555502017	-6.02597970071	-6.02597970071	1.34274989673
+ala__L_c + atp_c + trnaala_c --> alatrna_c + amp_c + ppi_c	nan	nan	nan	0.0
+ala__L_p + atp_c + h2o_c --> adp_c + ala__L_c + h_c + pi_c	nan	nan	nan	0.0
+ala__L_p + h_p --> ala__L_c + h_c	0.0	0.0	0.0	0.0
+ala__L_p + na1_p --> ala__L_c + na1_c	0.0	0.0	0.0	0.0
+ala__L_e <=> ala__L_p	0.0	0.0	0.0	0.0
+glyald_c + h_c + nadh_c <=> glyc_c + nad_c	-67.9864380503	-24.4665604851	-24.4665604851	0.963789276767
+etoh_c + nad_c <=> acald_c + h_c + nadh_c	67.9864380503	24.4665682081	24.4665682081	0.963789276767
+h2o_c + nad_c + pacald_c --> 2.0 h_c + nadh_c + pac_c	nan	nan	nan	0.0
+acald_c + h2o_c + nad_c --> ac_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+acald_c + h2o_c + nadp_c --> ac_c + 2.0 h_c + nadph_c	nan	nan	nan	0.0
+h2o_c + nadp_c + ppal_c --> 2.0 h_c + nadph_c + ppa_c	nan	nan	nan	0.0
+btal_c + h2o_c + nad_c --> but_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+all__D_c + atp_c --> adp_c + all6p_c + h_c	24.4401503703	-15.7936945165	-15.7936945165	1.11098227219
+all6p_c <=> allul6p_c	nan	nan	nan	0.0
+alltt_c + 2.0 h2o_c + 2.0 h_c --> co2_c + 2.0 nh4_c + urdglyc_c	nan	nan	nan	0.0
+alltn_c + h2o_c --> alltt_c + h_c	nan	nan	nan	0.0
+alltn_p + h_p <=> alltn_c + h_c	0.0	0.0	0.0	0.0
+alltn_e <=> alltn_p	0.0	0.0	0.0	0.0
+allul6p_c <=> f6p_c	nan	nan	nan	0.0
+all__D_p + atp_c + h2o_c --> adp_c + all__D_c + h_c + pi_c	nan	nan	nan	0.0
+all__D_e <=> all__D_p	0.0	0.0	0.0	0.0
+alpp_p + pe160_p --> 2agpe160_p + lpp_p	nan	nan	nan	0.0
+alpp_p + pg160_p --> 2agpg160_p + lpp_p	nan	nan	nan	0.0
+h_c + mthgxl_c + nadph_c --> acetol_c + nadp_c	-67.9864380503	-22.0232325916	-22.0232325916	0.963789276767
+acetol_c + h_c + nadh_c --> 12ppd__R_c + nad_c	-65.5091535624	-21.9892828717	-21.9892828717	0.566822681812
+altrn_c --> 2ddglcn_c + h2o_c	nan	nan	nan	0.0
+anhm3p_c + h2o_c --> LalaDgluMdap_c + anhm_c	nan	nan	nan	0.0
+anhm4p_c + h2o_c --> LalaDgluMdapDala_c + anhm_c	nan	nan	nan	0.0
+anhm4p_c + h2o_c --> ala__D_c + anhm3p_c	nan	nan	nan	0.0
+malt_c + malttr_c --> glc__D_c + maltttr_c	0.0	1.16239218642e-05	1.16239218642e-05	0.0
+malt_c + maltttr_c --> glc__D_c + maltpt_c	0.0	1.97741048851e-05	1.97741048851e-05	0.0
+malt_c + maltpt_c --> glc__D_c + malthx_c	0.0	1.88515723494e-05	1.88515723494e-05	0.0
+malt_c + malthx_c --> glc__D_c + malthp_c	0.0	1.78852315003e-05	1.78852315003e-05	0.0
+acmanap_c <=> acgam6p_c	0.0	0.0	0.0	0.0
+acmana_c + atp_c --> acmanap_c + adp_c + h_c	24.4401503703	-15.7777824767	-15.7777824767	1.11098227219
+8aonn_c + amet_c <=> amob_c + dann_c	0.0	-0.871974058216	-0.871974058216	0.0
+2dmmql8_c + amet_c --> ahcys_c + h_c + mql8_c	nan	nan	nan	0.0
+air_c + h2o_c + nad_c --> 4ampm_c + 2.0 for_c + 3.0 h_c + nadh_c	nan	nan	nan	0.0
+amp_c + h2o_c --> ade_c + r5p_c	nan	nan	nan	0.0
+cgly_c + h2o_c --> cys__L_c + gly_c	nan	nan	nan	0.0
+h2o_c + progly_c --> gly_c + pro__L_c	nan	nan	nan	0.0
+amp_e <=> amp_p	0.0	0.0	0.0	0.0
+anhgm_e <=> anhgm_p	nan	nan	nan	0.0
+anhm_c + atp_c + h2o_c --> acmum6p_c + adp_c + h_c	nan	nan	nan	0.0
+anth_c + prpp_c --> ppi_c + pran_c	nan	nan	nan	0.0
+chor_c + gln__L_c --> anth_c + glu__L_c + h_c + pyr_c	-44.691980047	-85.7871685183	-102.902006053	12.383094413
+2aobut_c + h_c --> aact_c + co2_c	nan	nan	nan	0.0
+ala__L_c + h_c + pmcoa_c <=> 8aonn_c + co2_c + coa_c	nan	nan	nan	0.0
+ap4a_c + h2o_c --> 2.0 adp_c + 2.0 h_c	nan	nan	nan	0.0
+ap5a_c + h2o_c --> adp_c + atp_c + 2.0 h_c	nan	nan	nan	0.0
+5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c	-71.2764625129	-25.3973344501	-25.3973344501	2.39784069687
+arab__L_c <=> rbl__L_c	0.636058378937	0.633074996391	0.633074996391	0.891234087714
+2.0 arbtn_fe3_c + fadh2_c --> 2.0 arbtn_c + fad_c + 2.0 fe2_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 arbtn_fe3_c + fmnh2_c --> 2.0 arbtn_c + 2.0 fe2_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 arbtn_fe3_c + rbflvrd_c --> 2.0 arbtn_c + 2.0 fe2_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+arbtn_fe3_p + atp_c + h2o_c --> adp_c + arbtn_fe3_c + h_c + pi_c	nan	nan	nan	0.0
+arbtn_e + fe3_e --> arbtn_fe3_e	nan	nan	nan	0.0
+arbtn_p + h_p --> arbtn_e + h_c	nan	nan	nan	0.0
+arbtn_fe3_e + h_p --> arbtn_fe3_p + h_c	0.0	0.0	0.0	0.0
+arbtn_c + h_p --> arbtn_p + h_c	nan	nan	nan	0.0
+arab__L_p + atp_c + h2o_c --> adp_c + arab__L_c + h_c + pi_c	nan	nan	nan	0.0
+arab__L_p + h_p <=> arab__L_c + h_c	0.0	0.0	0.0	0.0
+arab__L_c + h_p --> arab__L_p + h_c	0.0	0.0	0.0	0.0
+arab__L_e <=> arab__L_p	0.0	0.0	0.0	0.0
+agm_c + arg__L_p <=> agm_p + arg__L_c	0.0	0.0	0.0	0.0
+arg__L_c + h_c --> agm_c + co2_c	nan	nan	nan	0.0
+arg__L_p + h_p --> agm_p + co2_p	nan	nan	nan	0.0
+arg__L_p + orn_c <=> arg__L_c + orn_p	0.0	0.0	0.0	0.0
+argsuc_c <=> arg__L_c + fum_c	14.3382276576	11.9476166974	-5.1672208373	4.8415587797
+asp__L_c + atp_c + citr__L_c --> amp_c + argsuc_c + h_c + ppi_c	nan	nan	nan	0.0
+arg__L_c + atp_c + trnaarg_c --> amp_c + argtrna_c + ppi_c	nan	nan	nan	0.0
+arg__L_p + atp_c + h2o_c --> adp_c + arg__L_c + h_c + pi_c	nan	nan	nan	0.0
+arg__L_c + h_p --> arg__L_p + h_c	0.0	0.0	0.0	0.0
+arg__L_e <=> arg__L_p	0.0	0.0	0.0	0.0
+aspsa_c + nadp_c + pi_c <=> 4pasp_c + h_c + nadph_c	nan	nan	nan	0.0
+ascb6p_c + h2o_c --> 3dhgulnp_c + h_c	nan	nan	nan	0.0
+ascb__L_p + pep_c --> ascb6p_c + pyr_c	nan	nan	nan	0.0
+ascb__L_e <=> ascb__L_p	nan	nan	nan	0.0
+asn__L_c + h2o_c --> asp__L_c + nh4_c	nan	nan	nan	0.0
+asn__L_p + h2o_p --> asp__L_p + nh4_p	nan	nan	nan	0.0
+asp__L_c + atp_c + gln__L_c + h2o_c --> amp_c + asn__L_c + glu__L_c + h_c + ppi_c	nan	nan	nan	0.0
+asp__L_c + atp_c + nh4_c --> amp_c + asn__L_c + h_c + ppi_c	nan	nan	nan	0.0
+asn__L_c + atp_c + trnaasn_c --> amp_c + asntrna_c + ppi_c	nan	nan	nan	0.0
+asn__L_p + atp_c + h2o_c --> adp_c + asn__L_c + h_c + pi_c	nan	nan	nan	0.0
+asn__L_p + h_p <=> asn__L_c + h_c	0.0	0.0	0.0	0.0
+asn__L_e <=> asn__L_p	0.0	0.0	0.0	0.0
+aso3_c + atp_c + h2o_c --> adp_c + aso3_p + h_c + pi_c	nan	nan	nan	0.0
+aso3_e <=> aso3_p	0.0	0.0	0.0	0.0
+asp__L_c + h_c --> ala_B_c + co2_c	nan	nan	nan	0.0
+asp__L_c + cbp_c --> cbasp_c + h_c + pi_c	nan	nan	nan	0.0
+asp__L_c + atp_c <=> 4pasp_c + adp_c	15.2589000028	16.9484300968	16.9484300968	1.50994960569
+asp__L_c + q8_c --> h_c + iasp_c + q8h2_c	nan	nan	nan	0.0
+asp__L_c + mqn8_c --> h_c + iasp_c + mql8_c	nan	nan	nan	0.0
+asp__L_c + fum_c --> h_c + iasp_c + succ_c	-3.93350069348	-3.92336957855	-3.92336957855	2.60369250004
+asp__L_c + o2_c --> h2o2_c + h_c + iasp_c	nan	nan	nan	0.0
+asp__L_c --> fum_c + nh4_c	nan	nan	nan	0.0
+akg_c + asp__L_c <=> glu__L_c + oaa_c	0.0	0.00610892540932	0.00610892540932	0.0
+asp__L_c + atp_c + trnaasp_c --> amp_c + asptrna_c + ppi_c	nan	nan	nan	0.0
+asp__L_p + atp_c + h2o_c --> adp_c + asp__L_c + h_c + pi_c	nan	nan	nan	0.0
+asp__L_p + 2.0 h_p --> asp__L_c + 2.0 h_c	0.0	0.0	0.0	0.0
+asp__L_p + 3.0 h_p --> asp__L_c + 3.0 h_c	0.0	0.0	0.0	0.0
+asp__L_p + h_p --> asp__L_c + h_c	0.0	0.0	0.0	0.0
+asp__L_e <=> asp__L_p	0.0	0.0	0.0	0.0
+aso4_c + 2.0 gthrd_c --> aso3_c + gthox_c + h2o_c	nan	nan	nan	0.0
+arg__L_c + succoa_c --> coa_c + h_c + sucarg_c	11.7452083673	-24.5209549238	-24.5209549238	2.42614877233
+athr__L_c + nadp_c <=> 2aobut_c + h_c + nadph_c	65.5091535624	17.3784741303	17.3784741303	0.566822681812
+atp_c + h2o_c + h_c --> itp_c + nh4_c	nan	nan	nan	0.0
+atp_c + h2o_c --> adp_c + h_c + pi_c	nan	nan	nan	0.0
+atp_c + prpp_c --> ppi_c + prbatp_c	nan	nan	nan	0.0
+adp_c + 4.0 h_p + pi_c <=> atp_c + h2o_c + 3.0 h_c	nan	nan	nan	0.0
+ala_B_p + h_p --> ala_B_c + h_c	0.0	0.0	0.0	0.0
+ala_B_e <=> ala_B_p	0.0	0.0	0.0	0.0
+betald_c + h2o_c + nad_c --> glyb_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+betald_c + h2o_c + nadp_c --> glyb_c + 2.0 h_c + nadph_c	nan	nan	nan	0.0
+h2o_c + pap_c --> amp_c + pi_c	nan	nan	nan	0.0
+btnso_c + h_c + nadh_c --> btn_c + h2o_c + nad_c	nan	nan	nan	0.0
+btnso_c + h_c + nadph_c --> btn_c + h2o_c + nadp_c	nan	nan	nan	0.0
+amet_c + dtbt_c + s_c --> btn_c + dad_5_c + h_c + met__L_c	nan	nan	nan	0.0
+accoa_c + but_c --> ac_c + btcoa_c	0.0	-0.0272556611942	-0.0272556611942	0.0
+atp_c + butso3_p + h2o_c --> adp_c + butso3_c + h_c + pi_c	nan	nan	nan	0.0
+butso3_e <=> butso3_p	nan	nan	nan	0.0
+but_p + h_p <=> but_c + h_c	0.0	0.0	0.0	0.0
+but_e <=> but_p	0.0	0.0	0.0	0.0
+ca2_c + h_p --> ca2_p + h_c	0.0	0.0	0.0	0.0
+ca2_e <=> ca2_p	0.0	0.0	0.0	0.0
+15dap_c + h_p + lys__L_p --> 15dap_p + h_c + lys__L_c	0.0	0.0	0.0	0.0
+2.0 h2o2_c --> 2.0 h2o_c + o2_c	nan	nan	nan	0.0
+ca2_c + na1_p <=> ca2_p + na1_c	0.0	0.0	0.0	0.0
+atp_c + cbi_c + h_c <=> adocbi_c + pppi_c	nan	nan	nan	0.0
+cbi_e + h_p --> cbi_p + h_c	0.0	0.0	0.0	0.0
+atp_c + cbi_p + h2o_c --> adp_c + cbi_c + h_c + pi_c	nan	nan	nan	0.0
+atp_c + cbl1_p + h2o_c --> adp_c + cbl1_c + h_c + pi_c	nan	nan	nan	0.0
+cbl1_e + h_p --> cbl1_p + h_c	0.0	0.0	0.0	0.0
+atp_c + cbl1_c + h_c <=> adocbl_c + pppi_c	nan	nan	nan	0.0
+atp_c + co2_c + nh4_c <=> adp_c + cbp_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 atp_c + gln__L_c + h2o_c + hco3_c --> 2.0 adp_c + cbp_c + glu__L_c + 2.0 h_c + pi_c	nan	nan	nan	0.0
+atp_c + cd2_c + h2o_c --> adp_c + cd2_p + h_c + pi_c	nan	nan	nan	0.0
+cd2_c + h_p --> cd2_p + h_c	0.0	0.0	0.0	0.0
+cd2_e <=> cd2_p	0.0	0.0	0.0	0.0
+cd2_p --> cd2_c	0.0	0.0	0.0	0.0
+cdpdddecg_c + h2o_c --> cmp_c + 2.0 h_c + pa120_c	nan	nan	nan	0.0
+cdpdtdecg_c + h2o_c --> cmp_c + 2.0 h_c + pa140_c	nan	nan	nan	0.0
+cdpdtdec7eg_c + h2o_c --> cmp_c + 2.0 h_c + pa141_c	nan	nan	nan	0.0
+cdpdhdecg_c + h2o_c --> cmp_c + 2.0 h_c + pa160_c	nan	nan	nan	0.0
+cdpdhdec9eg_c + h2o_c --> cmp_c + 2.0 h_c + pa161_c	nan	nan	nan	0.0
+cdpdodecg_c + h2o_c --> cmp_c + 2.0 h_c + pa180_c	nan	nan	nan	0.0
+cdpdodec11eg_c + h2o_c --> cmp_c + 2.0 h_c + pa181_c	nan	nan	nan	0.0
+4c2me_c + atp_c --> 2p4c2me_c + adp_c + h_c	36.0938682451	-8.93748197693	-8.93748197693	7.82318404426
+2.0 amet_c + pe161_c --> 2.0 ahcys_c + cpe160_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 amet_c + pg161_c --> 2.0 ahcys_c + cpg160_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 amet_c + pe181_c --> 2.0 ahcys_c + cpe180_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 amet_c + pg181_c --> 2.0 ahcys_c + cpg180_c + 2.0 h_c	nan	nan	nan	0.0
+atp_c + cgly_p + h2o_c --> adp_c + cgly_c + h_c + pi_c	nan	nan	nan	0.0
+cgly_e <=> cgly_p	0.0	0.0	0.0	0.0
+atp_c + chol_p + h2o_c --> adp_c + chol_c + h_c + pi_c	nan	nan	nan	0.0
+chol_p + h_p --> chol_c + h_c	0.0	0.0	0.0	0.0
+chol_e <=> chol_p	0.0	0.0	0.0	0.0
+chor_c --> pphn_c	-21.8381307918	-21.8376253606	-21.8376253606	8.65119080945
+3psme_c --> chor_c + pi_c	nan	nan	nan	0.0
+chor_c --> 4hbz_c + pyr_c	-95.3353426491	-94.1350361341	-111.249873669	11.4666307943
+cinnm_c + h_c + nadh_c + o2_c --> cenchddd_c + nad_c	nan	nan	nan	0.0
+cit_c --> ac_c + oaa_c	4.53659114194	6.99009331646	-10.1247442183	1.51112880043
+cit_p + succ_c --> cit_c + succ_p	0.0	0.0	0.0	0.0
+cit_e <=> cit_p	0.0	0.0	0.0	0.0
+lipa_cold_p --> lipa_cold_e	nan	nan	nan	0.0
+clpn120_p + h2o_p --> h_p + pa120_p + pg120_p	nan	nan	nan	0.0
+clpn140_p + h2o_p --> h_p + pa140_p + pg140_p	nan	nan	nan	0.0
+clpn141_p + h2o_p --> h_p + pa141_p + pg141_p	nan	nan	nan	0.0
+clpn160_p + h2o_p --> h_p + pa160_p + pg160_p	nan	nan	nan	0.0
+clpn161_p + h2o_p --> h_p + pa161_p + pg161_p	nan	nan	nan	0.0
+clpn180_p + h2o_p --> h_p + pa180_p + pg180_p	nan	nan	nan	0.0
+clpn181_p + h2o_p --> h_p + pa181_p + pg181_p	nan	nan	nan	0.0
+2.0 pg120_p <=> clpn120_p + glyc_p	nan	nan	nan	0.0
+2.0 pg140_p <=> clpn140_p + glyc_p	nan	nan	nan	0.0
+2.0 pg141_p <=> clpn141_p + glyc_p	nan	nan	nan	0.0
+2.0 pg160_p <=> clpn160_p + glyc_p	nan	nan	nan	0.0
+2.0 pg161_p <=> clpn161_p + glyc_p	nan	nan	nan	0.0
+2.0 pg180_p <=> clpn180_p + glyc_p	nan	nan	nan	0.0
+2.0 pg181_p <=> clpn181_p + glyc_p	nan	nan	nan	0.0
+2.0 cl_p + h_c --> 2.0 cl_c + h_p	0.0	0.0	0.0	0.0
+cl_e <=> cl_p	0.0	0.0	0.0	0.0
+cmp_c + h2o_c --> csn_c + r5p_c	nan	nan	nan	0.0
+cmp_e <=> cmp_p	0.0	0.0	0.0	0.0
+co2_e <=> co2_p	0.0	0.0	0.0	0.0
+co2_p <=> co2_c	0.0	0.0	0.0	0.0
+atp_c + cobalt2_c + h2o_c --> adp_c + cobalt2_p + h_c + pi_c	nan	nan	nan	0.0
+cobalt2_c + h_p --> cobalt2_p + h_c	0.0	0.0	0.0	0.0
+cobalt2_e <=> cobalt2_p	0.0	0.0	0.0	0.0
+cobalt2_p --> cobalt2_c	0.0	0.0	0.0	0.0
+atp_c + colipa_c + h2o_c --> adp_c + colipa_p + h_c + pi_c	nan	nan	nan	0.0
+colipa_p --> colipa_e	nan	nan	nan	0.0
+2.0 cpgn_c + fadh2_c --> 2.0 cpgn_un_c + fad_c + 2.0 fe2_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 cpgn_c + fmnh2_c --> 2.0 cpgn_un_c + 2.0 fe2_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 cpgn_c + rbflvrd_c --> 2.0 cpgn_un_c + 2.0 fe2_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+cpgn_un_p + h_p --> cpgn_un_e + h_c	nan	nan	nan	0.0
+cpgn_un_c + h_p --> cpgn_un_p + h_c	nan	nan	nan	0.0
+atp_c + cpgn_p + h2o_c --> adp_c + cpgn_c + h_c + pi_c	nan	nan	nan	0.0
+cpgn_un_e + fe3_e --> cpgn_e	nan	nan	nan	0.0
+cpgn_e + h_p --> cpgn_p + h_c	nan	nan	nan	0.0
+cpppg3_c + 2.0 h_c + o2_c --> 2.0 co2_c + 2.0 h2o_c + pppg9_c	nan	nan	nan	0.0
+2.0 amet_c + cpppg3_c --> 2.0 co2_c + 2.0 dad_5_c + 2.0 met__L_c + pppg9_c	nan	nan	nan	0.0
+bbtcoa_c + crn_c <=> crncoa_c + gbbtn_c	nan	nan	nan	0.0
+atp_c + coa_c + crn_c --> adp_c + crncoa_c + pi_c	nan	nan	nan	0.0
+crncoa_c <=> crnDcoa_c	nan	nan	nan	0.0
+crn_c + ctbtcoa_c <=> crncoa_c + ctbt_c	nan	nan	nan	0.0
+crncoa_c <=> ctbtcoa_c + h2o_c	nan	nan	nan	0.0
+atp_c + coa_c + crn__D_c --> adp_c + crnDcoa_c + pi_c	nan	nan	nan	0.0
+atp_c + crn__D_p + h2o_c --> adp_c + crn__D_c + h_c + pi_c	nan	nan	nan	0.0
+crn__D_p + h_p <=> crn__D_c + h_c	0.0	0.0	0.0	0.0
+atp_c + crn_p + h2o_c --> adp_c + crn_c + h_c + pi_c	nan	nan	nan	0.0
+crn_p + h_p <=> crn_c + h_c	0.0	0.0	0.0	0.0
+crn_p + gbbtn_c --> crn_c + gbbtn_p	0.0	0.0	0.0	0.0
+crn__D_c + crn_p --> crn__D_p + crn_c	0.0	0.0	0.0	0.0
+crn_e <=> crn_p	0.0	0.0	0.0	0.0
+accoa_c + h2o_c + oaa_c --> cit_c + coa_c + h_c	nan	nan	nan	0.0
+csn_c + h2o_c + h_c --> nh4_c + ura_c	nan	nan	nan	0.0
+csn_p + h_p --> csn_c + h_c	0.0	0.0	0.0	0.0
+csn_e <=> csn_p	0.0	0.0	0.0	0.0
+atp_c + coa_c + ctbt_c --> adp_c + ctbtcoa_c + pi_c	nan	nan	nan	0.0
+atp_c + ctbt_p + h2o_c --> adp_c + ctbt_c + h_c + pi_c	nan	nan	nan	0.0
+ctbt_p + h_p <=> ctbt_c + h_c	nan	nan	nan	0.0
+atp_c + gln__L_c + h2o_c + utp_c --> adp_c + ctp_c + glu__L_c + 2.0 h_c + pi_c	nan	nan	nan	0.0
+4.0 cu_p + 4.0 h_p + o2_p --> 4.0 cu2_p + 2.0 h2o_p	nan	nan	nan	0.0
+atp_c + cu_c + h2o_c --> adp_c + cu_p + h_c + pi_c	nan	nan	nan	0.0
+atp_c + cu2_c + h2o_c --> adp_c + cu2_p + h_c + pi_c	nan	nan	nan	0.0
+cu2_e <=> cu2_p	0.0	0.0	0.0	0.0
+cu2_p --> cu2_c	0.0	0.0	0.0	0.0
+cu_c + h_e --> cu_e + h_c	nan	nan	nan	0.0
+cu_e <=> cu_p	nan	nan	nan	0.0
+cyan_c + tsul_c --> h_c + so3_c + tcynt_c	nan	nan	nan	0.0
+cyan_p + tsul_p --> h_p + so3_p + tcynt_p	nan	nan	nan	0.0
+cyan_e <=> cyan_p	0.0	0.0	0.0	0.0
+cynt_c + 3.0 h_c + hco3_c --> 2.0 co2_c + nh4_c	nan	nan	nan	0.0
+cynt_p + h_p --> cynt_c + h_c	0.0	0.0	0.0	0.0
+cynt_e <=> cynt_p	0.0	0.0	0.0	0.0
+cys__D_c + h2o_c --> h2s_c + nh4_c + pyr_c	nan	nan	nan	0.0
+cys__L_c + h2o_c --> h2s_c + nh4_c + pyr_c	nan	nan	nan	0.0
+atp_c + cys__D_p + h2o_c --> adp_c + cys__D_c + h_c + pi_c	nan	nan	nan	0.0
+cys__D_e <=> cys__D_p	0.0	0.0	0.0	0.0
+acser_c + h2s_c --> ac_c + cys__L_c + h_c	nan	nan	nan	0.0
+3sala_c + 2.0 h_c --> ala__L_c + so2_c	nan	nan	nan	0.0
+cyst__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c	nan	nan	nan	0.0
+atp_c + cys__L_c + trnacys_c --> amp_c + cystrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + cys__L_c + h2o_c --> adp_c + cys__L_p + h_c + pi_c	nan	nan	nan	0.0
+atp_c + cys__L_p + h2o_c --> adp_c + cys__L_c + h_c + pi_c	nan	nan	nan	0.0
+cys__L_e <=> cys__L_p	0.0	0.0	0.0	0.0
+cys__L_c --> cys__L_p	0.0	0.0	0.0	0.0
+2.0 h_c + mql8_c + 0.5 o2_c --> h2o_c + 2.0 h_p + mqn8_c	nan	nan	nan	0.0
+2.0 h_c + 0.5 o2_c + q8h2_c --> h2o_c + 2.0 h_p + q8_c	nan	nan	nan	0.0
+4.0 h_c + 0.5 o2_c + q8h2_c --> h2o_c + 4.0 h_p + q8_c	nan	nan	nan	0.0
+cytd_c + h2o_c + h_c --> nh4_c + uri_c	nan	nan	nan	0.0
+cytd_c + h2o_c --> csn_c + rib__D_c	nan	nan	nan	0.0
+cytd_c + gtp_c --> cmp_c + gdp_c + h_c	24.4401503703	-15.7714871419	-15.7714871419	1.11098227219
+cytd_p + h_p --> cytd_c + h_c	0.0	0.0	0.0	0.0
+cytd_p + h_p <=> cytd_c + h_c	0.0	0.0	0.0	0.0
+cytd_e <=> cytd_p	0.0	0.0	0.0	0.0
+atp_c + cmp_c <=> adp_c + cdp_c	-44.7646961518	-2.05184128277	-2.05184128277	0.698011490678
+atp_c + dcmp_c <=> adp_c + dcdp_c	-44.7646961518	-2.03893652651	-2.03893652651	0.698011490678
+ala__D_c + fad_c + h2o_c --> fadh2_c + nh4_c + pyr_c	nan	nan	nan	0.0
+dad_2_c + h2o_c + h_c --> din_c + nh4_c	nan	nan	nan	0.0
+atp_c + damp_c <=> adp_c + dadp_c	-44.7646961518	-2.17559564222	-2.17559564222	0.698011490678
+dad_2_p + h_p --> dad_2_c + h_c	0.0	0.0	0.0	0.0
+dad_2_e <=> dad_2_p	0.0	0.0	0.0	0.0
+12dgr120_c + atp_c --> adp_c + h_c + pa120_c	nan	nan	nan	0.0
+12dgr140_c + atp_c --> adp_c + h_c + pa140_c	nan	nan	nan	0.0
+12dgr141_c + atp_c --> adp_c + h_c + pa141_c	nan	nan	nan	0.0
+12dgr160_c + atp_c --> adp_c + h_c + pa160_c	nan	nan	nan	0.0
+12dgr161_c + atp_c --> adp_c + h_c + pa161_c	nan	nan	nan	0.0
+12dgr180_c + atp_c --> adp_c + h_c + pa180_c	nan	nan	nan	0.0
+12dgr181_c + atp_c --> adp_c + h_c + pa181_c	nan	nan	nan	0.0
+ala__D_p + h_p --> ala__D_c + h_c	0.0	0.0	0.0	0.0
+ala__D_e <=> ala__D_p	0.0	0.0	0.0	0.0
+damp_e <=> damp_p	0.0	0.0	0.0	0.0
+23dappa_c + h2o_c --> 2.0 nh4_c + pyr_c	nan	nan	nan	0.0
+26dap__M_c + h_c --> co2_c + lys__L_c	nan	nan	nan	0.0
+26dap_LL_c <=> 26dap__M_c	0.0	0.0	0.0	0.0
+26dap__M_p + atp_c + h2o_c --> 26dap__M_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+15dap_e <=> 15dap_p	0.0	0.0	0.0	0.0
+ctp_c + h_c + pa120_c --> cdpdddecg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa140_c --> cdpdtdecg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa141_c --> cdpdtdec7eg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa160_c --> cdpdhdecg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa161_c --> cdpdhdec9eg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa180_c --> cdpdodecg_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h_c + pa181_c --> cdpdodec11eg_c + ppi_c	nan	nan	nan	0.0
+datp_c + h2o_c + h_c --> ditp_c + nh4_c	nan	nan	nan	0.0
+ru5p__D_c --> db4p_c + for_c + h_c	nan	nan	nan	0.0
+atp_c + co2_c + dann_c --> adp_c + dtbt_c + 3.0 h_c + pi_c	nan	nan	nan	0.0
+dca_e <=> dca_p	0.0	0.0	0.0	0.0
+dcmp_e <=> dcmp_p	0.0	0.0	0.0	0.0
+dctp_c + h2o_c + h_c --> dutp_c + nh4_c	nan	nan	nan	0.0
+dcyt_c + h2o_c + h_c --> duri_c + nh4_c	nan	nan	nan	0.0
+dcyt_p + h_p --> dcyt_c + h_c	0.0	0.0	0.0	0.0
+dcyt_e <=> dcyt_p	0.0	0.0	0.0	0.0
+ddca_e --> ddca_p	0.0	0.0	0.0	0.0
+2dh3dgal_c + atp_c --> 2dh3dgal6p_c + adp_c + h_c	24.4401503703	-18.2838112175	-18.2838112175	1.11098227219
+2ddglcn_p + h_p <=> 2ddglcn_c + h_c	0.0	0.0	0.0	0.0
+2ddglcn_e <=> 2ddglcn_p	0.0	0.0	0.0	0.0
+2ddglcn_c + atp_c --> 2ddg6p_c + adp_c + h_c	24.4401503703	-18.2838112175	-18.2838112175	1.11098227219
+e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c	nan	nan	nan	0.0
+2dh3dgal6p_c <=> g3p_c + pyr_c	5.43149067749	7.87495479289	-9.23988274183	1.50486603949
+atp_c + dgmp_c <=> adp_c + dgdp_c	-44.7646961518	-1.98856646996	-1.98856646996	0.698011490678
+dgmp_e <=> dgmp_p	0.0	0.0	0.0	0.0
+dgsn_p + h_p --> dgsn_c + h_c	0.0	0.0	0.0	0.0
+dgsn_e <=> dgsn_p	0.0	0.0	0.0	0.0
+23dhmb_c --> 3mob_c + h2o_c	nan	nan	nan	0.0
+23dhmp_c --> 3mop_c + h2o_c	nan	nan	nan	0.0
+dha_c + pep_c --> dhap_c + pyr_c	-44.9599878709	-42.5695920244	-42.5695920244	1.78536504717
+dha_e <=> dha_p	0.0	0.0	0.0	0.0
+dha_p <=> dha_c	0.0	0.0	0.0	0.0
+23ddhb_c + nad_c <=> 23dhb_c + h_c + nadh_c	18.3462359938	-25.196455015	-25.196455015	11.3940388399
+23dhb_c + atp_c + h_c --> 23dhba_c + ppi_c	nan	nan	nan	0.0
+23dhbzs_c + h2o_c --> 23dhb_c + ser__L_c	nan	nan	nan	0.0
+cenchddd_c + nad_c --> dhcinnm_c + h_c + nadh_c	18.3462359938	-25.2286795467	-25.2286795467	11.3940388399
+dhcinnm_c + o2_c --> h_c + hkntd_c	nan	nan	nan	0.0
+23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c	-65.4713524024	-19.5082856059	-19.5082856059	6.9654500416
+aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c	nan	nan	nan	0.0
+dhf_c + h_c + nadph_c <=> nadp_c + thf_c	-66.2464594118	-20.7835997544	-20.7835997544	3.23882935178
+atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c	nan	nan	nan	0.0
+dhna_c + h_c + octdp_c --> 2dmmql8_c + co2_c + ppi_c	nan	nan	nan	0.0
+dhnpt_c --> 6hmhpt_c + gcald_c	8.29532924847	8.29706405998	-8.81777347474	3.63469736915
+dhor__S_c + q8_c --> orot_c + q8h2_c	nan	nan	nan	0.0
+dhor__S_c + mqn8_c --> mql8_c + orot_c	nan	nan	nan	0.0
+dhor__S_c + h2o_c <=> cbasp_c + h_c	nan	nan	nan	0.0
+cechddd_c + nad_c --> dhpppn_c + h_c + nadh_c	18.3462359938	-25.2333351721	-25.2333351721	11.3940388399
+25drapp_c + h2o_c + h_c --> 5apru_c + nh4_c	nan	nan	nan	0.0
+4abz_c + 6hmhptpp_c --> dhpt_c + ppi_c	nan	nan	nan	0.0
+dhptd_c --> h2o_c + hmfurn_c	nan	nan	nan	0.0
+ahdt_c <=> dhmptp_c	nan	nan	nan	0.0
+2dda7p_c --> 3dhq_c + pi_c	nan	nan	nan	0.0
+3dhq_c --> 3dhsk_c + h2o_c	nan	nan	nan	0.0
+dimp_e <=> dimp_p	0.0	0.0	0.0	0.0
+din_p + h_p --> din_c + h_c	0.0	0.0	0.0	0.0
+din_e <=> din_p	0.0	0.0	0.0	0.0
+25dkglcn_c + h_c + nadph_c --> 2dhguln_c + nadp_c	nan	nan	nan	0.0
+25dkglcn_c + h_c + nadh_c --> 5dglcn_c + nad_c	-65.5091535624	-21.9945086384	-21.9945086384	0.566822681812
+25dkglcn_c + h_c + nadph_c --> 5dglcn_c + nadp_c	-65.5091535624	-19.5511721735	-19.5511721735	0.566822681812
+dkmpp_c + h2o_c + o2_c --> 2kmb_c + for_c + 2.0 h_c + pi_c	nan	nan	nan	0.0
+dkmpp_c + 3.0 h2o_c + 2.0 nad_c --> 2kmb_c + for_c + 4.0 h_c + 2.0 nadh_c + pi_c	nan	nan	nan	0.0
+dmpp_c + ipdp_c --> grdp_c + ppi_c	nan	nan	nan	0.0
+h2mb4p_c + h_c + nadh_c --> dmpp_c + h2o_c + nad_c	nan	nan	nan	0.0
+2omhmbl_c + amet_c --> ahcys_c + h_c + q8h2_c	nan	nan	nan	0.0
+dmso_c + mql8_c --> dms_c + h2o_c + mqn8_c	nan	nan	nan	0.0
+dmso_p + mql8_c --> dms_p + h2o_p + mqn8_c	nan	nan	nan	0.0
+2dmmql8_c + dmso_c --> 2dmmq8_c + dms_c + h2o_c	nan	nan	nan	0.0
+2dmmql8_c + dmso_p --> 2dmmq8_c + dms_p + h2o_p	nan	nan	nan	0.0
+dmso_e <=> dmso_p	0.0	0.0	0.0	0.0
+dms_e <=> dms_p	0.0	0.0	0.0	0.0
+4hba_c -->	241.185570429	-92.2947200082	-75.1798824735	4.9555094631
+5drib_c -->	nan	nan	nan	0.0
+aacald_c -->	156.687275915	-92.2829055016	-75.1680679669	2.65518058996
+hmfurn_c -->	nan	nan	nan	0.0
+oxam_c -->	524.833118784	442.069849324	459.184686859	4.24354930577
+dhpmp_c + h2o_c --> dhnpt_c + pi_c	nan	nan	nan	0.0
+ahdt_c + h2o_c --> dhpmp_c + h_c + ppi_c	nan	nan	nan	0.0
+23doguln_c + h_c + nadh_c --> 3dhguln_c + nad_c	-65.5091535624	-22.0016475707	-22.0016475707	0.566822681812
+dopa_e <=> dopa_p	0.0	0.0	0.0	0.0
+atp_c + dpcoa_c --> adp_c + coa_c + h_c	31.8946004261	-13.0320305981	-13.0320305981	1.84468499367
+2dhp_c + h_c + nadph_c --> nadp_c + pant__R_c	-65.5091535624	-19.5466492049	-19.5466492049	0.566822681812
+2dr5p_c --> acald_c + g3p_c	-1.4535141327	-1.49829309389	-18.6131306286	3.29734156071
+dsbard_p + q8_c --> dsbaox_p + q8h2_c	nan	nan	nan	0.0
+dsbard_p + mqn8_c --> dsbaox_p + mql8_c	nan	nan	nan	0.0
+dsbcox_p + 2.0 gthrd_p --> dsbcrd_p + gthox_p	nan	nan	nan	0.0
+dsbdox_c + trdrd_c --> dsbdrd_c + trdox_c	nan	nan	nan	0.0
+dsbgox_p + 2.0 gthrd_p --> dsbgrd_p + gthox_p	nan	nan	nan	0.0
+nadp_c + ser__D_c <=> 2amsa_c + h_c + nadph_c	67.9864380503	19.6219647889	19.6219647889	0.963789276767
+h_p + ser__D_p --> h_c + ser__D_c	0.0	0.0	0.0	0.0
+ser__D_e <=> ser__D_p	0.0	0.0	0.0	0.0
+atp_c + dtmp_c <=> adp_c + dtdp_c	-44.7646961518	-2.94216451432	-2.94216451432	0.698011490678
+dtmp_e <=> dtmp_p	0.0	0.0	0.0	0.0
+dump_e <=> dump_p	0.0	0.0	0.0	0.0
+atp_c + duri_c --> adp_c + dump_c + h_c	24.4401503703	-16.5813716546	-16.5813716546	1.11098227219
+duri_c + pi_c <=> 2dr1p_c + ura_c	nan	nan	nan	0.0
+duri_p + h_p --> duri_c + h_c	0.0	0.0	0.0	0.0
+duri_e <=> duri_p	0.0	0.0	0.0	0.0
+dutp_c + h2o_c --> dump_c + h_c + ppi_c	nan	nan	nan	0.0
+dxyl5p_c + h_c + nadph_c --> 2me4p_c + nadp_c	-67.0915385147	-21.1322623553	-21.1322623553	1.57092820519
+g3p_c + h_c + pyr_c --> co2_c + dxyl5p_c	nan	nan	nan	0.0
+atp_c + dxyl_c --> adp_c + dxyl5p_c + h_c	24.4401503703	-15.8693561475	-15.8693561475	1.11098227219
+h_p + lac__D_p <=> h_c + lac__D_c	0.0	0.0	0.0	0.0
+lac__D_e <=> lac__D_p	0.0	0.0	0.0	0.0
+e4p_c + h2o_c + nad_c <=> 4per_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+h_c + nadh_c + tdec2eACP_c --> dcaACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + tdec2eACP_c --> dcaACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + tddec2eACP_c --> ddcaACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + tddec2eACP_c --> ddcaACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + t3c5ddeceACP_c --> cddec5eACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + t3c5ddeceACP_c --> cddec5eACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + tmrs2eACP_c --> myrsACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + tmrs2eACP_c --> myrsACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + t3c7mrseACP_c --> nad_c + tdeACP_c	nan	nan	nan	0.0
+h_c + nadph_c + t3c7mrseACP_c --> nadp_c + tdeACP_c	nan	nan	nan	0.0
+h_c + nadh_c + tpalm2eACP_c --> nad_c + palmACP_c	nan	nan	nan	0.0
+h_c + nadph_c + tpalm2eACP_c --> nadp_c + palmACP_c	nan	nan	nan	0.0
+h_c + nadh_c + t3c9palmeACP_c --> hdeACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + t3c9palmeACP_c --> hdeACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + toctd2eACP_c --> nad_c + ocdcaACP_c	nan	nan	nan	0.0
+h_c + nadph_c + toctd2eACP_c --> nadp_c + ocdcaACP_c	nan	nan	nan	0.0
+h_c + nadh_c + t3c11vaceACP_c --> nad_c + octeACP_c	nan	nan	nan	0.0
+h_c + nadph_c + t3c11vaceACP_c --> nadp_c + octeACP_c	nan	nan	nan	0.0
+but2eACP_c + h_c + nadh_c --> butACP_c + nad_c	nan	nan	nan	0.0
+but2eACP_c + h_c + nadph_c --> butACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + thex2eACP_c --> hexACP_c + nad_c	nan	nan	nan	0.0
+h_c + nadph_c + thex2eACP_c --> hexACP_c + nadp_c	nan	nan	nan	0.0
+h_c + nadh_c + toct2eACP_c --> nad_c + ocACP_c	nan	nan	nan	0.0
+h_c + nadph_c + toct2eACP_c --> nadp_c + ocACP_c	nan	nan	nan	0.0
+eca4colipa_p --> eca4colipa_e	nan	nan	nan	0.0
+colipa_p + eca4und_p --> eca4colipa_p + h_p + udcpdp_p	nan	nan	nan	0.0
+2.0 unagamuf_p --> eca2und_p + h_p + udcpdp_p	nan	nan	nan	0.0
+eca2und_p + unagamuf_p --> eca3und_p + h_p + udcpdp_p	nan	nan	nan	0.0
+eca3und_p + unagamuf_p --> eca4und_p + h_p + udcpdp_p	nan	nan	nan	0.0
+unagamuf_c --> unagamuf_p	0.0	0.0	0.0	0.0
+3hbcoa_c <=> b2coa_c + h2o_c	nan	nan	nan	0.0
+3hhcoa_c <=> h2o_c + hx2coa_c	nan	nan	nan	0.0
+3hocoa_c <=> h2o_c + oc2coa_c	nan	nan	nan	0.0
+3hdcoa_c <=> dc2coa_c + h2o_c	nan	nan	nan	0.0
+3hddcoa_c <=> dd2coa_c + h2o_c	nan	nan	nan	0.0
+3htdcoa_c <=> h2o_c + td2coa_c	nan	nan	nan	0.0
+3hhdcoa_c <=> h2o_c + hdd2coa_c	nan	nan	nan	0.0
+3hodcoa_c <=> h2o_c + od2coa_c	nan	nan	nan	0.0
+2ddg6p_c --> g3p_c + pyr_c	5.43149067749	7.87495479289	-9.23988274183	1.50486603949
+6pgc_c --> 2ddg6p_c + h2o_c	nan	nan	nan	0.0
+ddcaACP_c + kdo2lipid4_c --> ACP_c + kdo2lipid4L_c	nan	nan	nan	0.0
+kdo2lipid4L_c + myrsACP_c --> ACP_c + lipa_c	nan	nan	nan	0.0
+hdeACP_c + kdo2lipid4_c --> ACP_c + kdo2lipid4p_c	nan	nan	nan	0.0
+kdo2lipid4p_c + myrsACP_c --> ACP_c + lipa_cold_c	nan	nan	nan	0.0
+enlipa_p --> enlipa_e	nan	nan	nan	0.0
+2pg_c <=> h2o_c + pep_c	nan	nan	nan	0.0
+3.0 23dhba_c + 3.0 seramp_c --> 6.0 amp_c + enter_c + 9.0 h_c	-6709.36195979	-7097.52504576	-7114.63988329	1175978.39099
+enter_c + 3.0 h2o_c --> 3.0 23dhbzs_c + 3.0 h_c	nan	nan	nan	0.0
+feenter_c + 3.0 h2o_c --> 3.0 23dhbzs_c + fe3_c + 3.0 h_c	nan	nan	nan	0.0
+etha_c --> acald_c + nh4_c	nan	nan	nan	0.0
+etha_p + h_p --> etha_c + h_c	0.0	0.0	0.0	0.0
+etha_e <=> etha_p	0.0	0.0	0.0	0.0
+atp_c + ethso3_p + h2o_c --> adp_c + ethso3_c + h_c + pi_c	nan	nan	nan	0.0
+ethso3_e <=> ethso3_p	nan	nan	nan	0.0
+etoh_p + h_p <=> etoh_c + h_c	0.0	0.0	0.0	0.0
+etoh_e <=> etoh_p	0.0	0.0	0.0	0.0
+12ppd__R_e -->	332.181784241	-1.3197265668	15.7951109679	1.89831255141
+12ppd__S_e -->	332.181784241	-1.3197265668	15.7951109679	1.89831255141
+14glucan_e -->	nan	nan	nan	0.0
+15dap_e -->	35.6121298349	-628.939560888	-611.824723353	5.79098997195
+23camp_e -->	801.332511703	343.389316548	360.504154083	6.9828198071
+23ccmp_e -->	1124.88059252	666.988924748	684.103762283	9.89258333773
+23cgmp_e -->	1025.50002177	567.65770033	584.772537865	195996.398609
+23cump_e -->	1342.76742487	928.648579444	945.763416979	10.2118247659
+23dappa_e -->	348.376885336	15.4331233868	32.5479609216	6.06787166813
+26dap__M_e -->	685.554113761	101.964375682	119.079213217	4.80029853896
+2ddglcn_e -->	926.73773563	552.160698335	569.27553587	2.15325454732
+34dhpac_e -->	397.297042312	63.8298561334	80.9446936681	7.5233516106
+3amp_e -->	1031.6008032	533.8483951	550.963232635	5.02195692344
+3cmp_e -->	1355.14888402	857.443228394	874.558065929	7.91183231705
+3gmp_e -->	1255.76831327	758.099822799	775.214660334	195996.398568
+3hcinnm_e -->	324.561822108	33.3999243607	50.5147618955	5.80405852902
+3hpppn_e -->	404.784148712	30.2440399852	47.3588775199	5.16629032584
+3ump_e -->	1573.03571637	1119.51752354	1136.63236107	8.03815690298
+4abut_e -->	360.361941139	-14.8181003389	2.2967371958	2.91398040252
+4hoxpacd_e -->	194.144647399	-139.336594216	-122.221756681	5.32574987413
+5dglcn_e -->	1085.95358375	711.383429531	728.498267066	2.6408631561
+LalaDgluMdapDala_e -->	nan	nan	nan	0.0
+LalaDgluMdap_e -->	nan	nan	nan	0.0
+ac_e -->	357.459022669	233.011339857	250.126177391	1.61725292143
+acac_e -->	465.146396162	257.321029225	274.435866759	1.86444702969
+acald_e -->	139.854685267	-26.8960701368	-9.78123260209	1.34118166875
+acgal1p_e -->	1722.4019504	1141.34299506	1158.4578326	4.77015384527
+acgal_e -->	888.627919987	263.395270753	280.510108288	3.92558771667
+acgam1p_e -->	1722.4019504	1141.34299506	1158.4578326	4.77015384527
+acgam_e -->	888.627919987	263.395270753	280.510108288	3.92558771667
+acmana_e -->	888.627919987	263.395270753	280.510108288	3.92558771667
+acmum_e -->	1149.56604958	399.85180585	416.966643385	5.07303425266
+acnam_e -->	1357.49280644	607.772510717	624.887348252	5.22691808444
+acolipa_e -->	nan	nan	nan	0.0
+acser_e -->	664.295102953	289.262522714	306.377360249	4.07264769108
+ade_e -->	-308.891855616	-517.270134892	-500.155297358	5.37903459193
+adn_e -->	197.82677279	-344.097929562	-326.983092027	5.05709949364
+adocbl_e -->	nan	nan	nan	0.0
+ag_e -->	nan	nan	nan	0.0
+agm_e -->	-51.0474016457	-715.598135261	-698.483297726	10.6369021938
+akg_e -->	792.799125935	628.497116971	645.611954506	2.98092979247
+ala_B_e -->	367.326777228	75.517981843	92.6328193777	2.75803923306
+ala__D_e -->	364.645039417	72.8524835732	89.9673211079	2.59959693248
+ala__L_e -->	364.645039417	72.8524835732	89.9673211079	2.59959693248
+alaala_e -->	492.572739774	-7.65862644954	9.45621108518	5.168651603
+all__D_e -->	915.597411188	415.34546752	432.460305055	2.17681994587
+alltn_e -->	391.944517874	142.636607371	159.751444905	12.1437024379
+amp_e -->	1039.05525326	541.357792285	558.47262982	4.70263215648
+anhgm_e -->	nan	nan	nan	0.0
+arab__L_e -->	759.751418806	342.874845499	359.989683033	2.32950342638
+arbtn_e -->	nan	nan	nan	0.0
+arbtn_fe3_e -->	1625.83642023	257.622735888	274.737573423	391992.797662
+arg__L_e -->	273.923590317	-350.749988326	-333.635150791	10.2443407642
+ascb__L_e -->	nan	nan	nan	0.0
+asn__L_e -->	525.054299443	191.573075726	208.687913261	5.21317565567
+aso3_e -->	nan	nan	nan	0.0
+asp__L_e -->	692.297769191	442.821604619	459.936442154	2.94378267981
+but_e -->	343.529350491	52.3353479791	69.4501855139	1.99164799704
+butso3_e -->	nan	nan	nan	0.0
+ca2_e <=>	nan	nan	nan	0.0
+cbi_e -->	nan	nan	nan	0.0
+cbl1_e <=>	nan	nan	nan	0.0
+cd2_e -->	nan	nan	nan	0.0
+cgly_e -->	485.904114261	69.079306643	86.1941441777	6.88769147394
+chol_e -->	115.480623498	-467.534941228	-450.420103693	138590.382706
+cit_e -->	1161.75957584	958.838553806	975.953391341	3.90449327181
+cl_e <=>	nan	nan	nan	0.0
+cmp_e -->	1362.60333407	864.961138321	882.075975856	7.71150919347
+co2_e <=>	nan	nan	nan	0.0
+cobalt2_e <=>	nan	nan	nan	0.0
+colipa_e -->	nan	nan	nan	0.0
+cpgn_e -->	nan	nan	nan	0.0
+cpgn_un_e -->	nan	nan	nan	0.0
+crn_e -->	438.295049904	-187.017804531	-169.902966996	138590.382702
+csn_e -->	14.6562251994	-193.543684388	-176.428846853	7.15928718916
+cu2_e <=>	nan	nan	nan	0.0
+cu_e -->	nan	nan	nan	0.0
+cyan_e -->	nan	nan	nan	0.0
+cynt_e -->	nan	nan	nan	0.0
+cys__D_e -->	348.329840005	56.5729203596	73.6877578944	6.18690449792
+cys__L_e -->	348.329840005	56.5729203596	73.6877578944	6.18690449792
+cytd_e -->	521.374853605	-20.4615834354	-3.3467459007	7.73708079952
+dad_2_e -->	27.5614942642	-514.36287632	-497.248038786	5.57152944719
+damp_e -->	868.789974733	371.094892401	388.209729936	5.29289832563
+dca_e -->	301.740333958	-489.705189238	-472.590351703	5.86059006371
+dcmp_e -->	1192.33805555	694.711343168	711.826180703	8.08763170936
+dcyt_e -->	351.109575079	-190.700767964	-173.58593043	8.08532581469
+ddca_e -->	287.81066178	-670.38561682	-653.270779285	7.29716364508
+dgmp_e -->	1092.9574848	595.349419069	612.464256604	195996.398572
+dgsn_e -->	251.72900433	-290.019890898	-272.905053363	195996.398579
+dha_e -->	451.67229719	201.546166166	218.661003701	1.23916578231
+dimp_e -->	1086.67680708	630.66458662	647.779424155	5.45654486153
+din_e -->	245.448326615	-254.803805134	-237.6889676	5.62363721159
+dms_e -->	-6.39432129749	-256.520454404	-239.405616869	8.24997079544
+dmso_e -->	nan	nan	nan	0.0
+dopa_e -->	297.116404499	-202.502731082	-185.387893547	7.34521748098
+dtmp_e -->	1409.43515435	872.34817967	889.463017205	8.11538906208
+dump_e -->	1410.2248879	956.311673183	973.426510718	8.21898835752
+duri_e -->	568.99640743	70.0576198854	87.1724574201	8.14485865137
+eca4colipa_e -->	nan	nan	nan	0.0
+enlipa_e -->	nan	nan	nan	0.0
+enter_e -->	1963.71374388	840.493276063	857.608113598	30.9112628684
+etha_e -->	196.763362855	-136.115026678	-119.000189144	3.20938814842
+ethso3_e -->	nan	nan	nan	0.0
+etoh_e -->	179.930772208	-70.1953608984	-53.0805233637	1.80477366157
+f6p_e -->	1756.18983328	1300.1836482	1317.29848573	2.3013674056
+fald_e -->	nan	nan	nan	0.0
+fe2_e <=>	nan	nan	nan	0.0
+fe3_e <=>	nan	nan	nan	0.0
+fe3dcit_e -->	1161.75957584	958.838553806	975.953391341	3.90449327181
+fe3dhbzs_e -->	nan	nan	nan	0.0
+fe3hox_e -->	nan	nan	nan	0.0
+fe3hox_un_e -->	nan	nan	nan	0.0
+fecrm_e -->	1152.93183552	-722.509342314	-705.394504779	587989.196821
+fecrm_un_e -->	nan	nan	nan	0.0
+feenter_e -->	1963.71374388	840.493276063	857.608113598	30.9112628684
+feoxam_e -->	599.295417127	-1441.23503836	-1424.12020082	587989.196464
+feoxam_un_e -->	nan	nan	nan	0.0
+for_e -->	nan	nan	nan	0.0
+fru_e -->	914.961352809	414.712461969	431.827299504	2.24189531945
+frulys_e -->	1045.74675398	4.5353659474	21.6502034821	8.56565160152
+fruur_e -->	1092.48960327	717.91804083	735.032878365	2.41073499346
+fuc__L_e -->	758.508095787	258.256152119	275.370989653	2.07091285704
+fum_e -->	597.92458975	516.999022691	534.113860226	2.83524687025
+g1p_e -->	1749.3714416	1293.35002307	1310.46486061	2.53491326319
+g3pc_e -->	1007.16239669	173.408632465	190.523469999	195996.398772
+g3pe_e -->	1088.44513604	504.823931321	521.938768855	138590.382579
+g3pg_e -->	1380.95287283	797.937319909	815.052157444	138590.382561
+g3pi_e -->	1863.36225964	1113.59599376	1130.71083129	138590.382856
+g3ps_e -->	nan	nan	nan	0.0
+g6p_e -->	1756.82589166	1300.81184368	1317.92668121	2.28100786603
+gal1p_e -->	1749.3714416	1293.35002307	1310.46486061	2.53491326319
+gal_e -->	915.597411188	415.34546752	432.460305055	2.17681994587
+gal_bD_e -->	915.597411188	415.34546752	432.460305055	2.17681994587
+galct__D_e -->	1301.08063667	970.027686131	987.142523666	3.3945871877
+galctn__D_e -->	1123.55238621	665.600148842	682.714986377	2.80662551551
+galctn__L_e -->	1123.55238621	665.600148842	682.714986377	2.80662551551
+galt_e -->	946.024135743	362.396508372	379.511345907	3.05995012823
+galur_e -->	nan	nan	nan	0.0
+gam6p_e -->	1609.11471685	1068.47026198	1085.58509951	3.41109626821
+gam_e -->	767.886236378	185.091744973	202.206582508	3.43677132691
+gbbtn_e -->	279.079201782	-346.231626542	-329.116789007	138590.382713
+gdp_e -->	2173.65609032	1637.31325393	1654.42809147	195996.398566
+glc__D_e <=>	915.597411188	415.34546752	432.460305055	2.17681994587
+glcn_e -->	1123.55238621	665.600148842	682.714986377	2.80662551551
+glcr_e -->	1301.08063667	970.027686131	987.142523666	3.3945871877
+glcur1p_e -->	1926.89969206	1598.97850546	1616.093343	2.83301975907
+glcur_e -->	1093.12566165	718.549212007	735.664049542	2.38067233668
+gln__L_e -->	518.089463354	101.231514603	118.346352138	5.20512130681
+glu__L_e -->	685.332933102	352.475492032	369.590329566	2.94131157789
+gly_e -->	374.291613317	165.889961591	183.004799126	2.79628538433
+glyald_e -->	449.195012702	199.068888899	216.183726433	1.41015013322
+glyb_e -->	293.00887396	-165.555674955	-148.44083742	138590.382699
+glyc2p_e -->	1325.69130958	1036.41041675	1053.52525429	2.63256875549
+glyc3p_e -->	1330.49958011	1041.32381057	1058.4386481	2.42642435757
+glyc_e -->	489.271099642	155.769590414	172.884427949	2.14177055731
+glyc__R_e -->	666.799350104	458.973238815	476.088076349	1.89174501071
+glyclt_e -->	514.54833807	390.097673454	407.212510988	1.85431433317
+gmp_e -->	1263.22276333	765.601762126	782.71659966	195996.398554
+gsn_e -->	421.994282856	-119.778532169	-102.663694635	195996.398563
+gthox_e -->	1834.19388032	586.055627528	603.170465063	17.5501330327
+gthrd_e -->	nan	nan	nan	0.0
+gtp_e -->	3039.32472116	2506.96448855	2524.07932608	195996.398602
+gua_e -->	-84.7243455494	-292.97013619	-275.855298655	195996.398579
+h2_e -->	nan	nan	nan	0.0
+h2o2_e -->	nan	nan	nan	0.0
+h2o_e <=>	nan	nan	nan	0.0
+h2s_e -->	nan	nan	nan	0.0
+h_e <=>	0.0	0.0	0.0	0.0
+hacolipa_e -->	nan	nan	nan	0.0
+halipa_e -->	nan	nan	nan	0.0
+hdca_e -->	259.951317424	-1031.74647198	-1014.63163445	10.2086216002
+hdcea_e -->	179.72899082	-1028.59260369	-1011.47776615	9.94367809668
+hg2_e -->	nan	nan	nan	0.0
+his__L_e -->	185.451555681	-189.152339815	-172.03750228	7.72388244582
+hom__L_e -->	514.769518729	139.624475237	156.739312772	2.66490457803
+hxa_e -->	329.599678314	-128.34111367	-111.226276136	3.1153728726
+hxan_e -->	-91.0050232649	-257.709586491	-240.594748956	5.12052916604
+idon__L_e -->	1123.55238621	665.600148842	682.714986377	2.80662551551
+ile__L_e -->	341.06879334	-200.854577963	-183.739740428	3.55504243893
+imp_e -->	1256.94208561	800.927613353	818.042450888	4.9206465717
+indole_e -->	-210.91442927	-502.728251227	-485.613413693	8.12798747303
+inost_e -->	979.134936513	478.882703308	495.997540843	9.62386518867
+ins_e -->	415.713605141	-84.53850309	-67.4236655553	5.14747654092
+isetac_e -->	931.265262829	723.438897341	740.553734876	138590.382546
+k_e <=>	nan	nan	nan	0.0
+kdo2lipid4_e -->	5720.54806009	-427.177008292	-410.062170758	39.7762414039
+lac__D_e -->	509.710034703	301.884243871	318.999081405	1.67411695006
+lac__L_e -->	509.710034703	301.884243871	318.999081405	1.67411695006
+lcts_e -->	1579.77673774	662.647944927	679.762782462	4.3717661456
+leu__L_e -->	341.06879334	-200.851705601	-183.736868066	3.55504243893
+lipa_e -->	5842.82662134	-2305.90751189	-2288.79267436	56.4608246374
+lipa_cold_e -->	nan	nan	nan	0.0
+lys__L_e -->	360.583121798	-264.105756933	-246.990919399	4.9902545113
+lyx__L_e -->	759.751418806	342.874845499	359.989683033	2.32950342638
+mal__D_e -->	837.362764477	673.068162384	690.182999919	2.60209714442
+mal__L_e -->	837.362764477	673.068162384	690.182999919	2.60209714442
+malt_e -->	1579.77673774	662.647944927	679.762782462	4.3717661456
+malthx_e -->	4236.49404397	1651.85779084	1668.97262837	16.3441422434
+maltpt_e -->	3572.31471742	1404.55533228	1421.67016981	13.2871292456
+malttr_e -->	2243.9560643	909.950408862	927.065246397	7.24834328444
+maltttr_e -->	2908.13539086	1157.25287465	1174.36771218	10.24777871
+man6p_e -->	1756.82589166	1300.81184368	1317.92668121	2.28100786603
+man_e -->	915.597411188	415.34546752	432.460305055	2.17681994587
+manglyc_e -->	1333.62485618	708.921880743	726.036718277	3.38533074344
+melib_e -->	1587.2311878	670.102394984	687.217232519	4.3771163476
+met__D_e -->	321.479589135	-137.064666494	-119.949828959	7.573261217
+met__L_e -->	321.479589135	-137.064666494	-119.949828959	7.573261217
+metsox_R__L_e -->	nan	nan	nan	0.0
+metsox_S__L_e -->	nan	nan	nan	0.0
+mg2_e <=>	nan	nan	nan	0.0
+minohp_e -->	5981.77911899	5819.7935562	5836.90839374	16.4738793189
+mmet_e -->	345.776473861	-237.223817017	-220.108979482	195996.398513
+mn2_e <=>	nan	nan	nan	0.0
+mnl_e -->	946.024135743	362.396508372	379.511345907	3.05995012823
+mobd_e <=>	nan	nan	nan	0.0
+mso3_e -->	781.140783516	656.689795731	673.804633266	138590.382546
+n2o_e -->	nan	nan	nan	0.0
+na1_e <=>	nan	nan	nan	0.0
+nac_e -->	187.813763008	21.6765632513	38.791400786	5.1656136163
+nh4_e <=>	nan	nan	nan	0.0
+ni2_e -->	nan	nan	nan	0.0
+nmn_e -->	1409.85651794	827.232538229	844.347375764	9.91014718518
+no2_e -->	nan	nan	nan	0.0
+no3_e -->	nan	nan	nan	0.0
+no_e -->	nan	nan	nan	0.0
+o16a4colipa_e -->	nan	nan	nan	0.0
+o2_e <=>	nan	nan	nan	0.0
+o2s_e -->	nan	nan	nan	0.0
+ocdca_e -->	246.021645246	-1212.42689957	-1195.31206203	11.6739552561
+ocdcea_e -->	165.799318642	-1209.27303127	-1192.15819373	11.3886579452
+octa_e -->	315.670006136	-309.018519107	-291.903681572	4.45333203181
+orn_e -->	367.547957887	-173.765563981	-156.650726447	4.81479265587
+orot_e -->	566.370889865	441.92019027	459.035027805	6.68423252487
+pacald_e -->	-9.00774751353	-342.509258322	-325.394420787	5.09137867651
+peamn_e -->	-109.188385327	-608.822212461	-591.707374927	5.49180617015
+phe__L_e -->	215.782606636	-242.759193915	-225.64435638	5.07670544272
+pheme_e -->	nan	nan	nan	0.0
+pi_e <=>	nan	nan	nan	0.0
+pnto__R_e -->	770.696012525	104.316530354	121.431367889	8.55764671924
+ppa_e -->	350.49418658	142.67317891	159.788016445	1.65608511877
+ppal_e -->	132.889849178	-117.236283928	-100.121446393	1.6331526984
+pppn_e -->	201.6317538	-172.940250167	-155.825412633	4.88350096443
+ppt_e -->	nan	nan	nan	0.0
+pro__L_e -->	289.011732966	-86.1771520641	-69.0623145294	15.8055869544
+progly_e -->	nan	nan	nan	0.0
+psclys_e -->	nan	nan	nan	0.0
+pser__L_e -->	1362.96283529	1115.52724038	1132.64207791	3.05486637897
+ptrc_e -->	42.5769659238	-538.599347097	-521.484509562	5.56022562886
+pyr_e -->	472.111232251	347.660325645	364.77516318	1.84123135343
+r5p_e -->	1599.08994283	1226.45125362	1243.56609116	2.39860337688
+rib__D_e -->	757.861462363	340.984889054	358.099726589	2.31772372764
+rmn_e -->	758.508095787	258.256152119	275.370989653	2.07091285704
+sbt__D_e -->	946.024135743	362.396508372	379.511345907	3.05995012823
+ser__D_e -->	521.734354818	229.995034259	247.109871793	2.7426326744
+ser__L_e -->	521.734354818	229.995034259	247.109871793	2.7426326744
+skm_e -->	820.128380505	445.552470156	462.66730769	8.63220875275
+so2_e -->	nan	nan	nan	0.0
+so3_e -->	nan	nan	nan	0.0
+so4_e <=>	nan	nan	nan	0.0
+spmd_e -->	9.11379158412	-902.452891081	-885.338053546	10.4511862592
+succ_e -->	678.146916354	513.872819431	530.987656965	2.66785905186
+sucr_e -->	1568.09222211	650.963160414	668.077997948	5.31699979007
+sulfac_e -->	1108.79351329	1027.86650019	1044.98133772	138590.382546
+tartr__L_e -->	996.578612599	832.279774076	849.394611611	2.88612808524
+taur_e -->	791.008538075	499.223960907	516.338798442	138590.38256
+tcynt_e -->	-92.609691808	-91.9976127387	-74.882775204	13.3948349067
+thm_e -->	-182.476096625	-890.145112724	-873.030275189	195996.398975
+thr__L_e -->	516.896051451	141.770414505	158.88525204	2.70941618977
+thrp_e -->	1353.31626139	1022.48330707	1039.59814461	3.32950143793
+thym_e -->	231.753324002	-18.3727867883	-1.25794925355	6.52843805893
+thymd_e -->	568.206673882	-13.9861178819	3.12871965284	7.9832734994
+tma_e -->	-37.1732279121	-453.427491086	-436.312653551	13.3948351043
+tmao_e -->	nan	nan	nan	0.0
+tre_e -->	1579.77673774	662.647662202	679.762499737	4.3717661456
+trp__L_e -->	123.134583703	-377.092138372	-359.977300837	8.00050798822
+tsul_e -->	nan	nan	nan	0.0
+ttdca_e -->	273.880989602	-851.066044401	-833.951206867	8.74862333687
+ttdcea_e -->	nan	nan	nan	0.0
+tungs_e <=>	nan	nan	nan	0.0
+tym_e -->	93.9640095861	-405.667593222	-388.552755687	5.39983434989
+tyr__L_e -->	418.935001549	-39.5880687572	-22.4732312224	5.10547185549
+tyrp_e -->	nan	nan	nan	0.0
+uacgam_e -->	3117.87484377	2080.68589032	2097.80072786	10.9448399804
+udpacgal_e -->	3117.87484377	2080.68589032	2097.80072786	10.9448399804
+udpg_e -->	3144.84433497	2232.70906572	2249.82390325	9.71416710289
+udpgal_e -->	3144.84433497	2232.70906572	2249.82390325	9.71416710289
+udpglcur_e -->	3322.37258544	2539.21260146	2556.327439	9.88391275904
+ump_e -->	1580.49016642	1126.88284281	1143.99768034	7.87072178011
+ura_e -->	232.54305755	65.79236504	82.9072025747	6.99457451675
+urea_e -->	179.404514325	12.6537594753	29.76859701	7.78165847328
+uri_e -->	739.261685956	240.547200854	257.662038389	7.82096877398
+val__L_e -->	348.033629429	-110.514752508	-93.3999149733	3.40540533765
+xan_e -->	112.147371648	-54.4964235096	-37.3815859748	6.00623751021
+xmp_e -->	1460.09448052	1004.08037706	1021.1952146	5.98176874598
+xtsn_e -->	618.866000054	118.614035048	135.728872583	6.12721368265
+xyl__D_e -->	759.751418806	342.874845499	359.989683033	2.32950342638
+xylu__L_e -->	759.115360427	342.241770502	359.356608037	2.34620252731
+zn2_e <=>	nan	nan	nan	0.0
+0.000223 10fthf_c + 0.000223 2ohph_c + 0.5137 ala__L_c + 0.000223 amet_c + 0.2958 arg__L_c + 0.2411 asn__L_c + 0.2411 asp__L_c + 59.984 atp_c + 0.004737 ca2_c + 0.004737 cl_c + 0.000576 coa_c + 0.003158 cobalt2_c + 0.1335 ctp_c + 0.003158 cu2_c + 0.09158 cys__L_c + 0.02617 datp_c + 0.02702 dctp_c + 0.02702 dgtp_c + 0.02617 dttp_c + 0.000223 fad_c + 0.007106 fe2_c + 0.007106 fe3_c + 0.2632 gln__L_c + 0.2632 glu__L_c + 0.6126 gly_c + 0.2151 gtp_c + 54.462 h2o_c + 0.09474 his__L_c + 0.2905 ile__L_c + 0.1776 k_c + 0.01945 kdo2lipid4_e + 0.4505 leu__L_c + 0.3432 lys__L_c + 0.1537 met__L_c + 0.007895 mg2_c + 0.000223 mlthf_c + 0.003158 mn2_c + 0.003158 mobd_c + 0.01389 murein5px4p_p + 0.001831 nad_c + 0.000447 nadp_c + 0.011843 nh4_c + 0.02233 pe160_c + 0.04148 pe160_p + 0.02632 pe161_c + 0.04889 pe161_p + 0.1759 phe__L_c + 0.000223 pheme_c + 0.2211 pro__L_c + 0.000223 pydx5p_c + 0.000223 ribflv_c + 0.2158 ser__L_c + 0.000223 sheme_c + 0.003948 so4_c + 0.000223 thf_c + 0.000223 thmpp_c + 0.2537 thr__L_c + 0.05684 trp__L_c + 0.1379 tyr__L_c + 5.5e-05 udcpdp_c + 0.1441 utp_c + 0.4232 val__L_c + 0.003158 zn2_c --> 59.81 adp_c + 59.81 h_c + 59.806 pi_c + 0.7739 ppi_c	nan	nan	nan	0.0
+f6p_c <=> dha_c + g3p_c	14.0940429167	14.0555712757	-3.05926625904	1.34997784303
+f6p_c + h2o_c --> fru_c + pi_c	nan	nan	nan	0.0
+f6p_p + 2.0 pi_c --> f6p_c + 2.0 pi_p	0.0	0.0	0.0	0.0
+f6p_e <=> f6p_p	0.0	0.0	0.0	0.0
+dcaACP_c + h2o_c --> ACP_c + dca_c + h_c	nan	nan	nan	0.0
+ddcaACP_c + h2o_c --> ACP_c + ddca_c + h_c	nan	nan	nan	0.0
+h2o_c + myrsACP_c --> ACP_c + h_c + ttdca_c	nan	nan	nan	0.0
+h2o_c + tdeACP_c --> ACP_c + h_c + ttdcea_c	nan	nan	nan	0.0
+h2o_c + palmACP_c --> ACP_c + h_c + hdca_c	nan	nan	nan	0.0
+h2o_c + hdeACP_c --> ACP_c + h_c + hdcea_c	nan	nan	nan	0.0
+h2o_c + ocACP_c --> ACP_c + h_c + octa_c	nan	nan	nan	0.0
+dcacoa_c + h2o_c --> coa_c + dca_c + h_c	nan	nan	nan	0.0
+ddcacoa_c + h2o_c --> coa_c + ddca_c + h_c	nan	nan	nan	0.0
+h2o_c + tdcoa_c --> coa_c + h_c + ttdca_c	nan	nan	nan	0.0
+h2o_c + tdecoa_c --> coa_c + h_c + ttdcea_c	nan	nan	nan	0.0
+h2o_c + pmtcoa_c --> coa_c + h_c + hdca_c	nan	nan	nan	0.0
+h2o_c + hdcoa_c --> coa_c + h_c + hdcea_c	nan	nan	nan	0.0
+h2o_c + stcoa_c --> coa_c + h_c + ocdca_c	nan	nan	nan	0.0
+h2o_c + odecoa_c --> coa_c + h_c + ocdcea_c	nan	nan	nan	0.0
+h2o_c + hxcoa_c --> coa_c + h_c + hxa_c	nan	nan	nan	0.0
+h2o_c + occoa_c --> coa_c + h_c + octa_c	nan	nan	nan	0.0
+atp_c + coa_c + dca_p + h_p --> amp_c + dcacoa_c + h_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + ddca_p + h_p --> amp_c + ddcacoa_c + h_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + ttdca_p --> amp_c + h_c + ppi_c + tdcoa_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + ttdcea_p --> amp_c + h_c + ppi_c + tdecoa_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + hdca_p --> amp_c + h_c + pmtcoa_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + hdcea_p --> amp_c + h_c + hdcoa_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + ocdca_p --> amp_c + h_c + ppi_c + stcoa_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + ocdcea_p --> amp_c + h_c + odecoa_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + hxa_p --> amp_c + h_c + hxcoa_c + ppi_c	nan	nan	nan	0.0
+atp_c + coa_c + h_p + octa_p --> amp_c + h_c + occoa_c + ppi_c	nan	nan	nan	0.0
+fad_c + h_c + nadh_c --> fadh2_c + nad_c	-74.4824273188	13.7842787019	13.7842787019	11.1485287595
+fad_c + h_c + nadph_c --> fadh2_c + nadp_c	-74.4824273188	16.2276151668	16.2276151668	11.1485287595
+hmgth_c + nad_c <=> Sfglutth_c + h_c + nadh_c	nan	nan	nan	0.0
+fald_e <=> fald_p	0.0	0.0	0.0	0.0
+fald_p <=> fald_c	0.0	0.0	0.0	0.0
+fald_c + gthrd_c <=> hmgth_c	nan	nan	nan	0.0
+fdp_c <=> dhap_c + g3p_c	14.0940429167	18.8419607346	1.72712319984	1.34997784303
+fdp_c + h2o_c --> f6p_c + pi_c	nan	nan	nan	0.0
+fuc__L_c <=> fcl__L_c	7.17207789663	7.17022060746	7.17022060746	1.62508497245
+atp_c + fcl__L_c --> adp_c + fc1p_c + h_c	24.4401503703	-15.7830107439	-15.7830107439	1.11098227219
+fc1p_c <=> dhap_c + lald__L_c	7.55802339902	7.55666496711	-9.55817256761	1.75630486495
+fe2_c + ppp9_c --> 2.0 h_c + pheme_c	nan	nan	nan	0.0
+for_p + 2.0 h_c + q8_c --> co2_c + h_p + q8h2_c	nan	nan	nan	0.0
+for_p + 2.0 h_c + mqn8_c --> co2_c + h_p + mql8_c	nan	nan	nan	0.0
+fmnh2_c + isetac_c + o2_c --> fmn_c + gcald_c + h2o_c + h_c + so3_c	nan	nan	nan	0.0
+fmnh2_c + mso3_c + o2_c --> fald_c + fmn_c + h2o_c + h_c + so3_c	nan	nan	nan	0.0
+ethso3_c + fmnh2_c + o2_c --> acald_c + fmn_c + h2o_c + h_c + so3_c	nan	nan	nan	0.0
+butso3_c + fmnh2_c + o2_c --> btal_c + fmn_c + h2o_c + h_c + so3_c	nan	nan	nan	0.0
+fmnh2_c + o2_c + sulfac_c --> fmn_c + glx_c + h2o_c + h_c + so3_c	nan	nan	nan	0.0
+atp_c + fe2_p + h2o_c --> adp_c + fe2_c + h_c + pi_c	nan	nan	nan	0.0
+fe2_p + h_p --> fe2_c + h_c	0.0	0.0	0.0	0.0
+fe2_c + h_p --> fe2_p + h_c	0.0	0.0	0.0	0.0
+fe2_e <=> fe2_p	0.0	0.0	0.0	0.0
+fe2_p --> fe2_c	0.0	0.0	0.0	0.0
+atp_c + fe3dcit_p + h2o_c --> adp_c + 2.0 cit_c + fe3_c + h_c + pi_c	nan	nan	nan	0.0
+fe3dcit_e + h_p --> fe3dcit_p + h_c	0.0	0.0	0.0	0.0
+fe3dhbzs_c --> 23dhbzs_c + fe3_c	nan	nan	nan	0.0
+atp_c + fe3dhbzs_p + h2o_c --> adp_c + fe3dhbzs_c + h_c + pi_c	nan	nan	nan	0.0
+fe3dhbzs_e + h_p --> fe3dhbzs_p + h_c	nan	nan	nan	0.0
+fadh2_c + 2.0 fe3hox_c --> fad_c + 2.0 fe2_c + 2.0 fe3hox_un_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 fe3hox_c + fmnh2_c --> 2.0 fe2_c + 2.0 fe3hox_un_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 fe3hox_c + rbflvrd_c --> 2.0 fe2_c + 2.0 fe3hox_un_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+fe3hox_un_c + h_p --> fe3hox_un_p + h_c	nan	nan	nan	0.0
+fe3hox_un_p + h_p --> fe3hox_un_e + h_c	nan	nan	nan	0.0
+atp_c + fe3hox_p + h2o_c --> adp_c + fe3hox_c + h_c + pi_c	nan	nan	nan	0.0
+fe3_e + fe3hox_un_e --> fe3hox_e	nan	nan	nan	0.0
+fe3hox_e + h_p --> fe3hox_p + h_c	0.0	0.0	0.0	0.0
+fadh2_c + 2.0 fe3_c --> fad_c + 2.0 fe2_c + 2.0 h_c	nan	nan	nan	0.0
+atp_c + fe3_p + h2o_c --> adp_c + fe3_c + h_c + pi_c	nan	nan	nan	0.0
+fe3_e <=> fe3_p	0.0	0.0	0.0	0.0
+fadh2_c + 2.0 fecrm_c --> fad_c + 2.0 fe2_c + 2.0 fecrm_un_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 fecrm_c + fmnh2_c --> 2.0 fe2_c + 2.0 fecrm_un_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 fecrm_c + rbflvrd_c --> 2.0 fe2_c + 2.0 fecrm_un_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+fecrm_un_p + h_p --> fecrm_un_e + h_c	nan	nan	nan	0.0
+fecrm_un_c + h_p --> fecrm_un_p + h_c	nan	nan	nan	0.0
+atp_c + fecrm_p + h2o_c --> adp_c + fecrm_c + h_c + pi_c	nan	nan	nan	0.0
+fe3_e + fecrm_un_e --> fecrm_e	nan	nan	nan	0.0
+fecrm_e + h_p --> fecrm_p + h_c	0.0	0.0	0.0	0.0
+fadh2_c + 2.0 feenter_c --> 2.0 enter_c + fad_c + 2.0 fe2_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 feenter_c + fmnh2_c --> 2.0 enter_c + 2.0 fe2_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 feenter_c + rbflvrd_c --> 2.0 enter_c + 2.0 fe2_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+atp_c + feenter_p + h2o_c --> adp_c + feenter_c + h_c + pi_c	nan	nan	nan	0.0
+enter_e + fe3_e --> feenter_e	nan	nan	nan	0.0
+enter_p + h_p --> enter_e + h_c	0.0	0.0	0.0	0.0
+feenter_e + h_p --> feenter_p + h_c	0.0	0.0	0.0	0.0
+enter_c + h_p --> enter_p + h_c	0.0	0.0	0.0	0.0
+fadh2_c + 2.0 feoxam_c --> fad_c + 2.0 fe2_c + 2.0 feoxam_un_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 feoxam_c + fmnh2_c --> 2.0 fe2_c + 2.0 feoxam_un_c + fmn_c + 2.0 h_c	nan	nan	nan	0.0
+2.0 feoxam_c + rbflvrd_c --> 2.0 fe2_c + 2.0 feoxam_un_c + 2.0 h_c + ribflv_c	nan	nan	nan	0.0
+feoxam_un_p + h_p --> feoxam_un_e + h_c	nan	nan	nan	0.0
+feoxam_un_c + h_p --> feoxam_un_p + h_c	nan	nan	nan	0.0
+atp_c + feoxam_p + h2o_c --> adp_c + feoxam_c + h_c + pi_c	nan	nan	nan	0.0
+fe3_e + feoxam_un_e --> feoxam_e	nan	nan	nan	0.0
+feoxam_e + h_p --> feoxam_p + h_c	0.0	0.0	0.0	0.0
+4.0 fe2_p + 4.0 h_p + o2_p --> 4.0 fe3_p + 2.0 h2o_p	nan	nan	nan	0.0
+h2o_c + suc6p_c --> fru_c + g6p_c	nan	nan	nan	0.0
+for_c + h_c --> co2_c + h2_c	nan	nan	nan	0.0
+fldox_c + h_c + nadph_c --> fldrd_c + nadp_c	nan	nan	nan	0.0
+h_c + nadph_c + ribflv_c --> nadp_c + rbflvrd_c	-74.4824273188	13.7832209682	13.7832209682	11.1485287595
+h_c + nadh_c + ribflv_c --> nad_c + rbflvrd_c	-74.4824273188	11.3398845033	11.3398845033	11.1485287595
+10fthf_c + mettrna_c --> fmettrna_c + h_c + thf_c	nan	nan	nan	0.0
+atp_c + fmn_c + h_c --> fad_c + ppi_c	nan	nan	nan	0.0
+fmn_c + h_c + nadh_c --> fmnh2_c + nad_c	-27.9103511099	15.6096683712	15.6096683712	1.546190865
+fmn_c + h_c + nadph_c --> fmnh2_c + nadp_c	-27.9103511099	18.0530048361	18.0530048361	1.546190865
+for_p + h_p --> for_c + h_c	0.0	0.0	0.0	0.0
+for_e <=> for_p	0.0	0.0	0.0	0.0
+for_c --> for_p	0.0	0.0	0.0	0.0
+fum_c + mql8_c --> mqn8_c + succ_c	nan	nan	nan	0.0
+2dmmql8_c + fum_c --> 2dmmq8_c + succ_c	nan	nan	nan	0.0
+atp_c + f1p_c --> adp_c + fdp_c + h_c	nan	nan	nan	0.0
+frulysp_c + h2o_c <=> g6p_c + lys__L_c	nan	nan	nan	0.0
+psclys_c <=> frulys_c	nan	nan	nan	0.0
+atp_c + frulys_c --> adp_c + frulysp_c + h_c	nan	nan	nan	0.0
+frulys_p + h_p --> frulys_c + h_c	0.0	0.0	0.0	0.0
+frulys_e <=> frulys_p	0.0	0.0	0.0	0.0
+fruur_p + h_p <=> fruur_c + h_c	0.0	0.0	0.0	0.0
+fruur_e <=> fruur_p	0.0	0.0	0.0	0.0
+fru_p + pep_c --> f6p_c + pyr_c	-44.9599878709	-42.5815496853	-42.5815496853	1.78536504717
+fru_p + pep_c --> f1p_c + pyr_c	nan	nan	nan	0.0
+fru_e <=> fru_p	0.0	0.0	0.0	0.0
+10fthf_c + h2o_c --> for_c + h_c + thf_c	nan	nan	nan	0.0
+fuc__L_e <=> fuc__L_p	0.0	0.0	0.0	0.0
+fuc__L_p + h_p <=> fuc__L_c + h_c	0.0	0.0	0.0	0.0
+fum_c + h2o_c <=> mal__L_c	nan	nan	nan	0.0
+fum_p + 2.0 h_p --> fum_c + 2.0 h_c	0.0	0.0	0.0	0.0
+fum_p + 3.0 h_p --> fum_c + 3.0 h_c	0.0	0.0	0.0	0.0
+fum_e <=> fum_p	0.0	0.0	0.0	0.0
+accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c	11.7452083673	-31.5862957745	-31.5862957745	2.42614877233
+g1p_p + h2o_p --> glc__D_p + pi_p	nan	nan	nan	0.0
+dttp_c + g1p_c + h_c --> dtdpglu_c + ppi_c	nan	nan	nan	0.0
+g1p_e <=> g1p_p	0.0	0.0	0.0	0.0
+glu1sa_c <=> 5aop_c	-7.28555502017	-7.6105272562	-7.6105272562	1.34274989673
+glyc2p_p + h2o_p --> glyc_p + pi_p	nan	nan	nan	0.0
+ddcaACP_c + glyc3p_c --> 1ddecg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + myrsACP_c --> 1tdecg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + tdeACP_c --> 1tdec7eg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + palmACP_c --> 1hdecg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + hdeACP_c --> 1hdec9eg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + ocdcaACP_c --> 1odecg3p_c + ACP_c	nan	nan	nan	0.0
+glyc3p_c + octeACP_c --> 1odec11eg3p_c + ACP_c	nan	nan	nan	0.0
+atp_c + g3pc_p + h2o_c --> adp_c + g3pc_c + h_c + pi_c	nan	nan	nan	0.0
+g3pc_e <=> g3pc_p	0.0	0.0	0.0	0.0
+glyc3p_c + nadp_c <=> dhap_c + h_c + nadph_c	65.5091535624	19.6409383349	19.6409383349	0.566822681812
+glyc3p_c + q8_c --> dhap_c + q8h2_c	nan	nan	nan	0.0
+glyc3p_c + mqn8_c --> dhap_c + mql8_c	nan	nan	nan	0.0
+2dmmq8_c + glyc3p_c --> 2dmmql8_c + dhap_c	nan	nan	nan	0.0
+atp_c + g3pe_p + h2o_c --> adp_c + g3pe_c + h_c + pi_c	nan	nan	nan	0.0
+g3pe_e <=> g3pe_p	0.0	0.0	0.0	0.0
+atp_c + g3pg_p + h2o_c --> adp_c + g3pg_c + h_c + pi_c	nan	nan	nan	0.0
+g3pg_e <=> g3pg_p	0.0	0.0	0.0	0.0
+atp_c + g3pi_p + h2o_c --> adp_c + g3pi_c + h_c + pi_c	nan	nan	nan	0.0
+g3pi_e <=> g3pi_p	0.0	0.0	0.0	0.0
+atp_c + g3ps_p + h2o_c --> adp_c + g3ps_c + h_c + pi_c	nan	nan	nan	0.0
+g3ps_e <=> g3ps_p	nan	nan	nan	0.0
+glyc3p_c + h2o_c --> glyc_c + pi_c	nan	nan	nan	0.0
+glu5sa_c --> 1pyr5c_c + h2o_c + h_c	nan	nan	nan	0.0
+glu5p_c + h_c + nadph_c --> glu5sa_c + nadp_c + pi_c	nan	nan	nan	0.0
+gam6p_c + h2o_c --> f6p_c + nh4_c	nan	nan	nan	0.0
+g6p_c + nadp_c <=> 6pgl_c + h_c + nadph_c	33.2434971965	-12.7392835543	-12.7392835543	3.22520774691
+g6p_c + h2o_c --> glc__D_c + pi_c	nan	nan	nan	0.0
+g6p_p + 2.0 pi_c --> g6p_c + 2.0 pi_p	0.0	0.0	0.0	0.0
+g6p_e <=> g6p_p	0.0	0.0	0.0	0.0
+gal1p_p + h2o_p --> gal_p + pi_p	nan	nan	nan	0.0
+gal1p_e <=> gal1p_p	0.0	0.0	0.0	0.0
+gal_bD_e <=> gal_bD_p	0.0	0.0	0.0	0.0
+galct__D_c --> 5dh4dglc_c + h2o_c	nan	nan	nan	0.0
+galctn__L_c + nad_c --> h_c + nadh_c + tagur_c	58.9731340447	15.4479669821	15.4479669821	1.56731216007
+galctn__D_c --> 2dh3dgal_c + h2o_c	nan	nan	nan	0.0
+galctn__L_p + h_p --> galctn__L_c + h_c	0.0	0.0	0.0	0.0
+galctn__L_e <=> galctn__L_p	0.0	0.0	0.0	0.0
+galctn__D_p + h_p --> galctn__D_c + h_c	0.0	0.0	0.0	0.0
+galctn__D_e <=> galctn__D_p	0.0	0.0	0.0	0.0
+galct__D_p + h_p <=> galct__D_c + h_c	0.0	0.0	0.0	0.0
+galct__D_e <=> galct__D_p	0.0	0.0	0.0	0.0
+atp_c + gal_c <=> adp_c + gal1p_c + h_c	31.8946004261	-8.33187391056	-8.33187391056	1.84468499367
+gal_bD_p --> gal_p	0.0	0.0	0.0	0.0
+h2o_c + melib_c --> gal_c + glc__D_c	nan	nan	nan	0.0
+gicolipa_c + udpg_c --> gagicolipa_c + h_c + udp_c	nan	nan	nan	0.0
+galt_p + pep_c --> galt1p_c + pyr_c	-44.9599878709	-42.6604452265	-42.6604452265	1.78536504717
+galt_e <=> galt_p	0.0	0.0	0.0	0.0
+galur_p + h_p <=> galur_c + h_c	nan	nan	nan	0.0
+galur_e <=> galur_p	nan	nan	nan	0.0
+g1p_c + h_c + utp_c --> ppi_c + udpg_c	nan	nan	nan	0.0
+atp_c + gal_p + h2o_c --> adp_c + gal_c + h_c + pi_c	nan	nan	nan	0.0
+gal_p + h_p --> gal_c + h_c	0.0	0.0	0.0	0.0
+gal_e <=> gal_p	0.0	0.0	0.0	0.0
+gam6p_p + 2.0 pi_c --> gam6p_c + 2.0 pi_p	0.0	0.0	0.0	0.0
+gam6p_e <=> gam6p_p	0.0	0.0	0.0	0.0
+gam_p + pep_c --> gam6p_c + pyr_c	-44.9599878709	-40.4888804575	-40.4888804575	1.78536504717
+gam_e <=> gam_p	0.0	0.0	0.0	0.0
+g3p_c + nad_c + pi_c <=> 13dpg_c + h_c + nadh_c	nan	nan	nan	0.0
+10fthf_c + gar_c <=> fgam_c + h_c + thf_c	48.9888754408	5.60430006568	5.60430006568	9.42011515691
+atp_c + for_c + gar_c --> adp_c + fgam_c + h_c + pi_c	nan	nan	nan	0.0
+gbbtn_e <=> gbbtn_p	0.0	0.0	0.0	0.0
+gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c	nan	nan	nan	0.0
+gdpddman_c --> gdpofuc_c	0.0	0.0	0.0	0.0
+atp_c + gdp_c --> amp_c + h_c + ppgpp_c	83.9550359058	-15.4026371055	-15.4026371055	13.5212599338
+gdpmann_c + h2o_c --> gdp_c + h_c + man_c	nan	nan	nan	0.0
+gdpmann_c + h2o_c --> gmp_c + 2.0 h_c + man1p_c	nan	nan	nan	0.0
+gdp_e <=> gdp_p	0.0	0.0	0.0	0.0
+f6p_c + gln__L_c --> gam6p_c + glu__L_c	-20.1683533181	-19.5305912053	-19.5305912053	4.11152691203
+ggbutal_c + h2o_c + nadp_c <=> gg4abut_c + 2.0 h_c + nadph_c	nan	nan	nan	0.0
+gg4abut_c + h2o_c --> 4abut_c + glu__L_c	nan	nan	nan	0.0
+ggptrc_c + h2o_c + o2_c --> ggbutal_c + h2o2_c + nh4_c	nan	nan	nan	0.0
+atp_c + glu__L_c + ptrc_c --> adp_c + ggptrc_c + h_c + pi_c	nan	nan	nan	0.0
+ser__L_c + thf_c <=> gly_c + h2o_c + mlthf_c	nan	nan	nan	0.0
+atp_c + gmp_c <=> adp_c + gdp_c	-44.7646961518	-2.03881016458	-2.03881016458	0.698011490678
+glycogen_c --> bglycogen_c	nan	nan	nan	0.0
+accoa_c + glc__D_c <=> acglc__D_c + coa_c	-10.0738561594	-10.1155720871	-10.1155720871	3.13423909884
+glc__D_p + h2o_p + q8_c --> glcn_p + h_p + q8h2_c	nan	nan	nan	0.0
+glcn_p + h_p <=> glcn_c + h_c	0.0	0.0	0.0	0.0
+glcn_e <=> glcn_p	0.0	0.0	0.0	0.0
+glycogen_c + pi_c --> g1p_c	nan	nan	nan	0.0
+bglycogen_c + pi_c --> g1p_c	nan	nan	nan	0.0
+5dh4dglc_c --> 2h3oppan_c + pyr_c	5.43149067749	6.65557763164	-10.4592599031	1.50486603949
+glcr_c --> 5dh4dglc_c + h2o_c	nan	nan	nan	0.0
+glcr_p + h_p <=> glcr_c + h_c	0.0	0.0	0.0	0.0
+glcr_e <=> glcr_p	0.0	0.0	0.0	0.0
+adpglc_c --> adp_c + glycogen_c + h_c	-2261.66899936	-930.869060787	-947.983898322	8.28358333588
+icolipa_c + udpg_c --> gicolipa_c + h_c + udp_c	nan	nan	nan	0.0
+gagicolipa_c + udpg_c --> ggagicolipa_c + h_c + udp_c	nan	nan	nan	0.0
+ggagicolipa_c + udpg_c --> gggagicolipa_c + h_c + udp_c	nan	nan	nan	0.0
+glcur1p_e <=> glcur1p_p	0.0	0.0	0.0	0.0
+glcur_p + h_p <=> glcur_c + h_c	0.0	0.0	0.0	0.0
+glcur_e <=> glcur_p	0.0	0.0	0.0	0.0
+atp_c + glc__D_p + h2o_c --> adp_c + glc__D_c + h_c + pi_c	nan	nan	nan	0.0
+glc__D_p + pep_c --> g6p_c + pyr_c	-44.9599878709	-42.5767396143	-42.5767396143	1.78536504717
+glc__D_p + h_p --> glc__D_c + h_c	0.0	0.0	0.0	0.0
+glc__D_e <=> glc__D_p	0.0	0.0	0.0	0.0
+glc__D_e --> glc__D_p	0.0	0.0	0.0	0.0
+bglycogen_c --> glycogen_c	nan	nan	nan	0.0
+atp_c + g1p_c + h_c --> adpglc_c + ppi_c	nan	nan	nan	0.0
+atp_c + glu__L_c + nh4_c --> adp_c + gln__L_c + h_c + pi_c	nan	nan	nan	0.0
+atp_c + gln__L_c + trnagln_c --> amp_c + glntrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + gln__L_p + h2o_c --> adp_c + gln__L_c + h_c + pi_c	nan	nan	nan	0.0
+gln__L_e <=> gln__L_p	0.0	0.0	0.0	0.0
+galt1p_c + nad_c <=> h_c + nadh_c + tag6p__D_c	58.9731340447	15.5288009141	15.5288009141	1.56731216007
+atp_c + glu__L_c --> adp_c + glu5p_c	15.2589000028	17.2728288272	17.2728288272	1.50994960569
+4abut_c + glu__L_p <=> 4abut_p + glu__L_c	0.0	0.0	0.0	0.0
+atp_c + cys__L_c + glu__L_c --> adp_c + glucys_c + h_c + pi_c	nan	nan	nan	0.0
+glu__L_c + h_c --> 4abut_c + co2_c	nan	nan	nan	0.0
+glu__L_c + h2o_c + nadp_c <=> akg_c + h_c + nadph_c + nh4_c	nan	nan	nan	0.0
+gln__L_c + h2o_c --> glu__L_c + nh4_c	nan	nan	nan	0.0
+gln__L_p + h2o_p --> glu__L_p + nh4_p	nan	nan	nan	0.0
+gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c	nan	nan	nan	0.0
+glu__D_c <=> glu__L_c	0.0	0.0	0.0	0.0
+akg_c + gln__L_c + h_c + nadph_c --> 2.0 glu__L_c + nadp_c	-87.6876280251	-40.544874994	-40.544874994	3.60051097071
+glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c	nan	nan	nan	0.0
+atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + glu__L_p + h2o_c --> adp_c + glu__L_c + h_c + pi_c	nan	nan	nan	0.0
+glu__L_p + h_p <=> glu__L_c + h_c	0.0	0.0	0.0	0.0
+glu__L_p + na1_p --> glu__L_c + na1_c	0.0	0.0	0.0	0.0
+glu__L_e <=> glu__L_p	0.0	0.0	0.0	0.0
+2.0 glx_c + h_c --> 2h3oppan_c + co2_c	nan	nan	nan	0.0
+glyald_e <=> glyald_p	0.0	0.0	0.0	0.0
+glyald_p <=> glyald_c	0.0	0.0	0.0	0.0
+accoa_c + gly_c <=> 2aobut_c + coa_c	27.4812562942	25.2452970583	25.2452970583	2.39155809752
+atp_c + glyb_p + h2o_c --> adp_c + glyb_c + h_c + pi_c	nan	nan	nan	0.0
+glyb_p + h_p --> glyb_c + h_c	0.0	0.0	0.0	0.0
+glyb_e <=> glyb_p	0.0	0.0	0.0	0.0
+glyc2p_e <=> glyc2p_p	0.0	0.0	0.0	0.0
+atp_c + glyc3p_p + h2o_c --> adp_c + glyc3p_c + h_c + pi_c	nan	nan	nan	0.0
+glyc3p_p + pi_c --> glyc3p_c + pi_p	0.0	0.0	0.0	0.0
+glyc3p_e <=> glyc3p_p	0.0	0.0	0.0	0.0
+glyc__R_p + h_p <=> glyc__R_c + h_c	0.0	0.0	0.0	0.0
+glyc__R_e <=> glyc__R_p	0.0	0.0	0.0	0.0
+glyc_c + nad_c --> dha_c + h_c + nadh_c	65.5091535624	21.9892832174	21.9892832174	0.566822681812
+atp_c + glyc__R_c --> 3pg_c + adp_c + h_c	24.4401503703	-18.2448498945	-18.2448498945	1.11098227219
+atp_c + glyc__R_c --> 2pg_c + adp_c + h_c	29.2484209025	-13.3668495007	-13.3668495007	1.35280954701
+gly_c + nad_c + thf_c --> co2_c + mlthf_c + nadh_c + nh4_c	nan	nan	nan	0.0
+glx_c + h_c + nadh_c --> glyclt_c + nad_c	-67.9864380503	-24.4668525211	-24.4668525211	0.963789276767
+glx_c + h_c + nadph_c --> glyclt_c + nadp_c	-67.9864380503	-22.0235160562	-22.0235160562	0.963789276767
+glyclt_p + h_p <=> glyclt_c + h_c	0.0	0.0	0.0	0.0
+glyclt_p + na1_p --> glyclt_c + na1_c	0.0	0.0	0.0	0.0
+glyclt_e <=> glyclt_p	0.0	0.0	0.0	0.0
+glyclt_c + q8_c --> glx_c + q8h2_c	nan	nan	nan	0.0
+glyclt_c + mqn8_c --> glx_c + mql8_c	nan	nan	nan	0.0
+2dmmq8_c + glyclt_c --> 2dmmql8_c + glx_c	nan	nan	nan	0.0
+glyc_e <=> glyc_p	0.0	0.0	0.0	0.0
+glyc_c <=> glyc_p	0.0	0.0	0.0	0.0
+atp_c + glyc_c --> adp_c + glyc3p_c + h_c	24.4401503703	-15.8815385091	-15.8815385091	1.11098227219
+h2o_c + lgt__S_c --> gthrd_c + h_c + lac__D_c	nan	nan	nan	0.0
+h2o_c + mthgxl_c --> h_c + lac__D_c	nan	nan	nan	0.0
+atp_c + gly_c + trnagly_c --> amp_c + glytrna_c + ppi_c	nan	nan	nan	0.0
+gly_p + h_p --> gly_c + h_c	0.0	0.0	0.0	0.0
+gly_p + na1_p --> gly_c + na1_c	0.0	0.0	0.0	0.0
+gly_e <=> gly_p	0.0	0.0	0.0	0.0
+gdpmann_c --> gdpddman_c + h2o_c	nan	nan	nan	0.0
+atp_c + gmhep1p_c + h_c --> adphep_DD_c + ppi_c	nan	nan	nan	0.0
+atp_c + gmhep7p_c --> adp_c + gmhep17bp_c + h_c	nan	nan	nan	0.0
+gmhep17bp_c + h2o_c --> gmhep1p_c + pi_c	nan	nan	nan	0.0
+gmp_c + 2.0 h_c + nadph_c --> imp_c + nadp_c + nh4_c	nan	nan	nan	0.0
+atp_c + gln__L_c + h2o_c + xmp_c --> amp_c + glu__L_c + gmp_c + 2.0 h_c + ppi_c	nan	nan	nan	0.0
+gmp_e <=> gmp_p	0.0	0.0	0.0	0.0
+6pgc_c + nadp_c --> co2_c + nadph_c + ru5p__D_c	nan	nan	nan	0.0
+atp_c + glcn_c --> 6pgc_c + adp_c + h_c	24.4401503703	-18.2805121391	-18.2805121391	1.11098227219
+gdpofuc_c + h_c + nadph_c --> gdpfuc_c + nadp_c	-51.1910925992	-5.22777967718	-5.22777967718	2.42447303445
+gp4g_c + h2o_c --> 2.0 gdp_c + 2.0 h_c	nan	nan	nan	0.0
+g3pc_c + h2o_c --> chol_c + glyc3p_c + h_c	nan	nan	nan	0.0
+g3pc_p + h2o_p --> chol_p + glyc3p_p + h_p	nan	nan	nan	0.0
+g3pe_c + h2o_c --> etha_c + glyc3p_c + h_c	nan	nan	nan	0.0
+g3pe_p + h2o_p --> etha_p + glyc3p_p + h_p	nan	nan	nan	0.0
+g3ps_c + h2o_c --> glyc3p_c + h_c + ser__L_c	nan	nan	nan	0.0
+g3ps_p + h2o_p --> glyc3p_p + h_p + ser__L_p	nan	nan	nan	0.0
+g3pg_c + h2o_c --> glyc3p_c + glyc_c + h_c	nan	nan	nan	0.0
+g3pg_p + h2o_p --> glyc3p_p + glyc_p + h_p	nan	nan	nan	0.0
+g3pi_c + h2o_c --> glyc3p_c + h_c + inost_c	nan	nan	nan	0.0
+g3pi_p + h2o_p --> glyc3p_p + h_p + inost_p	nan	nan	nan	0.0
+grdp_c + ipdp_c --> frdp_c + ppi_c	nan	nan	nan	0.0
+grxox_c + 2.0 gthrd_c --> grxrd_c + gthox_c	nan	nan	nan	0.0
+atp_c + gsn_c --> adp_c + gmp_c + h_c	24.4401503703	-15.7076126519	-15.7076126519	1.11098227219
+gsn_p + h_p --> gsn_c + h_c	0.0	0.0	0.0	0.0
+gsn_e <=> gsn_p	0.0	0.0	0.0	0.0
+gtspmd_c + h2o_c --> gthrd_c + spmd_c	nan	nan	nan	0.0
+atp_c + gthrd_c + spmd_c --> adp_c + gtspmd_c + h_c + pi_c	nan	nan	nan	0.0
+gthox_e <=> gthox_p	0.0	0.0	0.0	0.0
+gthox_c + h_c + nadph_c <=> 2.0 gthrd_c + nadp_c	nan	nan	nan	0.0
+gthrd_p + h2o_p --> cgly_p + glu__L_p	nan	nan	nan	0.0
+atp_c + gthrd_c + h2o_c --> adp_c + gthrd_p + h_c + pi_c	nan	nan	nan	0.0
+atp_c + gthrd_p + h2o_c --> adp_c + gthrd_c + h_c + pi_c	nan	nan	nan	0.0
+gthrd_e <=> gthrd_p	nan	nan	nan	0.0
+atp_c + glucys_c + gly_c --> adp_c + gthrd_c + h_c + pi_c	nan	nan	nan	0.0
+gtp_c + h2o_c --> ahdt_c + for_c + h_c	nan	nan	nan	0.0
+gtp_c + 3.0 h2o_c --> 25drapp_c + for_c + 2.0 h_c + ppi_c	nan	nan	nan	0.0
+gdptp_c + h2o_c --> h_c + pi_c + ppgpp_c	nan	nan	nan	0.0
+atp_c + gtp_c --> amp_c + gdptp_c + h_c	83.9550359058	-20.550825849	-20.550825849	13.5212599338
+gtp_c + h2o_c + h_c --> nh4_c + xtp_c	nan	nan	nan	0.0
+gtp_e <=> gtp_p	0.0	0.0	0.0	0.0
+gua_c + h2o_c + h_c --> nh4_c + xan_c	nan	nan	nan	0.0
+gua_c + prpp_c --> gmp_c + ppi_c	nan	nan	nan	0.0
+gua_p + h_p --> gua_c + h_c	0.0	0.0	0.0	0.0
+gua_e <=> gua_p	0.0	0.0	0.0	0.0
+gua_p <=> gua_c	0.0	0.0	0.0	0.0
+glcur_c <=> fruur_c	0.636058378937	0.631171177367	0.631171177367	0.891234087714
+galur_c <=> tagur_c	nan	nan	nan	0.0
+glcur1p_p + h2o_p --> glcur_p + pi_p	nan	nan	nan	0.0
+h2o2_e <=> h2o2_p	0.0	0.0	0.0	0.0
+h2o_e <=> h2o_p	0.0	0.0	0.0	0.0
+h2o_p <=> h2o_c	0.0	0.0	0.0	0.0
+h2s_c + 2.0 o2_c --> 2.0 h_c + so4_c	nan	nan	nan	0.0
+h2s_c --> h2s_p	0.0	0.0	0.0	0.0
+h2s_e <=> h2s_p	0.0	0.0	0.0	0.0
+h2_e <=> h2_p	0.0	0.0	0.0	0.0
+h2_p <=> h2_c	0.0	0.0	0.0	0.0
+3hbcoa_c + nad_c --> aacoa_c + h_c + nadh_c	65.5091535624	21.9906949637	21.9906949637	0.566822681812
+3hhcoa_c + nad_c --> 3ohcoa_c + h_c + nadh_c	65.5091535624	21.9569475336	21.9569475336	0.566822681812
+3hocoa_c + nad_c --> 3oocoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+3hdcoa_c + nad_c --> 3odcoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+3hddcoa_c + nad_c --> 3oddcoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+3htdcoa_c + nad_c --> 3otdcoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+3hhdcoa_c + nad_c --> 3ohdcoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+3hodcoa_c + nad_c --> 3ohodcoa_c + h_c + nadh_c	65.5091535624	21.9280054454	21.9280054454	0.566822681812
+4hbz_c + octdp_c --> 3ophb_c + ppi_c	nan	nan	nan	0.0
+3hcinnm_p + h_p <=> 3hcinnm_c + h_c	0.0	0.0	0.0	0.0
+3hcinnm_e <=> 3hcinnm_p	0.0	0.0	0.0	0.0
+co2_c + h2o_c <=> h_c + hco3_c	nan	nan	nan	0.0
+amet_c + hcys__L_c --> ahcys_c + h_c + met__L_c	44.1822995071	3.11599660279	3.11599660279	195996.398775
+hcys__L_c + mmet_c --> h_c + 2.0 met__L_c	44.1822995071	3.10633340812	3.10633340812	195996.398775
+hdca_e --> hdca_p	0.0	0.0	0.0	0.0
+hdcea_e --> hdcea_p	0.0	0.0	0.0	0.0
+hdcoa_c --> hdd2coa_c	nan	nan	nan	0.0
+frdp_c + h2o_c + pheme_c --> hemeO_c + ppi_c	nan	nan	nan	0.0
+atp_c + hhlipa_c --> adp_c + h_c + phhlipa_c	nan	nan	nan	0.0
+atp_c + hphhlipa_c --> adp_c + h_c + phphhlipa_c	nan	nan	nan	0.0
+adphep_LD_c + lipa_c --> adp_c + h_c + hlipa_c	nan	nan	nan	0.0
+adphep_LD_c + hlipa_c --> adp_c + h_c + hhlipa_c	nan	nan	nan	0.0
+adphep_LD_c + phhlipa_c --> adp_c + h_c + hphhlipa_c	nan	nan	nan	0.0
+adphep_LD_c + gggagicolipa_c --> adp_c + colipa_c + h_c	nan	nan	nan	0.0
+4mhetz_c + atp_c --> 4mpetz_c + adp_c + h_c	24.4401503703	-15.9613866457	-15.9613866457	1.11098227219
+atp_c + glc__D_c --> adp_c + g6p_c + h_c	24.4401503703	-15.7936945165	-15.7936945165	1.11098227219
+atp_c + man_c --> adp_c + h_c + man6p_c	24.4401503703	-15.7936945165	-15.7936945165	1.11098227219
+atp_c + fru_c --> adp_c + f6p_c + h_c	24.4401503703	-15.7985045874	-15.7985045874	1.11098227219
+h_p + hxa_p <=> h_c + hxa_c	0.0	0.0	0.0	0.0
+atp_c + h2o_c + hg2_c --> adp_c + h_c + hg2_p + pi_c	nan	nan	nan	0.0
+h_p + hg2_c --> h_c + hg2_p	0.0	0.0	0.0	0.0
+hg2_e <=> hg2_p	0.0	0.0	0.0	0.0
+h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his__L_c + 2.0 nadh_c	nan	nan	nan	0.0
+h2o_c + hisp_c --> histd_c + pi_c	nan	nan	nan	0.0
+atp_c + his__L_c + trnahis_c --> amp_c + histrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + his__L_p --> adp_c + h_c + his__L_c + pi_c	nan	nan	nan	0.0
+h_p + his__L_p <=> h_c + his__L_c	0.0	0.0	0.0	0.0
+his__L_e <=> his__L_p	0.0	0.0	0.0	0.0
+h2o_c + hkndd_c --> h_c + op4en_c + succ_c	nan	nan	nan	0.0
+h2o_c + hkntd_c --> fum_c + h_c + op4en_c	nan	nan	nan	0.0
+h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c	nan	nan	nan	0.0
+4ahmmp_c + atp_c --> 4ampm_c + adp_c + h_c	24.4401503703	-15.653787096	-15.653787096	1.11098227219
+h_p + hom__L_c --> h_c + hom__L_p	0.0	0.0	0.0	0.0
+hom__L_e <=> hom__L_p	0.0	0.0	0.0	0.0
+4h2opntn_c --> acald_c + pyr_c	5.43149067749	5.43153236749	-11.6833051672	1.50486603949
+6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c + h_c	24.4401503703	-15.3956631115	-15.3956631115	1.11098227219
+dhpppn_c + o2_c --> h_c + hkndd_c	nan	nan	nan	0.0
+3hpppn_p + h_p <=> 3hpppn_c + h_c	0.0	0.0	0.0	0.0
+3hpppn_e <=> 3hpppn_p	0.0	0.0	0.0	0.0
+hpyr_c <=> 2h3oppan_c	2.47728448792	2.47719279345	2.47719279345	0.997582757377
+h_c + hpyr_c + nadh_c --> glyc__R_c + nad_c	-65.5091535624	-21.9895024811	-21.9895024811	0.566822681812
+h_c + hpyr_c + nadph_c --> glyc__R_c + nadp_c	-65.5091535624	-19.5461660162	-19.5461660162	0.566822681812
+hom__L_c + nadp_c <=> aspsa_c + h_c + nadph_c	67.9864380503	22.0008817233	22.0008817233	0.963789276767
+atp_c + hom__L_c --> adp_c + h_c + phom_c	24.4401503703	-16.1127980181	-16.1127980181	1.11098227219
+hom__L_c + succoa_c --> coa_c + suchms_c	-10.0738561594	-5.22650306021	-5.22650306021	3.13423909884
+glu__L_c + imacp_c --> akg_c + hisp_c	0.0	-0.346038323054	-0.346038323054	0.0
+h2o_c + hxan_c + nad_c --> h_c + nadh_c + xan_c	nan	nan	nan	0.0
+hxa_e <=> hxa_p	0.0	0.0	0.0	0.0
+accoa_c + hxa_c --> ac_c + hxcoa_c	0.0	-0.0262667596103	-0.0262667596103	0.0
+hxan_c + prpp_c --> imp_c + ppi_c	nan	nan	nan	0.0
+h2_c + 2.0 h_c + q8_c --> 2.0 h_p + q8h2_c	nan	nan	nan	0.0
+h2_c + 2.0 h_c + mqn8_c --> 2.0 h_p + mql8_c	nan	nan	nan	0.0
+2dmmq8_c + h2_c + 2.0 h_c --> 2dmmql8_c + 2.0 h_p	nan	nan	nan	0.0
+h2o_c + pyam5p_c --> pi_c + pydam_c	nan	nan	nan	0.0
+hxan_e <=> hxan_p	0.0	0.0	0.0	0.0
+hxan_p <=> hxan_c	0.0	0.0	0.0	0.0
+h_e <=> h_p	0.0	0.0	0.0	0.0
+icit_c + nadp_c <=> akg_c + co2_c + nadph_c	nan	nan	nan	0.0
+chor_c <=> ichor_c	0.0	4.10651927609e-05	4.10651927609e-05	0.0
+chor_c --> ichor_c	0.0	4.10651927609e-05	4.10651927609e-05	0.0
+h2o_c + ichor_c --> 23ddhb_c + pyr_c	nan	nan	nan	0.0
+icit_c --> glx_c + succ_c	2.74975286677	5.17880555807	-11.9360319767	1.86875844626
+5dglcn_c + h_c + nadh_c <=> idon__L_c + nad_c	-65.5091535624	-21.9825782804	-21.9825782804	0.566822681812
+5dglcn_c + h_c + nadph_c --> idon__L_c + nadp_c	-65.5091535624	-19.5392418155	-19.5392418155	0.566822681812
+h_p + idon__L_p <=> h_c + idon__L_c	0.0	0.0	0.0	0.0
+idon__L_e <=> idon__L_p	0.0	0.0	0.0	0.0
+gln__L_c + prlp_c --> aicar_c + eig3p_c + glu__L_c + h_c	14.0004128502	-27.1889631536	-44.3038006884	195996.398621
+eig3p_c --> h2o_c + imacp_c	nan	nan	nan	0.0
+2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c	nan	nan	nan	0.0
+akg_c + ile__L_c <=> 3mop_c + glu__L_c	0.0	1.20886588221	1.20886588221	0.0
+atp_c + ile__L_c + trnaile_c --> amp_c + iletrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + ile__L_p --> adp_c + h_c + ile__L_c + pi_c	nan	nan	nan	0.0
+h_p + ile__L_p <=> h_c + ile__L_c	0.0	0.0	0.0	0.0
+ile__L_e <=> ile__L_p	0.0	0.0	0.0	0.0
+h2o_c + imp_c <=> fprica_c	nan	nan	nan	0.0
+h2o_c + imp_c + nad_c --> h_c + nadh_c + xmp_c	nan	nan	nan	0.0
+imp_e <=> imp_p	0.0	0.0	0.0	0.0
+h_c + indole_c --> h_p + indole_p	0.0	0.0	0.0	0.0
+h_p + indole_p <=> h_c + indole_c	0.0	0.0	0.0	0.0
+indole_e <=> indole_p	0.0	0.0	0.0	0.0
+inost_p + na1_p --> inost_c + na1_c	0.0	0.0	0.0	0.0
+h2o_c + ins_c --> hxan_c + rib__D_c	nan	nan	nan	0.0
+atp_c + ins_c --> adp_c + h_c + imp_c	24.4401503703	-15.7934348002	-15.7934348002	1.11098227219
+inost_e <=> inost_p	0.0	0.0	0.0	0.0
+h_p + ins_p --> h_c + ins_c	0.0	0.0	0.0	0.0
+h_p + ins_p <=> h_c + ins_c	0.0	0.0	0.0	0.0
+ins_e <=> ins_p	0.0	0.0	0.0	0.0
+ipdp_c <=> dmpp_c	-1.46169388042	-1.46169269052	-1.46169269052	2.9208458489
+h2mb4p_c + h_c + nadh_c --> h2o_c + ipdp_c + nad_c	nan	nan	nan	0.0
+3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c	65.5091535624	22.0078590806	22.0078590806	0.566822681812
+3c2hmp_c <=> 2ippm_c + h2o_c	nan	nan	nan	0.0
+2ippm_c + h2o_c <=> 3c3hmp_c	nan	nan	nan	0.0
+3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c	nan	nan	nan	0.0
+atp_c + h2o_c + isetac_p --> adp_c + h_c + isetac_c + pi_c	nan	nan	nan	0.0
+isetac_e <=> isetac_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + kdo2lipid4_c --> adp_c + h_c + kdo2lipid4_p + pi_c	nan	nan	nan	0.0
+kdo2lipid4_p --> kdo2lipid4_e	0.0	0.0	0.0	0.0
+23dhmb_c + nadp_c <=> alac__S_c + h_c + nadph_c	65.5091535624	19.5462477268	19.5462477268	0.566822681812
+2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c	-65.5091535624	-19.5463253339	-19.5463253339	0.566822681812
+acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c	nan	nan	nan	0.0
+accoa_c + h_c + malACP_c --> actACP_c + co2_c + coa_c	nan	nan	nan	0.0
+aacoa_c + coa_c --> 2.0 accoa_c	-24.7995184835	-24.7599422452	-24.7599422452	1.965139881
+3ohcoa_c + coa_c --> accoa_c + btcoa_c	-24.7995184835	-24.7310315499	-24.7310315499	1.965139881
+3oocoa_c + coa_c --> accoa_c + hxcoa_c	-24.7995184835	-24.7340085808	-24.7340085808	1.965139881
+3odcoa_c + coa_c --> accoa_c + occoa_c	-24.7995184835	-24.72818602	-24.72818602	1.965139881
+3oddcoa_c + coa_c --> accoa_c + dcacoa_c	-24.7995184835	-24.72818602	-24.72818602	1.965139881
+3otdcoa_c + coa_c --> accoa_c + ddcacoa_c	-24.7995184835	-24.72818602	-24.72818602	1.965139881
+3ohdcoa_c + coa_c --> accoa_c + tdcoa_c	-24.7995184835	-24.72818602	-24.72818602	1.965139881
+3ohodcoa_c + coa_c --> accoa_c + pmtcoa_c	-24.7995184835	-24.72818602	-24.72818602	1.965139881
+ctp_c + kdo_c --> ckdo_c + ppi_c	nan	nan	nan	0.0
+h2o_c + kdo8p_c --> kdo_c + pi_c	nan	nan	nan	0.0
+ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c	nan	nan	nan	0.0
+3dhgulnp_c + h_c --> co2_c + xu5p__L_c	nan	nan	nan	0.0
+atp_c + h2o_c + k_p --> adp_c + h_c + k_c + pi_c	nan	nan	nan	0.0
+h_p + k_p --> h_c + k_c	0.0	0.0	0.0	0.0
+h_p + k_c --> h_c + k_p	0.0	0.0	0.0	0.0
+k_e <=> k_p	0.0	0.0	0.0	0.0
+colipa_p + uLa4n_p --> acolipa_p + udcpp_p	nan	nan	nan	0.0
+h2o_c + lcts_c --> gal_c + glc__D_c	nan	nan	nan	0.0
+h2o_p + lcts_p --> gal_p + glc__D_p	nan	nan	nan	0.0
+LalaDgluMdap_c + h2o_c --> 26dap__M_c + LalaDglu_c	nan	nan	nan	0.0
+h_c + mthgxl_c + nadh_c --> lald__D_c + nad_c	-65.5091535624	-21.9892837201	-21.9892837201	0.566822681812
+LalaLglu_c + h2o_c --> ala__L_c + glu__L_c	nan	nan	nan	0.0
+h2o_c + lald__L_c + nad_c --> 2.0 h_c + lac__L_c + nadh_c	nan	nan	nan	0.0
+h_c + lald__D_c + nadh_c <=> 12ppd__R_c + nad_c	-67.9864380503	-24.4665682081	-24.4665682081	0.963789276767
+h_c + lald__L_c + nadh_c <=> 12ppd__S_c + nad_c	-67.9864380503	-24.4665682081	-24.4665682081	0.963789276767
+h_p + lcts_c --> h_c + lcts_p	0.0	0.0	0.0	0.0
+lcts_e <=> lcts_p	0.0	0.0	0.0	0.0
+h_p + lcts_p <=> h_c + lcts_c	0.0	0.0	0.0	0.0
+lac__D_c + nad_c <=> h_c + nadh_c + pyr_c	65.5091535624	21.9897771949	21.9897771949	0.566822681812
+lac__D_c + q8_c --> pyr_c + q8h2_c	nan	nan	nan	0.0
+4mop_c + glu__L_c --> akg_c + leu__L_c	0.0	-1.21173088858	-1.21173088858	0.0
+atp_c + leu__L_c + trnaleu_c --> amp_c + leutrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + leu__L_p --> adp_c + h_c + leu__L_c + pi_c	nan	nan	nan	0.0
+h_p + leu__L_p <=> h_c + leu__L_c	0.0	0.0	0.0	0.0
+leu__L_e <=> leu__L_p	0.0	0.0	0.0	0.0
+gthrd_c + mthgxl_c --> lgt__S_c	nan	nan	nan	0.0
+atp_c + h2o_c + lipa_cold_c --> adp_c + h_c + lipa_cold_p + pi_c	nan	nan	nan	0.0
+colipa_e + h_e + hdca_e --> h2o_e + hacolipa_e	nan	nan	nan	0.0
+h_e + hdca_e + lipa_e --> h2o_e + halipa_e	nan	nan	nan	0.0
+atp_c + h2o_c + lipa_c --> adp_c + h_c + lipa_p + pi_c	nan	nan	nan	0.0
+lipa_p --> lipa_e	0.0	0.0	0.0	0.0
+lipidX_c + u23ga_c --> h_c + lipidAds_c + udp_c	nan	nan	nan	0.0
+1ddecg3p_p + h2o_p --> ddca_p + glyc3p_p + h_p	nan	nan	nan	0.0
+1tdecg3p_p + h2o_p --> glyc3p_p + h_p + ttdca_p	nan	nan	nan	0.0
+1tdec7eg3p_p + h2o_p --> glyc3p_p + h_p + ttdcea_p	nan	nan	nan	0.0
+1hdecg3p_p + h2o_p --> glyc3p_p + h_p + hdca_p	nan	nan	nan	0.0
+1hdec9eg3p_p + h2o_p --> glyc3p_p + h_p + hdcea_p	nan	nan	nan	0.0
+1odecg3p_p + h2o_p --> glyc3p_p + h_p + ocdca_p	nan	nan	nan	0.0
+1odec11eg3p_p + h2o_p --> glyc3p_p + h_p + ocdcea_p	nan	nan	nan	0.0
+1agpe120_p + h2o_p --> ddca_p + g3pe_p + h_p	nan	nan	nan	0.0
+1agpe140_p + h2o_p --> g3pe_p + h_p + ttdca_p	nan	nan	nan	0.0
+1agpe141_p + h2o_p --> g3pe_p + h_p + ttdcea_p	nan	nan	nan	0.0
+1agpe160_p + h2o_p --> g3pe_p + h_p + hdca_p	nan	nan	nan	0.0
+1agpe161_p + h2o_p --> g3pe_p + h_p + hdcea_p	nan	nan	nan	0.0
+1agpe180_p + h2o_p --> g3pe_p + h_p + ocdca_p	nan	nan	nan	0.0
+1agpe181_p + h2o_p --> g3pe_p + h_p + ocdcea_p	nan	nan	nan	0.0
+1agpg120_p + h2o_p --> ddca_p + g3pg_p + h_p	nan	nan	nan	0.0
+1agpg140_p + h2o_p --> g3pg_p + h_p + ttdca_p	nan	nan	nan	0.0
+1agpg141_p + h2o_p --> g3pg_p + h_p + ttdcea_p	nan	nan	nan	0.0
+1agpg160_p + h2o_p --> g3pg_p + h_p + hdca_p	nan	nan	nan	0.0
+1agpg161_p + h2o_p --> g3pg_p + h_p + hdcea_p	nan	nan	nan	0.0
+1agpg180_p + h2o_p --> g3pg_p + h_p + ocdca_p	nan	nan	nan	0.0
+1agpg181_p + h2o_p --> g3pg_p + h_p + ocdcea_p	nan	nan	nan	0.0
+2ddecg3p_c + h2o_c --> ddca_c + glyc3p_c + 2.0 h_c	nan	nan	nan	0.0
+2tdecg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + ttdca_c	nan	nan	nan	0.0
+2tdec7eg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + ttdcea_c	nan	nan	nan	0.0
+2hdecg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + hdca_c	nan	nan	nan	0.0
+2hdec9eg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + hdcea_c	nan	nan	nan	0.0
+2odecg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + ocdca_c	nan	nan	nan	0.0
+2odec11eg3p_c + h2o_c --> glyc3p_c + 2.0 h_c + ocdcea_c	nan	nan	nan	0.0
+2agpe120_c + pg120_c --> apg120_c + g3pe_c	nan	nan	nan	0.0
+2agpe140_c + pg140_c --> apg140_c + g3pe_c	nan	nan	nan	0.0
+2agpe141_c + pg141_c --> apg141_c + g3pe_c	nan	nan	nan	0.0
+2agpe160_c + pg160_c --> apg160_c + g3pe_c	nan	nan	nan	0.0
+2agpe161_c + pg161_c --> apg161_c + g3pe_c	nan	nan	nan	0.0
+2agpe180_c + pg180_c --> apg180_c + g3pe_c	nan	nan	nan	0.0
+2agpe181_c + pg181_c --> apg181_c + g3pe_c	nan	nan	nan	0.0
+2agpg120_c + pg120_c --> apg120_c + g3pg_c	nan	nan	nan	0.0
+2agpg140_c + pg140_c --> apg140_c + g3pg_c	nan	nan	nan	0.0
+2agpg141_c + pg141_c --> apg141_c + g3pg_c	nan	nan	nan	0.0
+2agpg160_c + pg160_c --> apg160_c + g3pg_c	nan	nan	nan	0.0
+2agpg161_c + pg161_c --> apg161_c + g3pg_c	nan	nan	nan	0.0
+2agpg180_c + pg180_c --> apg180_c + g3pg_c	nan	nan	nan	0.0
+2agpg181_c + pg181_c --> apg181_c + g3pg_c	nan	nan	nan	0.0
+2agpe120_c + h2o_c --> ddca_c + g3pe_c + h_c	nan	nan	nan	0.0
+2agpe140_c + h2o_c --> g3pe_c + h_c + ttdca_c	nan	nan	nan	0.0
+2agpe141_c + h2o_c --> g3pe_c + h_c + ttdcea_c	nan	nan	nan	0.0
+2agpe160_c + h2o_c --> g3pe_c + h_c + hdca_c	nan	nan	nan	0.0
+2agpe161_c + h2o_c --> g3pe_c + h_c + hdcea_c	nan	nan	nan	0.0
+2agpe180_c + h2o_c --> g3pe_c + h_c + ocdca_c	nan	nan	nan	0.0
+2agpe181_c + h2o_c --> g3pe_c + h_c + ocdcea_c	nan	nan	nan	0.0
+2agpg120_c + h2o_c --> ddca_c + g3pg_c + h_c	nan	nan	nan	0.0
+2agpg140_c + h2o_c --> g3pg_c + h_c + ttdca_c	nan	nan	nan	0.0
+2agpg141_c + h2o_c --> g3pg_c + h_c + ttdcea_c	nan	nan	nan	0.0
+2agpg160_c + h2o_c --> g3pg_c + h_c + hdca_c	nan	nan	nan	0.0
+2agpg161_c + h2o_c --> g3pg_c + h_c + hdcea_c	nan	nan	nan	0.0
+2agpg180_c + h2o_c --> g3pg_c + h_c + ocdca_c	nan	nan	nan	0.0
+2agpg181_c + h2o_c --> g3pg_c + h_c + ocdcea_c	nan	nan	nan	0.0
+nadp_c + ser__L_c <=> 2amsa_c + h_c + nadph_c	67.9864380503	19.6219647889	19.6219647889	0.963789276767
+h_c + lys__L_c --> 15dap_c + co2_c	nan	nan	nan	0.0
+atp_c + lys__L_c + trnalys_c --> amp_c + lystrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + lys__L_p --> adp_c + h_c + lys__L_c + pi_c	nan	nan	nan	0.0
+h_p + lys__L_p --> h_c + lys__L_c	0.0	0.0	0.0	0.0
+h_p + lys__L_c --> h_c + lys__L_p	0.0	0.0	0.0	0.0
+lys__L_e <=> lys__L_p	0.0	0.0	0.0	0.0
+lyx__L_c --> xylu__L_c	0.636058378937	0.633074996391	0.633074996391	0.891234087714
+h_p + lyx__L_p --> h_c + lyx__L_c	0.0	0.0	0.0	0.0
+lyx__L_e <=> lyx__L_p	0.0	0.0	0.0	0.0
+lac__L_c + q8_c --> pyr_c + q8h2_c	nan	nan	nan	0.0
+lac__L_c + mqn8_c --> mql8_c + pyr_c	nan	nan	nan	0.0
+h_p + lac__L_p <=> h_c + lac__L_c	0.0	0.0	0.0	0.0
+lac__L_e <=> lac__L_p	0.0	0.0	0.0	0.0
+mnl1p_c + nad_c <=> f6p_c + h_c + nadh_c	58.9731340447	15.5288009141	15.5288009141	1.56731216007
+h_c + malACP_c --> acACP_c + co2_c	nan	nan	nan	0.0
+mal__D_c + nad_c --> co2_c + nadh_c + pyr_c	nan	nan	nan	0.0
+2.0 h_p + mal__D_p --> 2.0 h_c + mal__D_c	0.0	0.0	0.0	0.0
+mal__D_e <=> mal__D_p	0.0	0.0	0.0	0.0
+accoa_c + glx_c + h2o_c --> coa_c + h_c + mal__L_c	nan	nan	nan	0.0
+accoa_c + malt_c <=> acmalt_c + coa_c	-10.0738561594	-10.1155720871	-10.1155720871	3.13423909884
+atp_c + h2o_c + malthx_p --> adp_c + h_c + malthx_c + pi_c	nan	nan	nan	0.0
+malthx_e --> malthx_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + maltpt_p --> adp_c + h_c + maltpt_c + pi_c	nan	nan	nan	0.0
+maltpt_e --> maltpt_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + malttr_p --> adp_c + h_c + malttr_c + pi_c	nan	nan	nan	0.0
+malttr_e --> malttr_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + maltttr_p --> adp_c + h_c + maltttr_c + pi_c	nan	nan	nan	0.0
+maltttr_e --> maltttr_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + malt_p --> adp_c + h_c + malt_c + pi_c	nan	nan	nan	0.0
+malt_p + pep_c --> malt6p_c + pyr_c	-44.9599878709	-42.576801759	-42.576801759	1.78536504717
+malt_e --> malt_p	0.0	0.0	0.0	0.0
+2.0 h_p + mal__L_p --> 2.0 h_c + mal__L_c	0.0	0.0	0.0	0.0
+3.0 h_p + mal__L_p --> 3.0 h_c + mal__L_c	0.0	0.0	0.0	0.0
+mal__L_e <=> mal__L_p	0.0	0.0	0.0	0.0
+gdp_c + h_c + man1p_c --> gdpmann_c + pi_c	nan	nan	nan	0.0
+man6p_c <=> f6p_c	0.636058378937	0.628195479998	0.628195479998	0.891234087714
+man6p_p + 2.0 pi_c --> man6p_c + 2.0 pi_p	0.0	0.0	0.0	0.0
+man6p_e <=> man6p_p	0.0	0.0	0.0	0.0
+mana_c + nad_c <=> fruur_c + h_c + nadh_c	58.9731340447	15.4479669821	15.4479669821	1.56731216007
+manglyc_p + pep_c --> man6pglyc_c + pyr_c	-44.9599878709	-45.0049241226	-45.0049241226	1.78536504717
+manglyc_e <=> manglyc_p	0.0	0.0	0.0	0.0
+h2o_c + man6pglyc_c --> glyc__R_c + man6p_c	nan	nan	nan	0.0
+man_p + pep_c --> man6p_c + pyr_c	-44.9599878709	-42.5767396143	-42.5767396143	1.78536504717
+man_e <=> man_p	0.0	0.0	0.0	0.0
+2mcit_c --> 2mcacn_c + h2o_c	nan	nan	nan	0.0
+micit_c <=> pyr_c + succ_c	1.85485333123	4.28676722295	-12.8280703118	2.29045413588
+h2o_c + oaa_c + ppcoa_c --> 2mcit_c + coa_c + h_c	nan	nan	nan	0.0
+ACP_c + malcoa_c <=> coa_c + malACP_c	nan	nan	nan	0.0
+cyan_c + mercppyr_c --> h_c + pyr_c + tcynt_c	nan	nan	nan	0.0
+murein5p5p_p --> ala__D_p + murein5px4p_p	nan	nan	nan	0.0
+murein5p5p_p --> alaala_p + murein5px3p_p	nan	nan	nan	0.0
+murein5p5p5p_p --> 2.0 ala__D_p + murein5px4px4p_p	nan	nan	nan	0.0
+h2o_p + murein5px4p_p --> ala__D_p + murein4px4p_p	nan	nan	nan	0.0
+h2o_p + murein5px4px4p_p --> ala__D_p + murein4px4px4p_p	nan	nan	nan	0.0
+h2o_p + murein5p5p_p --> ala__D_p + murein5p4p_p	nan	nan	nan	0.0
+h2o_p + murein5p4p_p --> ala__D_p + murein4p4p_p	nan	nan	nan	0.0
+h2o_p + murein5p3p_p --> ala__D_p + murein4p3p_p	nan	nan	nan	0.0
+h2o_p + murein4px4p_p --> murein4p4p_p	nan	nan	nan	0.0
+h2o_p + murein3px4p_p --> murein4p3p_p	nan	nan	nan	0.0
+h2o_p + murein5px4p_p --> murein5p4p_p	nan	nan	nan	0.0
+h2o_p + murein4px4px4p_p --> murein4px4p4p_p	nan	nan	nan	0.0
+mal__L_c + nad_c <=> h_c + nadh_c + oaa_c	65.5091535624	21.9969007207	21.9969007207	0.566822681812
+mal__L_c + q8_c --> oaa_c + q8h2_c	nan	nan	nan	0.0
+mal__L_c + mqn8_c --> mql8_c + oaa_c	nan	nan	nan	0.0
+5mdru1p_c --> dkmpp_c + h2o_c	nan	nan	nan	0.0
+mal__L_c + nad_c --> co2_c + nadh_c + pyr_c	nan	nan	nan	0.0
+mal__L_c + nadp_c --> co2_c + nadph_c + pyr_c	nan	nan	nan	0.0
+2mecdp_c + nadh_c --> h2mb4p_c + h2o_c + nad_c	nan	nan	nan	0.0
+2p4c2me_c --> 2mecdp_c + cmp_c	1813.84752012	1818.63305643	1801.51821889	195996.398789
+h_p + melib_p --> h_c + melib_c	0.0	0.0	0.0	0.0
+h_p + melib_c --> h_c + melib_p	0.0	0.0	0.0	0.0
+melib_e <=> melib_p	0.0	0.0	0.0	0.0
+2me4p_c + ctp_c + h_c --> 4c2me_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + met__L_c --> amet_c + pi_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + met__D_p --> adp_c + h_c + met__D_c + pi_c	nan	nan	nan	0.0
+met__D_e <=> met__D_p	0.0	0.0	0.0	0.0
+h2o2_c + met__L_c --> h2o_c + metsox_S__L_c	nan	nan	nan	0.0
+h2o2_c + met__L_c --> h2o_c + metsox_R__L_c	nan	nan	nan	0.0
+5mthf_c + hcys__L_c --> h_c + met__L_c + thf_c	-77.0425207813	-77.0971195648	-77.0971195648	12.0373966792
+atp_c + h2o_c + metsox_S__L_p --> adp_c + h_c + metsox_S__L_c + pi_c	nan	nan	nan	0.0
+metsox_S__L_e <=> metsox_S__L_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + metsox_R__L_p --> adp_c + h_c + metsox_R__L_c + pi_c	nan	nan	nan	0.0
+metsox_R__L_e <=> metsox_R__L_p	nan	nan	nan	0.0
+metsox_S__L_c + trdrd_c --> h2o_c + met__L_c + trdox_c	nan	nan	nan	0.0
+metsox_R__L_c + trdrd_c --> h2o_c + met__L_c + trdox_c	nan	nan	nan	0.0
+atp_c + met__L_c + trnamet_c --> amp_c + mettrna_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c + met__L_p --> adp_c + h_c + met__L_c + pi_c	nan	nan	nan	0.0
+met__L_e <=> met__L_p	0.0	0.0	0.0	0.0
+2.0 h_c + mg2_p <=> 2.0 h_p + mg2_c	0.0	0.0	0.0	0.0
+mg2_e <=> mg2_p	0.0	0.0	0.0	0.0
+mg2_p --> mg2_c	0.0	0.0	0.0	0.0
+atp_c + h2o_c + mg2_p --> adp_c + h_c + mg2_c + pi_c	nan	nan	nan	0.0
+dhap_c --> mthgxl_c + pi_c	nan	nan	nan	0.0
+h2o_c + mi1p__D_c --> inost_c + pi_c	nan	nan	nan	0.0
+2mcacn_c + h2o_c --> micit_c	nan	nan	nan	0.0
+minohp_e --> minohp_p	0.0	0.0	0.0	0.0
+h2o_p + murein5px4p_p --> alaala_p + murein3px4p_p	nan	nan	nan	0.0
+h2o_p + murein4p4p_p --> ala__D_p + murein4p3p_p	nan	nan	nan	0.0
+h2o_p + murein5p5p_p --> alaala_p + murein5p3p_p	nan	nan	nan	0.0
+h2o_p + murein4p3p_p --> ala__D_p + murein3p3p_p	nan	nan	nan	0.0
+h2o_p + murein5px3p_p --> alaala_p + murein3px3p_p	nan	nan	nan	0.0
+h2o_p + murein3px3p_p --> murein3p3p_p	nan	nan	nan	0.0
+h2o_p + murein5px3p_p --> murein5p3p_p	nan	nan	nan	0.0
+h2o_c + malttr_c --> glc__D_c + malt_c	nan	nan	nan	0.0
+h2o_c + maltttr_c --> glc__D_c + malttr_c	nan	nan	nan	0.0
+h2o_c + maltpt_c --> glc__D_c + maltttr_c	nan	nan	nan	0.0
+h2o_c + malthx_c --> glc__D_c + maltpt_c	nan	nan	nan	0.0
+h2o_c + malthp_c --> glc__D_c + malthx_c	nan	nan	nan	0.0
+murein4p4p_p --> 2.0 anhgm4p_p	nan	nan	nan	0.0
+murein4p3p_p --> anhgm3p_p + anhgm4p_p	nan	nan	nan	0.0
+murein3p3p_p --> 2.0 anhgm3p_p	nan	nan	nan	0.0
+murein4px4p4p_p --> anhgm4p_p + murein4px4p_p	nan	nan	nan	0.0
+maltpt_c + pi_c <=> g1p_c + maltttr_c	nan	nan	nan	0.0
+malthx_c + pi_c <=> g1p_c + maltpt_c	nan	nan	nan	0.0
+malthp_c + pi_c <=> g1p_c + malthx_c	nan	nan	nan	0.0
+h_c + mmcoa__S_c --> co2_c + ppcoa_c	nan	nan	nan	0.0
+mmcoa__R_c <=> mmcoa__S_c	0.0	0.0	0.0	0.0
+h_p + mmet_p --> h_c + mmet_c	0.0	0.0	0.0	0.0
+mmet_e <=> mmet_p	0.0	0.0	0.0	0.0
+succoa_c --> mmcoa__R_c	2.68173781072	2.68173781072	2.68173781072	1.85680825459
+h_p + mn2_c --> h_c + mn2_p	0.0	0.0	0.0	0.0
+mn2_p --> mn2_c	0.0	0.0	0.0	0.0
+h2o_c + man6p_c --> man_c + pi_c	nan	nan	nan	0.0
+mnl_p + pep_c --> mnl1p_c + pyr_c	-44.9599878709	-42.6604452265	-42.6604452265	1.78536504717
+mnl_e <=> mnl_p	0.0	0.0	0.0	0.0
+mana_c --> 2ddglcn_c + h2o_c	nan	nan	nan	0.0
+h_p + mn2_p --> h_c + mn2_c	0.0	0.0	0.0	0.0
+mn2_e <=> mn2_p	0.0	0.0	0.0	0.0
+ckdo_c + lipidA_c --> cmp_c + h_c + kdolipid4_c	-202.308622405	-249.614594187	-249.614594187	138590.382579
+ckdo_c + kdolipid4_c --> cmp_c + h_c + kdo2lipid4_c	-194.854172349	-243.391566593	-243.391566593	138590.382562
+ckdo_c + phphhlipa_c --> cmp_c + h_c + kphphhlipa_c	nan	nan	nan	0.0
+atp_c + h2o_c + mobd_p --> adp_c + h_c + mobd_c + pi_c	nan	nan	nan	0.0
+mobd_e <=> mobd_p	0.0	0.0	0.0	0.0
+3mob_c + h2o_c + mlthf_c --> 2dhp_c + thf_c	nan	nan	nan	0.0
+2.0 uaagmda_c --> 2.0 h_c + murein5p5p_p + 2.0 udcpdp_c	nan	nan	nan	0.0
+murein5p5p_p + uaagmda_c --> h_c + murein5p5p5p_p + udcpdp_c	nan	nan	nan	0.0
+atp_c + h2o_c + mso3_p --> adp_c + h_c + mso3_c + pi_c	nan	nan	nan	0.0
+mso3_e <=> mso3_p	0.0	0.0	0.0	0.0
+5mta_c + h2o_c --> 5mtr_c + ade_c	nan	nan	nan	0.0
+h2o_c + methf_c <=> 10fthf_c + h_c	nan	nan	nan	0.0
+mlthf_c + nadp_c <=> methf_c + nadph_c	9.08985721751	5.04782212749	5.04782212749	4.83857276028
+2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c	-20.6842189961	22.7432888658	22.7432888658	11.5299352629
+5mdr1p_c <=> 5mdru1p_c	-5.76730895057	-5.76519817807	-5.76519817807	2.36696113986
+5mtr_c + atp_c --> 5mdr1p_c + adp_c + h_c	31.8946004261	-8.33186438456	-8.33186438456	1.84468499367
+Nmtrp_c + h2o_c + o2_c --> fald_c + h2o2_c + trp__L_c	nan	nan	nan	0.0
+n2o_e <=> n2o_p	0.0	0.0	0.0	0.0
+n2o_p <=> n2o_c	0.0	0.0	0.0	0.0
+acg5sa_c + h2o_c --> ac_c + glu5sa_c	nan	nan	nan	0.0
+nac_e <=> nac_p	0.0	0.0	0.0	0.0
+nac_p --> nac_c	0.0	0.0	0.0	0.0
+h2o_c + nad_c --> amp_c + 2.0 h_c + nmn_c	nan	nan	nan	0.0
+h_c + mqn8_c + nadh_c --> mql8_c + nad_c	nan	nan	nan	0.0
+4.0 h_c + nadh_c + q8_c --> 3.0 h_p + nad_c + q8h2_c	nan	nan	nan	0.0
+4.0 h_c + mqn8_c + nadh_c --> 3.0 h_p + mql8_c + nad_c	nan	nan	nan	0.0
+2dmmq8_c + 4.0 h_c + nadh_c --> 2dmmql8_c + 3.0 h_p + nad_c	nan	nan	nan	0.0
+h_c + nadh_c + q8_c --> nad_c + q8h2_c	nan	nan	nan	0.0
+2dmmq8_c + h_c + nadh_c --> 2dmmql8_c + nad_c	nan	nan	nan	0.0
+atp_c + nad_c --> adp_c + h_c + nadp_c	31.8946004261	-10.6981623776	-10.6981623776	1.84468499367
+h2o_c + nad_c --> adprib_c + h_c + ncam_c	nan	nan	nan	0.0
+h_c + nadph_c + q8_c --> nadp_c + q8h2_c	nan	nan	nan	0.0
+h_c + mqn8_c + nadph_c --> mql8_c + nadp_c	nan	nan	nan	0.0
+2dmmq8_c + h_c + nadph_c --> 2dmmql8_c + nadp_c	nan	nan	nan	0.0
+h2o_c + nadp_c --> nad_c + pi_c	nan	nan	nan	0.0
+atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c	nan	nan	nan	0.0
+nad_c + nadph_c --> nadh_c + nadp_c	0.0	2.44333646491	2.44333646491	0.0
+atp_c + h2o_c + nac_c + prpp_c --> adp_c + nicrnt_c + pi_c + ppi_c	nan	nan	nan	0.0
+3.0 h_p + 2.0 na1_c --> 3.0 h_c + 2.0 na1_p	0.0	0.0	0.0	0.0
+2.0 h_p + na1_c --> 2.0 h_c + na1_p	0.0	0.0	0.0	0.0
+h_p + na1_c --> h_c + na1_p	0.0	0.0	0.0	0.0
+na1_e <=> na1_p	0.0	0.0	0.0	0.0
+atp_c + gdp_c <=> adp_c + gtp_c	0.0	0.0214470286891	0.0214470286891	0.0
+atp_c + udp_c <=> adp_c + utp_c	0.0	-1.05391490461	-1.05391490461	0.0
+atp_c + cdp_c <=> adp_c + ctp_c	0.0	-0.0292910780383	-0.0292910780383	0.0
+atp_c + dtdp_c <=> adp_c + dttp_c	0.0	-1.00320068714	-1.00320068714	0.0
+atp_c + dgdp_c <=> adp_c + dgtp_c	0.0	0.0285983085952	0.0285983085952	0.0
+atp_c + dudp_c <=> adp_c + dutp_c	0.0	-0.967956587736	-0.967956587736	0.0
+atp_c + dcdp_c <=> adp_c + dctp_c	0.0	0.0182591115637	0.0182591115637	0.0
+atp_c + dadp_c <=> adp_c + datp_c	0.0	7.95771060211e-05	7.95771060211e-05	0.0
+nh4_e <=> nh4_p	0.0	0.0	0.0	0.0
+nh4_p <=> nh4_c	0.0	0.0	0.0	0.0
+h_c + nadh_c + 2.0 no_c --> h2o_c + n2o_c + nad_c	nan	nan	nan	0.0
+atp_c + h2o_c + ni2_c --> adp_c + h_c + ni2_p + pi_c	nan	nan	nan	0.0
+h_p + ni2_c --> h_c + ni2_p	0.0	0.0	0.0	0.0
+ni2_e <=> ni2_p	0.0	0.0	0.0	0.0
+ni2_p --> ni2_c	0.0	0.0	0.0	0.0
+atp_c + h2o_c + ni2_p --> adp_c + h_c + ni2_c + pi_c	nan	nan	nan	0.0
+atp_c + h_c + nmn_c --> nad_c + ppi_c	nan	nan	nan	0.0
+h2o_c + nmn_c --> nh4_c + nicrnt_c	nan	nan	nan	0.0
+h2o_c + nmn_c --> h_c + ncam_c + r5p_c	nan	nan	nan	0.0
+nmn_p --> nmn_c	0.0	0.0	0.0	0.0
+h2o_c + nmn_p --> h_c + ncam_c + r5p_c	nan	nan	nan	0.0
+nmn_e <=> nmn_p	0.0	0.0	0.0	0.0
+h2o_c + ncam_c --> nac_c + nh4_c	nan	nan	nan	0.0
+atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c	nan	nan	nan	0.0
+dmbzid_c + nicrnt_c --> 5prdmbz_c + h_c + nac_c	41.3391158079	-0.633158736725	-0.633158736725	7.64541305052
+2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c	nan	nan	nan	0.0
+h_p + no2_p <=> h_c + no2_c	0.0	0.0	0.0	0.0
+no2_e <=> no2_p	0.0	0.0	0.0	0.0
+no3_p + q8h2_c --> h2o_p + no2_p + q8_c	nan	nan	nan	0.0
+2.0 h_c + no3_c + q8h2_c --> h2o_c + 2.0 h_p + no2_c + q8_c	nan	nan	nan	0.0
+mql8_c + no3_p --> h2o_p + mqn8_c + no2_p	nan	nan	nan	0.0
+2.0 h_c + mql8_c + no3_c --> h2o_c + 2.0 h_p + mqn8_c + no2_c	nan	nan	nan	0.0
+no2_c + no3_p --> no2_p + no3_c	0.0	0.0	0.0	0.0
+no3_e <=> no3_p	0.0	0.0	0.0	0.0
+nadh_c + 2.0 no_c + 2.0 o2_c --> h_c + nad_c + 2.0 no3_c	nan	nan	nan	0.0
+nadph_c + 2.0 no_c + 2.0 o2_c --> h_c + nadp_c + 2.0 no3_c	nan	nan	nan	0.0
+no_e <=> no_p	0.0	0.0	0.0	0.0
+no_p <=> no_c	0.0	0.0	0.0	0.0
+sbzcoa_c --> coa_c + dhna_c	-106.661915854	-101.845682303	-118.960519837	15.5048406825
+dump_c + h2o_c --> duri_c + pi_c	nan	nan	nan	0.0
+h2o_c + xmp_c --> pi_c + xtsn_c	nan	nan	nan	0.0
+h2o_p + xmp_p --> pi_p + xtsn_p	nan	nan	nan	0.0
+h2o_c + imp_c --> ins_c + pi_c	nan	nan	nan	0.0
+h2o_p + imp_p --> ins_p + pi_p	nan	nan	nan	0.0
+dimp_c + h2o_c --> din_c + pi_c	nan	nan	nan	0.0
+dimp_p + h2o_p --> din_p + pi_p	nan	nan	nan	0.0
+dump_p + h2o_p --> duri_p + pi_p	nan	nan	nan	0.0
+h2o_c + ump_c --> pi_c + uri_c	nan	nan	nan	0.0
+h2o_p + ump_p --> pi_p + uri_p	nan	nan	nan	0.0
+dcmp_c + h2o_c --> dcyt_c + pi_c	nan	nan	nan	0.0
+dcmp_p + h2o_p --> dcyt_p + pi_p	nan	nan	nan	0.0
+cmp_c + h2o_c --> cytd_c + pi_c	nan	nan	nan	0.0
+cmp_p + h2o_p --> cytd_p + pi_p	nan	nan	nan	0.0
+dtmp_c + h2o_c --> pi_c + thymd_c	nan	nan	nan	0.0
+dtmp_p + h2o_p --> pi_p + thymd_p	nan	nan	nan	0.0
+damp_c + h2o_c --> dad_2_c + pi_c	nan	nan	nan	0.0
+damp_p + h2o_p --> dad_2_p + pi_p	nan	nan	nan	0.0
+amp_c + h2o_c --> adn_c + pi_c	nan	nan	nan	0.0
+amp_p + h2o_p --> adn_p + pi_p	nan	nan	nan	0.0
+dgmp_c + h2o_c --> dgsn_c + pi_c	nan	nan	nan	0.0
+dgmp_p + h2o_p --> dgsn_p + pi_p	nan	nan	nan	0.0
+gmp_c + h2o_c --> gsn_c + pi_c	nan	nan	nan	0.0
+gmp_p + h2o_p --> gsn_p + pi_p	nan	nan	nan	0.0
+atp_c + h2o_c --> adp_c + h_c + pi_c	nan	nan	nan	0.0
+h2o_c + itp_c --> h_c + idp_c + pi_c	nan	nan	nan	0.0
+ditp_c + h2o_c --> didp_c + h_c + pi_c	nan	nan	nan	0.0
+h2o_c + xtp_c --> h_c + pi_c + xdp_c	nan	nan	nan	0.0
+gtp_c + h2o_c --> gdp_c + h_c + pi_c	nan	nan	nan	0.0
+gtp_p + h2o_p --> gdp_p + h_p + pi_p	nan	nan	nan	0.0
+ctp_c + h2o_c --> cdp_c + h_c + pi_c	nan	nan	nan	0.0
+dgtp_c + h2o_c --> dgmp_c + h_c + ppi_c	nan	nan	nan	0.0
+ditp_c + h2o_c --> dimp_c + h_c + ppi_c	nan	nan	nan	0.0
+h2o_c + xtp_c --> h_c + ppi_c + xmp_c	nan	nan	nan	0.0
+gtp_c + h2o_c --> gmp_c + h_c + ppi_c	nan	nan	nan	0.0
+dctp_c + h2o_c --> dcmp_c + h_c + ppi_c	nan	nan	nan	0.0
+ctp_c + h2o_c --> cmp_c + h_c + ppi_c	nan	nan	nan	0.0
+datp_c + h2o_c --> damp_c + h_c + ppi_c	nan	nan	nan	0.0
+atp_c + h2o_c --> amp_c + h_c + ppi_c	nan	nan	nan	0.0
+dttp_c + h2o_c --> dtmp_c + h_c + ppi_c	nan	nan	nan	0.0
+h2o_c + utp_c --> h_c + ppi_c + ump_c	nan	nan	nan	0.0
+h2o_c + itp_c --> h_c + imp_c + ppi_c	nan	nan	nan	0.0
+dgtp_c + h2o_c --> dgsn_c + pppi_c	nan	nan	nan	0.0
+gtp_c + h2o_c --> gsn_c + pppi_c	nan	nan	nan	0.0
+5.0 h_c + 3.0 nadh_c + no2_c --> 2.0 h2o_c + 3.0 nad_c + nh4_c	nan	nan	nan	0.0
+2.0 h_p + no2_p + 3.0 q8h2_c --> 2.0 h2o_p + nh4_p + 3.0 q8_c	nan	nan	nan	0.0
+2.0 h_p + 3.0 mql8_c + no2_p --> 2.0 h2o_p + 3.0 mqn8_c + nh4_p	nan	nan	nan	0.0
+o16a4colipa_p --> o16a4colipa_e	nan	nan	nan	0.0
+colipa_p + o16a4und_p --> h_p + o16a4colipa_p + udcpdp_p	nan	nan	nan	0.0
+2.0 o16aund_p --> h_p + o16a2und_p + udcpdp_p	nan	nan	nan	0.0
+o16a2und_p + o16aund_p --> h_p + o16a3und_p + udcpdp_p	nan	nan	nan	0.0
+o16a3und_p + o16aund_p --> h_p + o16a4und_p + udcpdp_p	nan	nan	nan	0.0
+accoa_c + ragund_c --> aragund_c + coa_c	nan	nan	nan	0.0
+o16aund_c --> o16aund_p	nan	nan	nan	0.0
+garagund_c + udpgalfur_c --> gfgaragund_c + h_c + udp_c	nan	nan	nan	0.0
+aragund_c + udpg_c --> garagund_c + h_c + udp_c	nan	nan	nan	0.0
+gfgaragund_c + udpg_c --> h_c + o16aund_c + udp_c	nan	nan	nan	0.0
+o2s_e <=> o2s_p	0.0	0.0	0.0	0.0
+o2_e <=> o2_p	0.0	0.0	0.0	0.0
+o2_p <=> o2_c	0.0	0.0	0.0	0.0
+h_c + oaa_c --> co2_c + pyr_c	nan	nan	nan	0.0
+2obut_c + coa_c --> for_c + ppcoa_c	nan	nan	nan	0.0
+cbp_c + orn_c <=> citr__L_c + h_c + pi_c	nan	nan	nan	0.0
+ocdca_e --> ocdca_p	0.0	0.0	0.0	0.0
+ocdcea_e --> ocdcea_p	0.0	0.0	0.0	0.0
+octa_e <=> octa_p	0.0	0.0	0.0	0.0
+frdp_c + 5.0 ipdp_c --> octdp_c + 5.0 ppi_c	nan	nan	nan	0.0
+odecoa_c --> od2coa_c	nan	nan	nan	0.0
+glu__L_c + ohpb_c <=> akg_c + phthr_c	0.0	0.941041585557	0.941041585557	0.0
+2ohph_c + amet_c --> 2omph_c + ahcys_c + h_c	29.2357781041	-11.8062624557	-11.8062624557	195996.39861
+2ombzl_c + amet_c --> 2ommbl_c + ahcys_c + h_c	nan	nan	nan	0.0
+3c4mop_c + h_c --> 4mop_c + co2_c	nan	nan	nan	0.0
+2ommbl_c + 0.5 o2_c --> 2omhmbl_c	nan	nan	nan	0.0
+2ommbl_c + 2.0 atp_c + 3.0 h2o_c + nad_c --> 2omhmbl_c + 2.0 adp_c + 3.0 h_c + nadh_c + 2.0 pi_c	nan	nan	nan	0.0
+h_c + orot5p_c --> co2_c + ump_c	nan	nan	nan	0.0
+2omph_c + 0.5 o2_c --> 2ombzl_c	nan	nan	nan	0.0
+2omph_c + 2.0 atp_c + 3.0 h2o_c + nad_c --> 2ombzl_c + 2.0 adp_c + 3.0 h_c + nadh_c + 2.0 pi_c	nan	nan	nan	0.0
+h2o_c + op4en_c --> 4h2opntn_c	nan	nan	nan	0.0
+3ophb_c + h_c --> 2oph_c + co2_c	nan	nan	nan	0.0
+2oph_c + 0.5 o2_c --> 2ohph_c	nan	nan	nan	0.0
+2oph_c + 2.0 atp_c + 3.0 h2o_c + nad_c --> 2ohph_c + 2.0 adp_c + 3.0 h_c + nadh_c + 2.0 pi_c	nan	nan	nan	0.0
+h_c + orn_c --> co2_c + ptrc_c	nan	nan	nan	0.0
+atp_c + h2o_c + orn_p --> adp_c + h_c + orn_c + pi_c	nan	nan	nan	0.0
+orn_e <=> orn_p	0.0	0.0	0.0	0.0
+2.0 h_p + orot_p --> 2.0 h_c + orot_c	0.0	0.0	0.0	0.0
+orot_e <=> orot_p	0.0	0.0	0.0	0.0
+orot5p_c + ppi_c <=> orot_c + prpp_c	nan	nan	nan	0.0
+oxur_c + pi_c --> cbp_c + oxam_c	nan	nan	nan	0.0
+akg_c + h_c + thmpp_c --> co2_c + ssaltpp_c	nan	nan	nan	0.0
+1pyr5c_c + 2.0 h2o_c + nad_c --> glu__L_c + h_c + nadh_c	nan	nan	nan	0.0
+1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c	-138.181248468	-49.8089872721	-49.8089872721	13.3948351043
+atp_c + h2o_c + pa120_c --> adp_c + h_c + pa120_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa140_c --> adp_c + h_c + pa140_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa141_c --> adp_c + h_c + pa141_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa160_c --> adp_c + h_c + pa160_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa161_c --> adp_c + h_c + pa161_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa180_c --> adp_c + h_c + pa180_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pa181_c --> adp_c + h_c + pa181_p + pi_c	nan	nan	nan	0.0
+h_p + pacald_p <=> h_c + pacald_c	0.0	0.0	0.0	0.0
+pacald_e <=> pacald_p	0.0	0.0	0.0	0.0
+atp_c + coa_c + pac_c --> amp_c + phaccoa_c + ppi_c	nan	nan	nan	0.0
+ala_B_c + atp_c + pant__R_c --> amp_c + h_c + pnto__R_c + ppi_c	nan	nan	nan	0.0
+h2o_c + pa120_c --> 12dgr120_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa120_p --> 12dgr120_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa140_c --> 12dgr140_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa140_p --> 12dgr140_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa141_c --> 12dgr141_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa141_p --> 12dgr141_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa160_c --> 12dgr160_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa160_p --> 12dgr160_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa161_c --> 12dgr161_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa161_p --> 12dgr161_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa180_c --> 12dgr180_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa180_p --> 12dgr180_p + pi_p	nan	nan	nan	0.0
+h2o_c + pa181_c --> 12dgr181_c + pi_c	nan	nan	nan	0.0
+h2o_p + pa181_p --> 12dgr181_p + pi_p	nan	nan	nan	0.0
+udcpp_c + ugmda_c --> uagmda_c + ump_c	0.0	-2.15910694822	-2.15910694822	0.0
+paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c	nan	nan	nan	0.0
+grxrd_c + paps_c --> grxox_c + 2.0 h_c + pap_c + so3_c	nan	nan	nan	0.0
+camp_c + h2o_c --> amp_c + h_c	nan	nan	nan	0.0
+coa_c + nad_c + pyr_c --> accoa_c + co2_c + nadh_c	nan	nan	nan	0.0
+nad_c + pdx5p_c --> h_c + nadh_c + pydx5p_c	67.9864380503	23.3984427199	23.3984427199	0.963789276767
+o2_c + pdx5p_c --> h2o2_c + pydx5p_c	nan	nan	nan	0.0
+dxyl5p_c + nad_c + phthr_c --> co2_c + 2.0 h2o_c + h_c + nadh_c + pdx5p_c + pi_c	nan	nan	nan	0.0
+h2o_c + pdx5p_c --> pi_c + pydxn_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe120_c --> adp_c + h_c + pe120_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe140_c --> adp_c + h_c + pe140_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe141_c --> adp_c + h_c + pe141_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe160_c --> adp_c + h_c + pe160_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe161_c --> adp_c + h_c + pe161_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe180_c --> adp_c + h_c + pe180_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pe181_c --> adp_c + h_c + pe181_p + pi_c	nan	nan	nan	0.0
+h2o_p + o2_p + peamn_p --> h2o2_p + nh4_p + pacald_p	nan	nan	nan	0.0
+peamn_e <=> peamn_p	0.0	0.0	0.0	0.0
+4per_c + nad_c <=> h_c + nadh_c + ohpb_c	65.5091535624	22.0232211418	22.0232211418	0.566822681812
+lipa_p + pe161_p --> 12dgr161_p + enlipa_p	nan	nan	nan	0.0
+lipa_p + pe181_p --> 12dgr181_p + enlipa_p	nan	nan	nan	0.0
+atp_c + f6p_c --> adp_c + fdp_c + h_c	24.4401503703	-20.5729363855	-20.5729363855	1.11098227219
+atp_c + tag6p__D_c --> adp_c + h_c + tagdp__D_c	24.4401503703	-20.5729363855	-20.5729363855	1.11098227219
+coa_c + pyr_c --> accoa_c + for_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg120_c --> adp_c + h_c + pg120_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg140_c --> adp_c + h_c + pg140_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg141_c --> adp_c + h_c + pg141_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg160_c --> adp_c + h_c + pg160_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg161_c --> adp_c + h_c + pg161_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg180_c --> adp_c + h_c + pg180_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pg181_c --> adp_c + h_c + pg181_p + pi_c	nan	nan	nan	0.0
+gam1p_c <=> gam6p_c	-7.45445005582	-7.78336103491	-7.78336103491	1.54799758574
+3pg_c + nad_c --> 3php_c + h_c + nadh_c	65.5091535624	22.0386256547	22.0386256547	0.566822681812
+g6p_c <=> f6p_c	0.636058378937	0.628195479998	0.628195479998	0.891234087714
+3pg_c + atp_c <=> 13dpg_c + adp_c	15.2589000028	14.9886613008	14.9886613008	1.50994960569
+6pgl_c + h2o_c --> 6pgc_c + h_c	nan	nan	nan	0.0
+2pglyc_c + h2o_c --> glyclt_c + pi_c	nan	nan	nan	0.0
+2pg_c <=> 3pg_c	-4.80827053225	-4.87800039383	-4.87800039383	1.06777007953
+g1p_c <=> g6p_c	-7.45445005582	-7.46182060595	-7.46182060595	1.54799758574
+atp_c + h2o_c + pgp120_c --> adp_c + h_c + pgp120_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp140_c --> adp_c + h_c + pgp140_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp141_c --> adp_c + h_c + pgp141_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp160_c --> adp_c + h_c + pgp160_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp161_c --> adp_c + h_c + pgp161_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp180_c --> adp_c + h_c + pgp180_p + pi_c	nan	nan	nan	0.0
+atp_c + h2o_c + pgp181_c --> adp_c + h_c + pgp181_p + pi_c	nan	nan	nan	0.0
+h2o_c + pgp120_c --> pg120_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp120_p --> pg120_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp140_c --> pg140_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp140_p --> pg140_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp141_c --> pg141_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp141_p --> pg141_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp160_c --> pg160_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp160_p --> pg160_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp161_c --> pg161_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp161_p --> pg161_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp180_c --> pg180_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp180_p --> pg180_p + pi_p	nan	nan	nan	0.0
+h2o_c + pgp181_c --> pg181_c + pi_c	nan	nan	nan	0.0
+h2o_p + pgp181_p --> pg181_p + pi_p	nan	nan	nan	0.0
+cdpdddecg_c + glyc3p_c --> cmp_c + h_c + pgp120_c	nan	nan	nan	0.0
+cdpdtdecg_c + glyc3p_c --> cmp_c + h_c + pgp140_c	nan	nan	nan	0.0
+cdpdtdec7eg_c + glyc3p_c --> cmp_c + h_c + pgp141_c	nan	nan	nan	0.0
+cdpdhdecg_c + glyc3p_c --> cmp_c + h_c + pgp160_c	nan	nan	nan	0.0
+cdpdhdec9eg_c + glyc3p_c --> cmp_c + h_c + pgp161_c	nan	nan	nan	0.0
+cdpdodecg_c + glyc3p_c --> cmp_c + h_c + pgp180_c	nan	nan	nan	0.0
+cdpdodec11eg_c + glyc3p_c --> cmp_c + h_c + pgp181_c	nan	nan	nan	0.0
+atp_c + h2o_c + pheme_c --> adp_c + h_c + pheme_p + pi_c	nan	nan	nan	0.0
+pheme_p --> pheme_e	0.0	0.0	0.0	0.0
+akg_c + phe__L_c <=> glu__L_c + phpyr_c	0.0	1.21517083398	1.21517083398	0.0
+atp_c + phe__L_c + trnaphe_c --> amp_c + phetrna_c + ppi_c	nan	nan	nan	0.0
+h_p + phe__L_p <=> h_c + phe__L_c	0.0	0.0	0.0	0.0
+phe__L_e <=> phe__L_p	0.0	0.0	0.0	0.0
+6.0 h2o_p + minohp_p --> inost_p + 6.0 pi_p	nan	nan	nan	0.0
+h_p + pi_p <=> h_c + pi_c	0.0	0.0	0.0	0.0
+pi_e <=> pi_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + pi_p --> adp_c + h_c + 2.0 pi_c	nan	nan	nan	0.0
+h2o_p + pa120_p --> 2ddecg3p_p + ddca_p	nan	nan	nan	0.0
+h2o_p + pa140_p --> 2tdecg3p_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pa141_p --> 2tdec7eg3p_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pa160_p --> 2hdecg3p_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pa161_p --> 2hdec9eg3p_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pa180_p --> 2odecg3p_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pa181_p --> 2odec11eg3p_p + ocdcea_p	nan	nan	nan	0.0
+h2o_p + pe120_p --> 2agpe120_p + ddca_p + h_p	nan	nan	nan	0.0
+h2o_p + pe140_p --> 2agpe140_p + h_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pe141_p --> 2agpe141_p + h_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pe160_p --> 2agpe160_p + h_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pe161_p --> 2agpe161_p + h_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pe180_p --> 2agpe180_p + h_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pe181_p --> 2agpe181_p + h_p + ocdcea_p	nan	nan	nan	0.0
+h2o_p + pg120_p --> 2agpg120_p + ddca_p + h_p	nan	nan	nan	0.0
+h2o_p + pg140_p --> 2agpg140_p + h_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pg141_p --> 2agpg141_p + h_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pg160_p --> 2agpg160_p + h_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pg161_p --> 2agpg161_p + h_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pg180_p --> 2agpg180_p + h_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pg181_p --> 2agpg181_p + h_p + ocdcea_p	nan	nan	nan	0.0
+h2o_p + pa120_p --> 1ddecg3p_p + ddca_p + h_p	nan	nan	nan	0.0
+h2o_p + pa140_p --> 1tdecg3p_p + h_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pa141_p --> 1tdec7eg3p_p + h_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pa160_p --> 1hdecg3p_p + h_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pa161_p --> 1hdec9eg3p_p + h_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pa180_p --> 1odecg3p_p + h_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pa181_p --> 1odec11eg3p_p + h_p + ocdcea_p	nan	nan	nan	0.0
+h2o_p + pe120_p --> 1agpe120_p + ddca_p + h_p	nan	nan	nan	0.0
+h2o_p + pe140_p --> 1agpe140_p + h_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pe141_p --> 1agpe141_p + h_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pe160_p --> 1agpe160_p + h_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pe161_p --> 1agpe161_p + h_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pe180_p --> 1agpe180_p + h_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pe181_p --> 1agpe181_p + h_p + ocdcea_p	nan	nan	nan	0.0
+h2o_p + pg120_p --> 1agpg120_p + ddca_p + h_p	nan	nan	nan	0.0
+h2o_p + pg140_p --> 1agpg140_p + h_p + ttdca_p	nan	nan	nan	0.0
+h2o_p + pg141_p --> 1agpg141_p + h_p + ttdcea_p	nan	nan	nan	0.0
+h2o_p + pg160_p --> 1agpg160_p + h_p + hdca_p	nan	nan	nan	0.0
+h2o_p + pg161_p --> 1agpg161_p + h_p + hdcea_p	nan	nan	nan	0.0
+h2o_p + pg180_p --> 1agpg180_p + h_p + ocdca_p	nan	nan	nan	0.0
+h2o_p + pg181_p --> 1agpg181_p + h_p + ocdcea_p	nan	nan	nan	0.0
+man1p_c <=> man6p_c	-7.45445005582	-7.46182060595	-7.46182060595	1.54799758574
+5aprbu_c + h2o_c --> 4r5au_c + pi_c	nan	nan	nan	0.0
+4ampm_c + atp_c --> 2mahmp_c + adp_c	-44.7646961518	-1.60185007532	-1.60185007532	0.698011490678
+atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c	24.4401503703	-18.3964970134	-18.3964970134	1.11098227219
+na1_p + pnto__R_p --> na1_c + pnto__R_c	0.0	0.0	0.0	0.0
+pnto__R_e <=> pnto__R_p	0.0	0.0	0.0	0.0
+h2o_c + pyr_c + q8_c --> ac_c + co2_c + q8h2_c	nan	nan	nan	0.0
+h2o_c + ppi_c --> h_c + 2.0 pi_c	nan	nan	nan	0.0
+h2o_c + pppi_c --> h_c + pi_c + ppi_c	nan	nan	nan	0.0
+adp_c + ppap_c <=> atp_c + ppa_c	-15.2589000028	-17.3260124848	-17.3260124848	1.50994960569
+ppal_e <=> ppal_p	0.0	0.0	0.0	0.0
+ppal_c <=> ppal_p	0.0	0.0	0.0	0.0
+na1_p + ppa_p --> na1_c + ppa_c	0.0	0.0	0.0	0.0
+ppa_e <=> ppa_p	0.0	0.0	0.0	0.0
+2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c	nan	nan	nan	0.0
+co2_c + h2o_c + pep_c --> h_c + oaa_c + pi_c	nan	nan	nan	0.0
+4ppcys_c + h_c --> co2_c + pan4p_c	nan	nan	nan	0.0
+atp_c + oaa_c --> adp_c + co2_c + pep_c	nan	nan	nan	0.0
+ppcoa_c + succ_c --> ppa_c + succoa_c	0.0	-3.60781181341	-3.60781181341	0.0
+h2o_c + ppgpp_c --> gdp_c + ppi_c	nan	nan	nan	0.0
+atp_c + ppi_c <=> adp_c + pppi_c	nan	nan	nan	0.0
+atp_c + pi_c <=> adp_c + ppi_c	nan	nan	nan	0.0
+r1p_c <=> r5p_c	-7.45445005582	-7.46181659715	-7.46181659715	1.54799758574
+2dr1p_c <=> 2dr5p_c	-7.45445005582	-7.40633573846	-7.40633573846	1.54799758574
+4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cmp_c + h_c + ppi_c	nan	nan	nan	0.0
+nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c	nan	nan	nan	0.0
+h_c + pphn_c --> co2_c + h2o_c + phpyr_c	nan	nan	nan	0.0
+1.5 o2_c + pppg9_c --> 3.0 h2o_c + ppp9_c	nan	nan	nan	0.0
+3.0 fum_c + pppg9_c --> ppp9_c + 3.0 succ_c	nan	nan	nan	0.0
+h_c + nadh_c + o2_c + pppn_c --> cechddd_c + nad_c	nan	nan	nan	0.0
+h_p + pppn_p <=> h_c + pppn_c	0.0	0.0	0.0	0.0
+pppn_e <=> pppn_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + pyr_c --> amp_c + 2.0 h_c + pep_c + pi_c	nan	nan	nan	0.0
+h2o_p + ppt_p --> h2_p + pi_p	nan	nan	nan	0.0
+ppt_e <=> ppt_p	0.0	0.0	0.0	0.0
+atp_c + gly_c + pram_c <=> adp_c + gar_c + h_c + pi_c	nan	nan	nan	0.0
+atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c	nan	nan	nan	0.0
+pran_c --> 2cpr5p_c	-5.76730895057	-5.81607424981	-5.81607424981	2.36696113986
+h2o_c + prbamp_c --> prfp_c	nan	nan	nan	0.0
+5aizc_c + asp__L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c	nan	nan	nan	0.0
+h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c	nan	nan	nan	0.0
+atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + h_c + pi_c	nan	nan	nan	0.0
+prfp_c <=> prlp_c	-5.76730895057	-5.7534747221	-5.7534747221	2.36696113986
+fad_c + pro__L_c --> 1pyr5c_c + fadh2_c + h_c	63.6988211495	66.0366024389	66.0366024389	17.4273147952
+atp_c + h2o_c + progly_p --> adp_c + h_c + pi_c + progly_c	nan	nan	nan	0.0
+progly_e <=> progly_p	nan	nan	nan	0.0
+atp_c + pro__L_c + trnapro_c --> amp_c + ppi_c + protrna_c	nan	nan	nan	0.0
+atp_c + h2o_c + pro__L_p --> adp_c + h_c + pi_c + pro__L_c	nan	nan	nan	0.0
+h_p + pro__L_p <=> h_c + pro__L_c	0.0	0.0	0.0	0.0
+na1_p + pro__L_p --> na1_c + pro__L_c	0.0	0.0	0.0	0.0
+pro__L_e <=> pro__L_p	0.0	0.0	0.0	0.0
+atp_c + r5p_c <=> amp_c + h_c + prpp_c	31.8946004261	-14.9734018766	-14.9734018766	1.84468499367
+h_p + psclys_p --> h_c + psclys_c	nan	nan	nan	0.0
+psclys_e <=> psclys_p	nan	nan	nan	0.0
+pep_c + skm5p_c <=> 3psme_c + pi_c	nan	nan	nan	0.0
+h_c + ps120_c --> co2_c + pe120_c	nan	nan	nan	0.0
+h_c + ps140_c --> co2_c + pe140_c	nan	nan	nan	0.0
+h_c + ps141_c --> co2_c + pe141_c	nan	nan	nan	0.0
+h_c + ps160_c --> co2_c + pe160_c	nan	nan	nan	0.0
+h_c + ps161_c --> co2_c + pe161_c	nan	nan	nan	0.0
+h_c + ps180_c --> co2_c + pe180_c	nan	nan	nan	0.0
+h_c + ps181_c --> co2_c + pe181_c	nan	nan	nan	0.0
+3php_c + glu__L_c --> akg_c + pser__L_c	0.0	1.06913834821	1.06913834821	0.0
+pser__L_e <=> pser__L_p	0.0	0.0	0.0	0.0
+h2o_c + pser__L_c --> pi_c + ser__L_c	nan	nan	nan	0.0
+h2o_p + pser__L_p --> pi_p + ser__L_p	nan	nan	nan	0.0
+cdpdddecg_c + ser__L_c --> cmp_c + h_c + ps120_c	nan	nan	nan	0.0
+cdpdtdecg_c + ser__L_c --> cmp_c + h_c + ps140_c	nan	nan	nan	0.0
+cdpdtdec7eg_c + ser__L_c --> cmp_c + h_c + ps141_c	nan	nan	nan	0.0
+cdpdhdecg_c + ser__L_c --> cmp_c + h_c + ps160_c	nan	nan	nan	0.0
+cdpdhdec9eg_c + ser__L_c --> cmp_c + h_c + ps161_c	nan	nan	nan	0.0
+cdpdodecg_c + ser__L_c --> cmp_c + h_c + ps180_c	nan	nan	nan	0.0
+cdpdodec11eg_c + ser__L_c --> cmp_c + h_c + ps181_c	nan	nan	nan	0.0
+pi_c + ppcoa_c --> coa_c + ppap_c	nan	nan	nan	0.0
+accoa_c + pi_c <=> actp_c + coa_c	nan	nan	nan	0.0
+h2o_p + thrp_p --> pi_p + thr__L_p	nan	nan	nan	0.0
+atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c	nan	nan	nan	0.0
+orn_c + ptrc_p <=> orn_p + ptrc_c	0.0	0.0	0.0	0.0
+akg_c + ptrc_c --> 4abutn_c + glu__L_c	7.28555502017	10.9231235386	10.9231235386	1.34274989673
+atp_c + h2o_c + ptrc_p --> adp_c + h_c + pi_c + ptrc_c	nan	nan	nan	0.0
+h_p + ptrc_p --> h_c + ptrc_c	0.0	0.0	0.0	0.0
+ptrc_e <=> ptrc_p	0.0	0.0	0.0	0.0
+adn_c + pi_c <=> ade_c + r1p_c	nan	nan	nan	0.0
+dad_2_c + pi_c <=> 2dr1p_c + ade_c	nan	nan	nan	0.0
+gsn_c + pi_c <=> gua_c + r1p_c	nan	nan	nan	0.0
+dgsn_c + pi_c <=> 2dr1p_c + gua_c	nan	nan	nan	0.0
+ins_c + pi_c <=> hxan_c + r1p_c	nan	nan	nan	0.0
+din_c + pi_c <=> 2dr1p_c + hxan_c	nan	nan	nan	0.0
+pi_c + xtsn_c <=> r1p_c + xan_c	nan	nan	nan	0.0
+h2o_c + o2_c + pyam5p_c --> h2o2_c + nh4_c + pydx5p_c	nan	nan	nan	0.0
+atp_c + pydam_c --> adp_c + h_c + pyam5p_c	24.4401503703	-14.1674342124	-14.1674342124	1.11098227219
+atp_c + pydx_c --> adp_c + h_c + pydx5p_c	24.4401503703	-16.5558241251	-16.5558241251	1.11098227219
+atp_c + pydxn_c --> adp_c + h_c + pdx5p_c	24.4401503703	-16.0140598736	-16.0140598736	1.11098227219
+h2o_c + pydx5p_c --> pi_c + pydx_c	nan	nan	nan	0.0
+adp_c + h_c + pep_c --> atp_c + pyr_c	-69.4001382412	-26.7830450978	-26.7830450978	1.64001605229
+pi_c + uri_c <=> r1p_c + ura_c	nan	nan	nan	0.0
+h_p + pyr_p <=> h_c + pyr_c	0.0	0.0	0.0	0.0
+pyr_e <=> pyr_p	0.0	0.0	0.0	0.0
+2.0 o2_c + q8h2_c --> 2.0 h_c + 2.0 o2s_c + q8_c	nan	nan	nan	0.0
+mql8_c + 2.0 o2_c --> 2.0 h_c + mqn8_c + 2.0 o2s_c	nan	nan	nan	0.0
+dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c	nan	nan	nan	0.0
+atp_c + r15bp_c --> adp_c + prpp_c	-44.7646961518	-4.04446618118	-4.04446618118	0.698011490678
+atp_c + r1p_c --> adp_c + h_c + r15bp_c	24.4401503703	-20.5687224077	-20.5687224077	1.11098227219
+h2o_c + r5p_c --> pi_c + rib__D_c	nan	nan	nan	0.0
+h2o_p + r5p_p --> pi_p + rib__D_p	nan	nan	nan	0.0
+r5p_e <=> r5p_p	0.0	0.0	0.0	0.0
+atp_c + ribflv_c --> adp_c + fmn_c + h_c	-22.1319258386	-20.1471975467	-20.1471975467	11.1414075297
+4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c	nan	nan	nan	0.0
+2.0 dmlz_c --> 4r5au_c + ribflv_c	-203.889220033	-161.586885373	-161.586885373	44.1210930886
+atp_c + rib__D_c --> adp_c + h_c + r5p_c	24.4401503703	-15.7936829242	-15.7936829242	1.11098227219
+atp_c + rbl__L_c --> adp_c + h_c + ru5p__L_c	27.3811895404	-12.9255104113	-12.9255104113	2.0252596809
+ru5p__L_c <=> xu5p__D_c	0.0	0.0	0.0	0.0
+dtdprmn_c + kphphhlipa_c --> dtdp_c + h_c + icolipa_c	nan	nan	nan	0.0
+rhcys_c --> dhptd_c + hcys__L_c	-10.4057641187	-10.4106256105	-27.5254631452	4.63884466475
+atp_c + h2o_c + rib__D_p --> adp_c + h_c + pi_c + rib__D_c	nan	nan	nan	0.0
+rib__D_e <=> rib__D_p	0.0	0.0	0.0	0.0
+rmn_c <=> rml_c	7.17207789663	7.17022060746	7.17022060746	1.62508497245
+atp_c + rml_c --> adp_c + h_c + rml1p_c	24.4401503703	-15.7830107439	-15.7830107439	1.11098227219
+rmn_e <=> rmn_p	0.0	0.0	0.0	0.0
+h_p + rmn_p --> h_c + rmn_c	0.0	0.0	0.0	0.0
+rml1p_c <=> dhap_c + lald__L_c	7.55802339902	7.55666496711	-9.55817256761	1.75630486495
+adp_c + trdrd_c --> dadp_c + h2o_c + trdox_c	nan	nan	nan	0.0
+adp_c + grxrd_c --> dadp_c + grxox_c + h2o_c	nan	nan	nan	0.0
+gdp_c + trdrd_c --> dgdp_c + h2o_c + trdox_c	nan	nan	nan	0.0
+gdp_c + grxrd_c --> dgdp_c + grxox_c + h2o_c	nan	nan	nan	0.0
+cdp_c + trdrd_c --> dcdp_c + h2o_c + trdox_c	nan	nan	nan	0.0
+cdp_c + grxrd_c --> dcdp_c + grxox_c + h2o_c	nan	nan	nan	0.0
+trdrd_c + udp_c --> dudp_c + h2o_c + trdox_c	nan	nan	nan	0.0
+grxrd_c + udp_c --> dudp_c + grxox_c + h2o_c	nan	nan	nan	0.0
+atp_c + fldrd_c --> datp_c + fldox_c + h2o_c	nan	nan	nan	0.0
+fldrd_c + gtp_c --> dgtp_c + fldox_c + h2o_c	nan	nan	nan	0.0
+ctp_c + fldrd_c --> dctp_c + fldox_c + h2o_c	nan	nan	nan	0.0
+fldrd_c + utp_c --> dutp_c + fldox_c + h2o_c	nan	nan	nan	0.0
+ru5p__D_c <=> xu5p__D_c	0.0	0.0	0.0	0.0
+r5p_c <=> ru5p__D_c	1.68714110525	1.61129106494	1.61129106494	1.70493101971
+5prdmbz_c + h2o_c --> pi_c + rdmbzi_c	nan	nan	nan	0.0
+s7p_c --> gmhep7p_c	-7.17207789663	-7.12268514511	-7.12268514511	1.62508497245
+2.0 h2o_c + 2.0 h_c + sucarg_c --> co2_c + 2.0 nh4_c + sucorn_c	nan	nan	nan	0.0
+atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c	nan	nan	nan	0.0
+h2o_c + o2_c + sarcs_c --> fald_c + gly_c + h2o2_c	nan	nan	nan	0.0
+nad_c + sbt6p_c <=> f6p_c + h_c + nadh_c	58.9731340447	15.5288009141	15.5288009141	1.56731216007
+pep_c + sbt__D_p --> pyr_c + sbt6p_c	-44.9599878709	-42.6604452265	-42.6604452265	1.78536504717
+sbt__D_e <=> sbt__D_p	0.0	0.0	0.0	0.0
+h2o_c + sl26da_c --> 26dap_LL_c + succ_c	nan	nan	nan	0.0
+akg_c + sl26da_c <=> glu__L_c + sl2a6o_c	0.0	-1.18549138435	-1.18549138435	0.0
+selnp_c + sertrna_sec_c --> h_c + pi_c + sectrna_c	nan	nan	nan	0.0
+atp_c + h2o_c + seln_c --> amp_c + pi_c + selnp_c	nan	nan	nan	0.0
+atp_c + h_c + ser__L_c <=> ppi_c + seramp_c	nan	nan	nan	0.0
+accoa_c + ser__L_c <=> acser_c + coa_c	-10.0738561594	-10.1976901091	-10.1976901091	3.13423909884
+ser__D_c --> nh4_c + pyr_c	nan	nan	nan	0.0
+ser__L_c --> nh4_c + pyr_c	nan	nan	nan	0.0
+atp_c + ser__L_c + trnaser_c --> amp_c + ppi_c + sertrna_c	nan	nan	nan	0.0
+atp_c + ser__L_c + trnasecys_c --> amp_c + ppi_c + sertrna_sec_c	nan	nan	nan	0.0
+h_p + ser__L_p <=> h_c + ser__L_c	0.0	0.0	0.0	0.0
+na1_p + ser__L_p --> na1_c + ser__L_c	0.0	0.0	0.0	0.0
+ser__L_e <=> ser__L_p	0.0	0.0	0.0	0.0
+Sfglutth_c + h2o_c --> for_c + gthrd_c + h_c	nan	nan	nan	0.0
+h2o_c + sucglu_c --> glu__L_c + succ_c	nan	nan	nan	0.0
+h2o_c + nad_c + sucgsa_c --> 2.0 h_c + nadh_c + sucglu_c	nan	nan	nan	0.0
+ichor_c + ssaltpp_c --> 2shchc_c + pyr_c + thmpp_c	nan	nan	nan	0.0
+dscl_c + nad_c --> h_c + nadh_c + scl_c	nan	nan	nan	0.0
+fe2_c + scl_c --> 3.0 h_c + sheme_c	nan	nan	nan	0.0
+3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c	-92.8868708162	-46.9246802656	-46.9246802656	8.73711916623
+atp_c + skm_c --> adp_c + h_c + skm5p_c	31.8946004261	-10.7826076036	-10.7826076036	1.84468499367
+cys__L_c + suchms_c --> cyst__L_c + h_c + succ_c	-8.11725145664	-51.6422516933	-51.6422516933	5.34793346408
+h_p + skm_p --> h_c + skm_c	0.0	0.0	0.0	0.0
+skm_e <=> skm_p	0.0	0.0	0.0	0.0
+so2_e <=> so2_p	0.0	0.0	0.0	0.0
+so2_p <=> so2_c	0.0	0.0	0.0	0.0
+so3_e <=> so3_p	0.0	0.0	0.0	0.0
+so4_e <=> so4_p	0.0	0.0	0.0	0.0
+akg_c + sucorn_c --> glu__L_c + sucgsa_c	7.28555502017	7.3052036329	7.3052036329	1.34274989673
+accoa_c + spmd_c --> N1aspmd_c + coa_c + h_c	11.7452083673	-28.2138230909	-28.2138230909	2.42614877233
+accoa_c + spmd_c --> coa_c + h_c + n8aspmd_c	11.7452083673	-28.0901409171	-28.0901409171	2.42614877233
+atp_c + h2o_c + spmd_p --> adp_c + h_c + pi_c + spmd_c	nan	nan	nan	0.0
+spmd_e <=> spmd_p	0.0	0.0	0.0	0.0
+ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c	60.6629775355	18.339828274	18.339828274	195996.398773
+2.0 h_c + 2.0 o2s_c --> h2o2_c + o2_c	nan	nan	nan	0.0
+2.0 h_p + 2.0 o2s_p --> h2o2_p + o2_p	nan	nan	nan	0.0
+h2o_c + nad_c + sucsal_c --> 2.0 h_c + nadh_c + succ_c	nan	nan	nan	0.0
+h2o_c + nadp_c + sucsal_c --> 2.0 h_c + nadph_c + succ_c	nan	nan	nan	0.0
+atp_c + coa_c + sucbz_c --> amp_c + ppi_c + sbzcoa_c	nan	nan	nan	0.0
+2shchc_c --> h2o_c + sucbz_c	nan	nan	nan	0.0
+2.0 h_p + succ_p --> 2.0 h_c + succ_c	0.0	0.0	0.0	0.0
+3.0 h_p + succ_p --> 3.0 h_c + succ_c	0.0	0.0	0.0	0.0
+h_p + succ_c --> h_c + succ_p	0.0	0.0	0.0	0.0
+succ_e <=> succ_p	0.0	0.0	0.0	0.0
+q8_c + succ_c --> fum_c + q8h2_c	nan	nan	nan	0.0
+fum_p + succ_c <=> fum_c + succ_p	0.0	0.0	0.0	0.0
+atp_c + coa_c + succ_c <=> adp_c + pi_c + succoa_c	nan	nan	nan	0.0
+sucr_e <=> sucr_p	0.0	0.0	0.0	0.0
+pep_c + sucr_p --> pyr_c + suc6p_c	-44.9599878709	-42.5763773703	-42.5763773703	1.78536504717
+atp_c + h2o_c + sulfac_p --> adp_c + h_c + pi_c + sulfac_c	nan	nan	nan	0.0
+sulfac_e <=> sulfac_p	0.0	0.0	0.0	0.0
+5.0 h_c + 3.0 nadph_c + so3_c --> 3.0 h2o_c + h2s_c + 3.0 nadp_c	nan	nan	nan	0.0
+atp_c + h2o_c + so4_p --> adp_c + h_c + pi_c + so4_c	nan	nan	nan	0.0
+tdec2eACP_c <=> cdec3eACP_c	nan	nan	nan	0.0
+altrn_c + nad_c <=> h_c + nadh_c + tagur_c	58.9731340447	15.4479669821	15.4479669821	1.56731216007
+g3p_c + s7p_c <=> e4p_c + f6p_c	-6.53601951769	-6.44331844498	-6.44331844498	1.50772230561
+tartr__L_c --> h2o_c + oaa_c	nan	nan	nan	0.0
+succ_c + tartr__L_p <=> succ_p + tartr__L_c	0.0	0.0	0.0	0.0
+tartr__L_e <=> tartr__L_p	0.0	0.0	0.0	0.0
+akg_c + o2_c + taur_c --> aacald_c + co2_c + h_c + so3_c + succ_c	nan	nan	nan	0.0
+atp_c + h2o_c + taur_p --> adp_c + h_c + pi_c + taur_c	nan	nan	nan	0.0
+taur_e <=> taur_p	0.0	0.0	0.0	0.0
+tcynt_e <=> tcynt_p	0.0	0.0	0.0	0.0
+tdecoa_c --> td2coa_c	nan	nan	nan	0.0
+h2o_c + thmpp_c --> h_c + pi_c + thmmp_c	nan	nan	nan	0.0
+accoa_c + dtdp4addg_c --> coa_c + dtdp4aaddg_c + h_c	nan	nan	nan	0.0
+dtdp4d6dg_c + glu__L_c --> akg_c + dtdp4addg_c	16.9642404867	17.4910252674	17.4910252674	3.01820852691
+dtdp4d6dg_c --> dtdp4d6dm_c	0.0	0.0	0.0	0.0
+dtdp4d6dm_c + h_c + nadph_c --> dtdprmn_c + nadp_c	-51.1910925992	-5.22428969844	-5.22428969844	2.42447303445
+dtdpglu_c --> dtdp4d6dg_c + h2o_c	nan	nan	nan	0.0
+atp_c + lipidAds_c --> adp_c + h_c + lipidA_c	31.8946004261	-13.0911615742	-13.0911615742	1.84468499367
+dsbcox_p + dsbdrd_c --> dsbcrd_p + dsbdox_c	nan	nan	nan	0.0
+dsbdrd_c + dsbgox_p --> dsbdox_c + dsbgrd_p	nan	nan	nan	0.0
+tagdp__D_c <=> dhap_c + g3p_c	14.0940429167	18.8419607346	1.72712319984	1.34997784303
+2.0 h_p + nadh_c + nadp_c --> 2.0 h_c + nad_c + nadph_c	0.0	-2.44333646491	-2.44333646491	0.0
+h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c	nan	nan	nan	0.0
+h2o2_c + trdrd_c --> 2.0 h2o_c + trdox_c	nan	nan	nan	0.0
+h_p + thymd_p --> h_c + thymd_c	0.0	0.0	0.0	0.0
+h_p + thymd_p <=> h_c + thymd_c	0.0	0.0	0.0	0.0
+thymd_e <=> thymd_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + thm_p --> adp_c + h_c + pi_c + thm_c	nan	nan	nan	0.0
+thm_e <=> thm_p	0.0	0.0	0.0	0.0
+athr__L_c --> acald_c + gly_c	2.74975286677	2.77652305012	-14.3383144846	1.86875844626
+thr__L_c --> acald_c + gly_c	2.74975286677	2.77652305012	-14.3383144846	1.86875844626
+nad_c + thr__L_c --> 2aobut_c + h_c + nadh_c	65.5091535624	19.8218105952	19.8218105952	0.566822681812
+thr__L_c --> 2obut_c + nh4_c	nan	nan	nan	0.0
+thrp_e <=> thrp_p	0.0	0.0	0.0	0.0
+h2o_c + phom_c --> pi_c + thr__L_c	nan	nan	nan	0.0
+atp_c + thr__L_c + trnathr_c --> amp_c + ppi_c + thrtrna_c	nan	nan	nan	0.0
+atp_c + h2o_c + thr__L_p --> adp_c + h_c + pi_c + thr__L_c	nan	nan	nan	0.0
+h_p + thr__L_c --> h_c + thr__L_p	0.0	0.0	0.0	0.0
+h_p + thr__L_p <=> h_c + thr__L_c	0.0	0.0	0.0	0.0
+na1_p + thr__L_p --> na1_c + thr__L_c	0.0	0.0	0.0	0.0
+thr__L_e <=> thr__L_p	0.0	0.0	0.0	0.0
+h_p + thym_c --> h_c + thym_p	0.0	0.0	0.0	0.0
+thym_e <=> thym_p	0.0	0.0	0.0	0.0
+atp_c + cys__L_c + dxyl5p_c + tyr__L_c --> 4hba_c + 4mpetz_c + ala__L_c + amp_c + co2_c + h2o_c + h_c + ppi_c	nan	nan	nan	0.0
+r5p_c + xu5p__D_c <=> g3p_c + s7p_c	4.16442559317	4.06033158866	4.06033158866	1.8679117669
+e4p_c + xu5p__D_c <=> f6p_c + g3p_c	-6.53601951769	-6.4350415653	-6.4350415653	1.50772230561
+h_c + mql8_c + tmao_c --> h2o_c + mqn8_c + tma_c	nan	nan	nan	0.0
+h_p + mql8_c + tmao_p --> h2o_p + mqn8_c + tma_p	nan	nan	nan	0.0
+2dmmql8_c + h_c + tmao_c --> 2dmmq8_c + h2o_c + tma_c	nan	nan	nan	0.0
+2dmmql8_c + h_p + tmao_p --> 2dmmq8_c + h2o_p + tma_p	nan	nan	nan	0.0
+tmao_e <=> tmao_p	0.0	0.0	0.0	0.0
+tma_e <=> tma_p	0.0	0.0	0.0	0.0
+atp_c + thymd_c --> adp_c + dtmp_c + h_c	24.4401503703	-16.6616159087	-16.6616159087	1.11098227219
+pi_c + thymd_c <=> 2dr1p_c + thym_c	nan	nan	nan	0.0
+dump_c + mlthf_c --> dhf_c + dtmp_c	-50.5759615984	-50.4288848972	-50.4288848972	6.27232634904
+atp_c + thm_c --> adp_c + h_c + thmmp_c	24.4401503703	-13.4351383947	-13.4351383947	1.11098227219
+atp_c + thmmp_c --> adp_c + thmpp_c	-44.7646961518	-0.813553738046	-0.813553738046	0.698011490678
+2mahmp_c + 4mpetz_c + h_c --> ppi_c + thmmp_c	nan	nan	nan	0.0
+dhap_c <=> g3p_c	2.47728448792	2.42348397883	2.42348397883	0.997582757377
+atp_c + dpcoa_c --> 2tpr3dpcoa_c + ade_c	0.275250673849	-9.0408104381	-9.0408104381	2.95646202513
+h_c + nadph_c + trdox_c --> nadp_c + trdrd_c	-57.3820250641	-11.0794909554	-11.0794909554	6.63214522504
+h2o_c + tre6p_c --> g6p_c + glc__D_c	nan	nan	nan	0.0
+h2o_c + tre6p_c --> pi_c + tre_c	nan	nan	nan	0.0
+g6p_c + udpg_c --> h_c + tre6p_c + udp_c	-10.2584849981	-14.0720194163	-14.0720194163	2.93670812352
+h2o_c + tre_c --> 2.0 glc__D_c	nan	nan	nan	0.0
+h2o_p + tre_p --> 2.0 glc__D_p	nan	nan	nan	0.0
+pep_c + tre_p --> pyr_c + tre6p_c	-44.9599878709	-42.57635551	-42.57635551	1.78536504717
+tre_e <=> tre_p	0.0	0.0	0.0	0.0
+h2o_c + trp__L_c <=> indole_c + nh4_c + pyr_c	nan	nan	nan	0.0
+3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c	nan	nan	nan	0.0
+indole_c + ser__L_c --> h2o_c + trp__L_c	nan	nan	nan	0.0
+3ig3p_c --> g3p_c + indole_c	11.6065932183	11.6395587221	-5.47527881265	2.92830395604
+atp_c + trnatrp_c + trp__L_c --> amp_c + ppi_c + trptrna_c	nan	nan	nan	0.0
+h_p + trp__L_p <=> h_c + trp__L_c	0.0	0.0	0.0	0.0
+trp__L_e <=> trp__L_p	0.0	0.0	0.0	0.0
+2h3oppan_c + h_c + nadh_c <=> glyc__R_c + nad_c	-67.9864380503	-24.4666952746	-24.4666952746	0.963789276767
+atp_c + h2o_c + tsul_p --> adp_c + h_c + pi_c + tsul_c	nan	nan	nan	0.0
+tsul_e <=> tsul_p	0.0	0.0	0.0	0.0
+ttdca_e --> ttdca_p	0.0	0.0	0.0	0.0
+ttdcea_e --> ttdcea_p	nan	nan	nan	0.0
+atp_c + h2o_c + tungs_p --> adp_c + h_c + pi_c + tungs_c	nan	nan	nan	0.0
+tungs_e <=> tungs_p	0.0	0.0	0.0	0.0
+tym_e <=> tym_p	0.0	0.0	0.0	0.0
+h2o_p + o2_p + tym_p --> 4hoxpacd_p + h2o2_p + nh4_p	nan	nan	nan	0.0
+h2o_p + tyrp_p --> pi_p + tyr__L_p	nan	nan	nan	0.0
+tyrp_e <=> tyrp_p	0.0	0.0	0.0	0.0
+akg_c + tyr__L_c <=> 34hpp_c + glu__L_c	nan	nan	nan	0.0
+atp_c + trnatyr_c + tyr__L_c --> amp_c + ppi_c + tyrtrna_c	nan	nan	nan	0.0
+h_p + tyr__L_p <=> h_c + tyr__L_c	0.0	0.0	0.0	0.0
+tyr__L_e <=> tyr__L_p	0.0	0.0	0.0	0.0
+3hmrsACP_c + u3hga_c --> ACP_c + h_c + u23ga_c	nan	nan	nan	0.0
+26dap__M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c	nan	nan	nan	0.0
+h2o_p + udpacgal_p --> acgal1p_p + 2.0 h_p + ump_p	nan	nan	nan	0.0
+h2o_p + uacgam_p --> acgam1p_p + 2.0 h_p + ump_p	nan	nan	nan	0.0
+uacgam_e <=> uacgam_p	0.0	0.0	0.0	0.0
+h2o_c + 2.0 nad_c + uacmam_c --> 3.0 h_c + 2.0 nadh_c + uacmamu_c	nan	nan	nan	0.0
+uacgam_c <=> uacmam_c	0.0	0.0	0.0	0.0
+3hmrsACP_c + uacgam_c <=> ACP_c + u3aga_c	nan	nan	nan	0.0
+pep_c + uacgam_c --> pi_c + uaccg_c	nan	nan	nan	0.0
+acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c	nan	nan	nan	0.0
+uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c	-10.2584849981	-14.0633964061	-14.0633964061	2.93670812352
+atp_c + glu__D_c + uama_c --> adp_c + h_c + pi_c + uamag_c	nan	nan	nan	0.0
+ala__L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c	nan	nan	nan	0.0
+h_c + nadph_c + uaccg_c --> nadp_c + uamr_c	-105.660870901	-59.6555787598	-59.6555787598	1.72821752056
+h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c	nan	nan	nan	0.0
+frdp_c + 8.0 ipdp_c --> 8.0 ppi_c + udcpdp_c	nan	nan	nan	0.0
+h2o_p + udcpdp_p --> h_p + pi_p + udcpp_p	nan	nan	nan	0.0
+udcpp_p --> udcpp_c	0.0	0.0	0.0	0.0
+udpacgal_e <=> udpacgal_p	0.0	0.0	0.0	0.0
+udpg_c <=> udpgal_c	0.0	0.0	0.0	0.0
+udpgal_c --> udpgalfur_c	5.48493679138	5.48494408934	5.48494408934	1.87014276571
+h2o_p + udpgal_p --> gal1p_p + 2.0 h_p + ump_p	nan	nan	nan	0.0
+udpgal_e <=> udpgal_p	0.0	0.0	0.0	0.0
+h2o_c + 2.0 nad_c + udpg_c --> 3.0 h_c + 2.0 nadh_c + udpglcur_c	nan	nan	nan	0.0
+nad_c + udpglcur_c --> co2_c + nadh_c + udpLa4o_c	nan	nan	nan	0.0
+udpglcur_e <=> udpglcur_p	0.0	0.0	0.0	0.0
+h2o_p + udpg_p --> g1p_p + 2.0 h_p + ump_p	nan	nan	nan	0.0
+udpg_e <=> udpg_p	0.0	0.0	0.0	0.0
+glu__L_c + udpLa4o_c <=> akg_c + udpLa4n_c	nan	nan	nan	0.0
+h2o_p + udpglcur_p --> glcur1p_p + 2.0 h_p + ump_p	nan	nan	nan	0.0
+gal1p_c + udpg_c <=> g1p_c + udpgal_c	0.0	0.0	0.0	0.0
+h2o_c + 2.0 h_c + urdglyc_c --> co2_c + glx_c + 2.0 nh4_c	nan	nan	nan	0.0
+alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c	nan	nan	nan	0.0
+h2o_c + u3aga_c --> ac_c + u3hga_c	nan	nan	nan	0.0
+10fthf_c + udpLa4n_c --> h_c + thf_c + udpLa4fn_c	48.9888754408	5.00017481947	5.00017481947	9.42011515691
+uLa4n_c --> uLa4n_p	nan	nan	nan	0.0
+LalaDgluMdap_c + atp_c + uamr_c --> adp_c + h_c + pi_c + ugmd_c	nan	nan	nan	0.0
+h2o_c + um4p_c --> ala__D_c + ugmd_c	nan	nan	nan	0.0
+LalaDgluMdapDala_c + atp_c + uamr_c --> adp_c + h_c + pi_c + um4p_c	nan	nan	nan	0.0
+atp_c + ump_c <=> adp_c + udp_c	-44.7646961518	-2.9237501052	-2.9237501052	0.698011490678
+ump_e <=> ump_p	0.0	0.0	0.0	0.0
+2kmb_c + glu__L_c --> akg_c + met__L_c	nan	nan	nan	0.0
+h2o_c + uLa4fn_c --> for_c + uLa4n_c	nan	nan	nan	0.0
+udcpp_c + udpLa4fn_c --> uLa4fn_c + udp_c	nan	nan	nan	0.0
+2.0 amet_c + uppg3_c --> 2.0 ahcys_c + dscl_c + h_c	148.270463067	66.1284743631	66.1284743631	554361.534802
+hmbil_c --> h2o_c + uppg3_c	nan	nan	nan	0.0
+4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c	nan	nan	nan	0.0
+prpp_c + ura_c --> ppi_c + ump_c	nan	nan	nan	0.0
+h_p + ura_p --> h_c + ura_c	0.0	0.0	0.0	0.0
+h_p + ura_p <=> h_c + ura_c	0.0	0.0	0.0	0.0
+ura_e <=> ura_p	0.0	0.0	0.0	0.0
+nad_c + urdglyc_c --> h_c + nadh_c + oxur_c	-7.07713343398	-53.4135547733	-53.4135547733	5.22994167411
+urea_e <=> urea_p	0.0	0.0	0.0	0.0
+urea_p <=> urea_c	0.0	0.0	0.0	0.0
+2.0 h2o_c + o2_c + urate_c --> alltn_c + co2_c + h2o2_c	nan	nan	nan	0.0
+atp_c + dump_c <=> adp_c + dudp_c	-44.7646961518	-2.90999857415	-2.90999857415	0.698011490678
+h2o_c + uri_c --> rib__D_c + ura_c	nan	nan	nan	0.0
+gtp_c + uri_c --> gdp_c + h_c + ump_c	24.4401503703	-16.6844073404	-16.6844073404	1.11098227219
+h_p + uri_p --> h_c + uri_c	0.0	0.0	0.0	0.0
+h_p + uri_p <=> h_c + uri_c	0.0	0.0	0.0	0.0
+uri_e <=> uri_p	0.0	0.0	0.0	0.0
+h2o_c + u23ga_c --> 2.0 h_c + lipidX_c + ump_c	nan	nan	nan	0.0
+akg_c + val__L_c <=> 3mob_c + glu__L_c	0.0	1.20856977645	1.20856977645	0.0
+atp_c + trnaval_c + val__L_c --> amp_c + ppi_c + valtrna_c	nan	nan	nan	0.0
+atp_c + h2o_c + val__L_p --> adp_c + h_c + pi_c + val__L_c	nan	nan	nan	0.0
+h_p + val__L_p <=> h_c + val__L_c	0.0	0.0	0.0	0.0
+val__L_e <=> val__L_p	0.0	0.0	0.0	0.0
+3mob_c + ala__L_c --> pyr_c + val__L_c	0.0	0.00521309089356	0.00521309089356	0.0
+xu5p__L_c --> ru5p__L_c	0.0	0.0	0.0	0.0
+h2o_c + nad_c + xan_c --> h_c + nadh_c + urate_c	nan	nan	nan	0.0
+h_p + xan_p --> h_c + xan_c	0.0	0.0	0.0	0.0
+xan_e <=> xan_p	0.0	0.0	0.0	0.0
+xan_p <=> xan_c	0.0	0.0	0.0	0.0
+xmp_e <=> xmp_p	0.0	0.0	0.0	0.0
+prpp_c + xan_c --> ppi_c + xmp_c	nan	nan	nan	0.0
+h2o_c + xtsn_c --> rib__D_c + xan_c	nan	nan	nan	0.0
+h_p + xtsn_p <=> h_c + xtsn_c	0.0	0.0	0.0	0.0
+xtsn_e <=> xtsn_p	0.0	0.0	0.0	0.0
+xyl__D_c <=> xylu__D_c	0.636058378937	0.633074996391	0.633074996391	0.891234087714
+glc__D_c <=> fru_c	0.636058378937	0.633005550913	0.633005550913	0.891234087714
+atp_c + xylu__D_c --> adp_c + h_c + xu5p__D_c	27.3811895404	-12.9255104113	-12.9255104113	2.0252596809
+atp_c + xylu__L_c --> adp_c + h_c + xu5p__L_c	27.3811895404	-12.9255104113	-12.9255104113	2.0252596809
+h_p + xylu__L_p --> h_c + xylu__L_c	0.0	0.0	0.0	0.0
+xylu__L_e <=> xylu__L_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + xyl__D_p --> adp_c + h_c + pi_c + xyl__D_c	nan	nan	nan	0.0
+h_p + xyl__D_p --> h_c + xyl__D_c	0.0	0.0	0.0	0.0
+xyl__D_e <=> xyl__D_p	0.0	0.0	0.0	0.0
+atp_c + h2o_c + zn2_c --> adp_c + h_c + pi_c + zn2_p	nan	nan	nan	0.0
+h_p + zn2_c --> h_c + zn2_p	0.0	0.0	0.0	0.0
+zn2_p --> zn2_c	0.0	0.0	0.0	0.0
+atp_c + h2o_c + zn2_p --> adp_c + h_c + pi_c + zn2_c	nan	nan	nan	0.0
+zn2_e <=> zn2_p	0.0	0.0	0.0	0.0
